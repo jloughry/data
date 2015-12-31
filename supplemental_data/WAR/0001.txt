@@ -1,0 +1,23 @@
+Weekly activity report no. 20070927.01 sequence no. 0001 week -2
+
+These reports will be archived and available on the website, which is
+not set up yet.
+
+Scaffolding: As discussed in our initial meeting last week I am working
+on setting up an environment here in Oxford.  This includes status
+reporting; configuration management plan, tools, and procedures;
+documentation plan; software engineering plan; schedule; security;
+finances, and backups.  Hours on task this week (including required
+Oxford orientation meetings, but mainly working on tools & environment):
+44 hr.
+
+Reading: Barnes, "High Integrity Software: The SPARK Approach to Safety
+and Security" (2006); various blogs (Yegge, Marc, Spolsky) on software
+development.  Hours on task this week: 8 hr.
+
+Academics: looking at last term's Introduction to Z (email attachment).
+ Hours on task this week: < 1 hr.
+
+Outside work: Lockheed Martin hours billed this week: 19 hr.
+
+Joe Loughry

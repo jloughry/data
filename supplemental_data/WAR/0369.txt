@@ -1,0 +1,42 @@
+weekly activity report 369 (loughry)
+Joe Loughry
+Sent: 31 October 2014 05:50
+To: Ivan Flechais; Niki Trigoni; Andrew Martin; Joanna Ashbourn
+
+Weekly activity report no. 20141030.1945 (GMT-6) sequence no. 0369, week 3 MT
+
+I have been writing about the way the engineers on the programme responded
+to demands from the certification authority, instructions from the
+programme manager, and direction from the COTR; in light of technical
+problems, schedule, resources, and effort. The government's penetration
+testers are, for this purpose, equivalent to the developer's engineers
+(they behave the same, always). Both groups are characteristic of Mills'
+observations of 'scientists' in the 1940s; 'executives' are the same as
+in Mills' time, but there is no longer any equivalent of 'labour' in this
+mapping. (I thought I had a good comparison in the USAF's 'Big Safari',
+which successfully produced the RJ and Compass Call, but it didn't
+work.) The grounded theory is coming together.
+
+Reading group discussed last week's paper on robustness for OpenFlow
+controllers by Seungwon Shin, et al. (ACM CCS'14, to appear). OpenFlow
+controllers are like cross domain systems, in some ways, but different;
+they effect a hardware separation between the Control Plane and the Data
+Plane, and enforce separation, but at the same time expect that end users
+will want to run their own local monitoring and adaptive routing algorithms
+in the Control Plane, something that never happens in (existing) cross
+domain solutions.
+
+This week's reading group is on cryptography but I have to miss it. I read
+the paper anyway, on a blockwise chosen boundary attack against HTTPS. The
+attack requires at most 2^8 messages to a decryption oracle (via CSRF) in
+order to deduce m[1] of the payload, by using the chosen boundary attack
+to ensure that all but the last byte of block P are known (Duong and Rizzo,
+unpublished, 2011).
+
+Continuing to work in the basement of the public library; I make good
+progress when I can't get to email.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

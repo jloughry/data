@@ -1,0 +1,84 @@
+Weekly activity report no. 20090709.1959 (GMT+1) sequence no. 0092, week 8+3 TT
+
+The Security Reading Group field trip to Station X (Bletchley Park) on Wednesday
+was a great success.  A group photo was taken in front of the Turing Bombe and
+the Colossus Mk II.  We saw the room where Alan Turing worked on ciphers and
+almost touched the high speed paper tapes whizzing through his machine (not
+recommended unless you want to lose a finger to paper cuts).  I will post some
+pictures on a web page soon.
+
+In our regular weekly meeting today, Dr Martin and I talked about the first
+paper I am writing to introduce my thesis problem to a wider audience.  He gave
+me some good advice on how to say it, validated a couple of ideas I had, and
+listened while I tried to articulate what it is I want to explain.  I did not
+have the first draft of that paper finished this week as planned, but I think I
+can do so before our next meeting.  The missing piece I needed was a figure at
+the beginning of the paper to illustrate the overlapping and interlocking
+relationships.  I will base the rest of the paper around that figure, and also
+follow Dr Martin's advice in the conclusion.  We talked about writing style and
+presentation; I am going to try using an idea borrowed from Victorian novels
+that is nonetheless ideal for presenting some information I need to convey.  I
+think it will work.
+
+Plan for the next week is to finish the paper and abstract; my remaining plans
+to finish the Methodology chapter before I leave for America does not change.
+
+I was not satisfied with the progress I made last week; I must do better next
+week.  Part of the problem was my manager at Lockheed who called an urgent
+meeting last week to demand a detailed plan for the next three months because he
+felt he was not managing us closely enough.  We [Jeff, the project manager at
+work, and I] wrote the plan for him but it took all weekend.  It affects my
+thesis only to the extent that with my boss on the warpath I have to be more
+careful not to annoy him.  It is, however, under control.
+
+I started doing some experiments on comparing different encodings of the Common
+Criteria to choose the best one for the purpose.  For now I am going to put that
+on hold whilst I finish the paper and methodology chapter, then pick up those
+experiments again in about three weeks.
+
+I got a call out of the past regarding an old paper I wrote years ago on
+something in set theory.  A researcher at another university found a copy of the
+unfinished paper and says it's the solution to a problem he has in mathematics.
+ He wanted to know if the paper had ever been published [no] and if not could he
+help with finishing it, because he has an application for the algorithm in the
+paper.  We are going to work together on it and publish the paper in a
+mathematics journal.
+
+Next supervisor meeting is scheduled for 16th July at 11.00 a.m.
+
+Task List:
+
+1. Draw new figure for paper and finish paper and abstract by next week.
+
+2. Get paper into prepublication review queue (should only take about two weeks).
+
+3. Contact journal editor; request submissions guidelines; send abstract to editor.
+
+4. Methodology chapter next (due before 28th July).
+
+5. Write mid-point progress report.
+
+6. Make schedule for interviews, questionnaire, reading plan, research plan,
+writing plan; write questions for interviews and questionnaire.
+
+Reading is currently on hold while I catch up on writing.
+
+Upcoming deadlines and events:
+
+ - 16th July: first paper draft to Dr Martin.
+
+ - 28th July: moving day; methodology chapter draft to Dr Martin.
+
+ - 1st September 2009: plan to have first chapter peer-reviewed by journal;
+
+ - 1st January 2010: plan to have second chapter peer-reviewed;
+
+ - 1st April 2010: plan to have third paper peer-reviewed;
+
+ - 15th June 2010: plan to have fourth paper peer-reviewed; Confirmation of
+Status report due.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

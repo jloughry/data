@@ -1,0 +1,42 @@
+Weekly activity report no. 20090507.2249 (GMT+1) sequence no. 0083, week 2 TT
+
+I met with Dr Martin last Friday; we discussed the outline I'd started of the
+introductory chapter of my dissertation (covering the history and
+interrelationships amongst various IT security certification and accreditation
+standards in the US and UK).  Dr Martin cautioned me of the risk of running over
+date and suggested that I should concentrate on the Methodology chapter of my
+thesis instead.  We agreed that I would checkpoint work on the introductory
+chapter, get what thoughts are in my head down on paper, and then shelve it for
+later.  I need to get the methodology chapter done.  Start with the Transfer
+Report and the assessors' comments from my transfer viva.
+
+Dr Martin said he would look up the email address for Dr Ian Levy's PA that I
+can use to set up an appointment.  I have not had luck contacting him directly
+through the email address that worked previously.
+
+No meeting this week as Dr Martin is on travel in Geneva and Edinburgh during
+the weeks of 4th and 11th May.  I will report progress by email and send him
+something substantive to read (by email) before our next meeting.
+
+Upcoming deadlines and events:
+
+22-26 June: Requirements Engineering (REN) software engineering module
+
+TO-DO:
+
+1. Checkpoint the introductory chapter work.  That means flesh out the outline
+and file it together with relevant papers (MacKenzie and Pottinger (1997) and
+Pottinger (1994)) for later.
+2. Reading:
+  (a) Dybvig (1996) on Scheme language
+  (b) Butterfield (2008) on the Oxford English Corpus
+3. Decide on what individuals I need to interview in the UK before I leave for
+the USA in July.
+4. Start files on all of the individuals (40 or so total?)
+5. Contact Dr Levy's PA to set up an appointment
+6. Verify that I am enrolled in the REN module.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

@@ -1,0 +1,26 @@
+weekly activity report 229 (loughry) 
+Joe Loughry 
+Sent: 24 February 2012 03:07 
+To: Joe Loughry 
+
+Weekly activity report no. 20120223.1944 (GMT-7) sequence no. 0229, sixth week HT
+
+I found a cache of old files relating to CS-1 and thoughts on the
+comparison with CS-2 and CS-3; I am processing those as analytical notes.
+This week I referred to an old book by Kletz (1993) on why organisations
+have no memory; his perspective is from the chemical industry but it
+occurred that application of HAZOP to project management, informed by
+these case studies, could be a step on the way to problem avoidance.
+I further developed the high-to-low analogy I plan to use for introducing
+cross domain system concepts in the introduction.  Status: 75% of the
+way coding CS-1 evidence, including the new file of old notes this week;
+role profile database is still only 50% complete.  Next critical task
+after network diagrams and categories is to flesh out lower levels on
+the dissertation outline with new insights.  I plan to meet with Dr
+Fléchais as soon as I finish coding the last of the CS-1 artefacts,
+expected to require a few more days.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

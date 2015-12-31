@@ -1,0 +1,34 @@
+weekly activity report (loughry) 
+Joe Loughry 
+Sent: 02 March 2012 01:21 
+To: Joe Loughry 
+
+Weekly activity report no. 20120301.1655 (GMT-7) sequence no. 0230, seventh week HT
+
+GSS report submitted.  I spent some time further developing the idea of
+applying HAZOP to prediction of collapse risks in software engineering
+projects; I have been looking for parallels in the CS-1 evidence as codes
+are assigned.  I further refined the cross domain system analogy, which
+now links to HAZOP, but not in the way at first planned; I do not have
+time to go into much detail about the example P&ID, but it serves as a
+bridge to introduce HAZOP.  Some of the guide words may have to be altered
+or re-interpreted to apply, but the methodology allows for this; it feels
+like it can be hammered into place.  All this is supporting argumentation,
+not the core argument; it will be described as direction for future work.
+I have a book on request through interlibrary loan that is needed to tie
+up loose ends.  Some other ICE-developed safety principles, including
+substitution (although not intensification; I can find no application),
+as well as attenuation or moderation, have clear parallels in software
+engineering methodology and will assist in justifying the link to HAZOP.
+Regarding the main argument, I am tabulating possible root cause reasons
+for the CS-2 failure, using a method from Lockheed's Advanced Technology
+Group, even as I am finishing up CS-1 coding.  Status: CS-1 coding
+is 80% done; role profile database not complete but I will finish it
+before Monday.  Next critical task after network diagrams and categories
+is dissertation outline.  I will schedule a meeting with Dr Fléchais
+as soon as I finish coding the last of the CS-1 evidence.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

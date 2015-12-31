@@ -1,0 +1,50 @@
+weekly activity report 244 (loughry)
+From: Joe Loughry
+Sent: 08 June 2012 01:24
+To: Ivan Flechais; Niki Trigoni; Andrew Martin; Joanna Ashbourn
+
+Weekly activity report no. 20120607.1654 (GMT-7) sequence no. 0244, week 7 TT
+
+Looking for evidence of causal correlation in the data, some are apparent:
+that relatively immature developer organisations---taking `organisation'
+here to apply from the level of entire firms down to a project team,
+at whatever level the purpose and scope of the of the organisation is
+dedicated to a single security test and evaluation activity---immature
+organisations are unoriented to policies, process, and procedures but
+at the same time likely to be more adaptable to an imposed or supplied
+process.  Mature organisations, defined here as those that are policy,
+process, and procedure-oriented, fall into two categories, or at least
+along a range from rigid to adaptable, and this appears from the data
+to be at least partially orthogonal to the maturity level.  The normal
+case, represented by the OWL data diode as a representative example,
+is an immature developer working with an experienced testing laboratory;
+as long as the developer is adaptable to the imposed process, evaluation
+and certification activities proceed smoothly.  On the right hand side of
+the chart, perhaps counter-intuitively, what appears to predict success
+is not the maturity of the organisation but (at least weakly) more the
+experience of the testing lab.  I talked with Dr Martin and Dr Fléchais
+on Skype about it, and about the parallel with CMMI levels.  I speculated
+that the origin of the reason for the difference might be in differences
+between training and indoctrination of software engineers vs managers,
+including the different populations of professional managers who went
+to business school and engineers who switched tracks to management and
+received engineer-to-manager transition training (a resource that may
+be more available in larger organisations).  My supervisors cautioned
+against spending any time looking for causation and instead recommended I
+focus on finding and describing all the correspondences in the evidence,
+to be explained later in a predictive fashion, ideally, but for now
+only demonstrated to exist in the data.  I may have enough for a solid
+theory already.  Good theories describe; great theories predict.  I got
+advice on organising my argument for persuasiveness to the examiners.
+Dr Fléchais asked about status of axial coding and open coding;
+I requested one more week to finish the open coding and committed to
+delivering by the 13th or 15th of June.  Following that, Dr Fléchais
+and I need to work interactively on the model to identify weaknesses in
+it and reinforce it before I go back to writing-up.
+
+GSS report has been submitted.  Next meeting 20th June 2012 at 0600 local.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

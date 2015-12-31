@@ -1,0 +1,17 @@
+Weekly activity report no. 20080120.1610 sequence no. 0016 week 1 HT
+
+This didn't get sent out on Thursday night because I have been so busy all week
+that I forgot.
+
+All assignments for last term completed and submitted on time.  After meeting
+with Dr Martin to talk about plans for the term, and in addition some late night
+emails after I had some ideas about a possible thesis topic, I am going to spend
+this term developing proficiency in Z notation and SPARK.
+
+Other activities: chasing down student loan paperwork, and converting my laptop
+to run FreeBSD 7-STABLE.
+
+-- 
+Joe Loughry
+DPhil PRS, Computing Laboratory
+St Cross College, Oxford

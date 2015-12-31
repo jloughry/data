@@ -1,0 +1,77 @@
+Weekly activity report no. 20090716.2042 (GMT+1) sequence no. 0093, week 8+4 TT
+
+I met with Dr Martin today for our regular weekly meeting.  The paper for the
+journal Crosstalk is still too long; I have to cut it from 5300 words to 3000
+words and draw two figures in PostScript.  I will send a PDF of the shortened
+paper to Dr Martin before our next meeting.  It is important for me to resist my
+inclination to try to make it perfect.  However, there is one part where I am
+trying to describe why something occurred and I am finding out what I really
+don't know.  I need to think about that part of the paper some more.
+
+I brought up moving in a couple of weeks; we talked about plans for carrying on
+meetings over the telephone.  I will send PDF files a few days ahead.  For
+regular meetings, the telephone will work although Skype is better for Reading
+Group meetings since it has speaker phone functionality.  We talked about
+whether video (Skype) is valuable.  I will test video from Colorado as soon as I
+have broadband running.  I will share my Google calendar so Dr Martin can see my
+schedule and what I am working on.
+
+For the rest of the week, finish the draft paper, then start on methodology
+chapter.  I still plan to have that finished before I leave.  Also before I
+leave, I want to visit Andy Cooper in Cambridge.
+
+We talked about some current areas of research, including Joanna Rutkowska's
+attacks on VMs and layers below, electronic passports, PASS (RFID) card attacks
+in San Francisco, homomorphic encryption at IBM, clever banking trojan horses,
+and secure protocols.  I asked Dr Martin some questions about how to lecture,
+and got some good ideas in return.  (Look at the eyes of people listening to
+tell if they are understanding; look for frowns if you said something
+interesting.  Break up the discussion by asking questions of the listeners; if
+you make them figure out the standard solutions to a problem, they will
+eventually realise what they don't know, and thereby appreciate the best
+solution more than they would if you only told them about it.)
+
+Next meeting is scheduled for Thursday, 23rd July at 11:30 a.m.  I will bring my
+schedule for the next six months including MILESTONES to review.
+
+Task List:
+
+1. Cut paper to 3000 words; draw two figures in PostScript; finish abstract and
+conclusions.
+
+2. Get paper into prepublication (security and IP) review queue.  Send abstract
+to journal editor when okay to.
+
+3. Methodology chapter next (due before 28th July).
+
+4. Write mid-point progress report.
+
+5. Make schedule for interviews, questionnaire, reading plan, research plan,
+writing plan; write questions for interviews and questionnaire.
+
+Reading is still on hold while I catch up on writing.  I have a new book to
+read: `Why New Systems Fail' (Simon, 2009).
+
+Upcoming deadlines and events:
+
+ - 20th July: PDF of paper to Dr Martin by today.
+
+ - 23rd July: meeting with Dr Ashbourn; supervisor meeting.
+
+ - 24th July: meet with Andy Cooper (schedule)
+
+ - 27th July: moving day; methodology chapter draft due.
+
+ - 1st September 2009: plan to have first chapter peer-reviewed by journal;
+
+ - 1st January 2010: plan to have second chapter peer-reviewed;
+
+ - 1st April 2010: plan to have third paper peer-reviewed;
+
+ - 15th June 2010: plan to have fourth paper peer-reviewed; Confirmation of
+Status report due.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

@@ -1,0 +1,28 @@
+weekly activity report 302 (loughry)
+Joe Loughry
+Sent: 19 July 2013 04:25
+To: Joe Loughry
+
+Weekly activity report no. 20130718.2055 (GMT-7) sequence no. 0302 week 8+5 TT
+
+I read some advice at the library on organising an argument that
+proposes a theory from data (Starbuck, 1981, '92; Daft, 1995; Schneider,
+1995). Some of the advice was written from the perspective of top-tier
+journal referees and editorial boards so I think it is applicable to
+answering the examiners' comments on my thesis. I did not make very
+much progress this week on writing, but this evening I started writing
+in the methodology chapter again.
+
+Reading group this week discussed Tuomas Aura's paper 'Why You Shouldn't
+Study Security' (IEEE Security & Privacy 4(3), 2006). Notifications
+for the IEEE HST'13 conference in November have been delayed but are
+expected to go out next week. Two systems engineering managers from
+Seagate and Raytheon emailed me yesterday regarding security design jobs
+they are trying to fill. I sent them work samples from previous projects;
+Raytheon was interested in my current research but Seagate wanted to
+know about crypto design work.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

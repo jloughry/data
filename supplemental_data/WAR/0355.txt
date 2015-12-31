@@ -1,0 +1,24 @@
+weekly activity report 355 (loughry)
+Joe Loughry
+Sent: 25 July 2014 04:47
+To: joe.loughry@stx.ox.ac.uk
+Bcc: otaschner@aol.com; anniecruz13@gmail.com; carmenmoyer@hotmail.com;
+     chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com;
+     mmcauliffesl@comcast.net; hmbjuggler@yahoo.com; andrea.loughry@gmail.com
+
+Weekly activity report no. 20140724.2055 (GMT-7) sequence no. 0355, week 8+5 TT
+
+I missed the deadline this week that I set for myself when I thought I
+would be completely finished; I am still writing Chapter 5 but have made
+significant progress towards finishing it. (Later I will work to improve
+my performance at estimation.) Status: closer to the end of Chapter 5,
+working on clearly explicating reasons why scheduled reports are much less
+important than fragile 'implicit channels' that are disrupted every time a
+new project manager arrives, but have much greater bandwidth than formal
+ones (in the Shannon sense that, in light of forerunner communication,
+the formal channels are lower entropy to the recipient).
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

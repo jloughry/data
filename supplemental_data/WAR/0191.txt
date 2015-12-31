@@ -1,0 +1,44 @@
+weekly activity report 191 (loughry) 
+Joe Loughry 
+Sent:  03 June 2011 02:35  
+To: Niki Trigoni; Andrew Martin; Joanna Ashbourn  
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; hmbjuggler@yahoo.com;
+	tom.a.marso@lmco.com  
+
+Weekly activity report no. 20110602.1725 (GMT-7) sequence no. 0191, week 5 TT
+
+I met with Dr Martin to discuss part of chapter 1, a slightly unusual
+section intended to illustrate the particular problem faced by cross
+domain system installers in the field.  Developing a writing style
+has been a continual effort and I wanted another opinion on it as a
+proposed opening.  As I thought, it was unsuitable for the beginning
+of the chapter.  However, it could nonetheless be used, I was advised,
+a few pages further in if the example were framed in a different way.
+Dr Martin cautioned me on overuse of acronyms and abbreviations early
+on, recommending to be careful about use of terms throughout the first
+chapter, in the mode of teaching the reader a specialised language at
+first, then abbreviating later on.  I am following all of his advice.
+He asked to see a complete chapter the following week; it need not be good
+but it must be complete.  I will have it for our next meeting tomorrow.
+
+Afterwards, we chatted for a bit about news in the department and a paper
+I'd read in IEEE Security & Privacy.  News of an attack on Lockheed
+Martin's internal network by means of the RSA SecurID compromise in
+March had appeared from Reuters a few hours before; we talked about the
+security impact of wholesale two-factor authentication token replacement
+and what other disclosures might come to light in the next few weeks.
+We talked about what other things could be deduced from the limited
+information released by both sides.
+
+In Deer Creek, I requested the government programme manager at
+SPAWARSYSCEN-SD to give his endorsement (required) so I can attend the
+UCDMO conference 1--4 August.
+
+Next meeting with Dr Martin tomorrow 1445 BST.
+
+Joe Loughry
+Doctoral student in the Department of Computer Science
+St Cross College, Oxford
+

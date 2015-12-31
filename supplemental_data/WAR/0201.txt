@@ -1,0 +1,47 @@
+weekly activity report 201 (loughry) 
+Joe Loughry 
+Sent: 12 August 2011 02:12 
+To: Niki.Trigoni@comlab.ox.ac.uk; Andrew Martin; Joanna Ashbourn 
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org; chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com; Joe Loughry; mmcauliffesl@comcast.net; hmbjuggler@yahoo.com; tom.a.marso@lmco.com 
+ 
+Weekly activity report no. 20110811.1318 (GMT-7) sequence no. 0201, week 8+7 TT
+
+I am working on chapters---to be turned in soon.  I emailed the
+assessors again this week to ask for dates for a viva and submission of
+written work.  Dr Jirotka is out of contact until Monday; I will look
+for a response from her after.  Timing is not yet completely urgent,
+but Julie asked me to have confirmation done before October.
+
+The DPhil Student Conference programme committee met Saturday.  I am
+administering EasyChair this year.  We expect to have the call for papers
+released soon.
+
+Several interesting papers were published at the USENIX Security Symposium
+this week.  The most relevant was Checkoway, et al. on 'Comprehensive
+Experimental Analyses of Automotive Attack Surfaces'.  They showed
+remotely exploitable data exfiltration that goes beyond previous
+successful attacks against the ECU.  In a footnote, the authors relate
+that industry engineers have clarified that the separation of CAN buses,
+such as it is, was done for bandwidth reasons, not safety isolation.
+This is yet another argument in favour of wider deployment of cross
+domain systems.
+
+I obtained more data and evidence this week related to my second and
+third case studies.  I have a great excess of data, with more coming in
+all the time.  It feels scientifically improper not to include it all,
+but I must prioritise.  Focusing on writing instead.
+
+At the UCDMO conference, the redaction tool I and others have been
+working on for two and a half years was successfully demonstrated to the
+funding sponsor.  Funding runs out 30th September; I am still responsible
+for my part of the system documentation and the contract final report.
+I will have to travel to the laboratory in Rome, New York some time in
+late September to deliver the system to the Air Force.
+
+Miscellaneous: there are 22 weeks to submission.  Still hoping for a
+viva the week of 5th September, but that date has not been confirmed yet.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford
+

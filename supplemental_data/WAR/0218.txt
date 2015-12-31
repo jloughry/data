@@ -1,0 +1,56 @@
+weekly activity report 218 (loughry) 
+Joe Loughry 
+Sent: 09 December 2011 06:06 
+To: Joe Loughry 
+ 
+Weekly activity report no. 20111208.2129 (GMT-7) sequence no. 0218, week 8+1 MT
+
+I am learning to get around in ATLAS.ti with my CS-1 data.  Not yet
+proficient with the software, but making progress.  Dr Fléchais asked
+for a rough count of the number of data items; I am still figuring
+out what are meaningful concepts to count, but in CS-1 there are 1195
+timestamped entries from Nov 2009--present, 163 meetings, an unknown
+number of individuals, and an uncounted number of analytical memoranda.
+I recorded more interactions between the CS-1 developer and the
+government programme office as recently as this week; the developer,
+as a SAP, cannot conceivably reduce costs further; their remaining staff
+are overcommitted on R'' installations as it is, whereas the programme
+office has identifiable inefficiencies and may cut staff soon.
+
+For the next two weeks I have two overlapping tasks; SCAP compliance
+research and thesis work.  I met with Dr Martin this week to report to
+him in more detail what I discussed in the meeting with Dr Fléchais.
+As I have been re-going through the records of CS1, this time with the
+perspective from one of my informants about informal vs formal policies, I
+read an interesting counterexample that challenges one of my assumptions.
+In an old email from jwz (1998), he told of a discovery motion by
+Microsoft for the entire contents of a personally maintained email list
+on jwz's personally owned disk during a lawsuit involving Netscape.  As a
+policy example it is important because unlike most this one is founded
+on personal experience.  I described to Dr Martin my progress on CS-1
+and we talked about the large size of the data and how that interacts
+with grounded theory.  We talked about validating the model by taking
+it back to informants; that is actually something I was successful with
+before, with the prior physics-based model.  Dr Fléchais stressed that
+documentation of those validation sessions is critical.
+
+Afterwards I described a meeting with my Lockheed manager at which I was
+asked urgently to research NIST SP 800-117, Security Controls Automation
+Protocol (SCAP), a new requirement on every cross domain system in 2012
+to report compliance with security controls in a standard format.  I can
+leverage this request from Lockheed into a new gig in the second half
+of 2012---just when I will be needing one---as an expert on SCAP just
+when all the other CDS programme offices figure out they have a problem.
+Dr Martin suggested I should publish an article about it, derived from
+part of my thesis.
+
+Miscellaneous: there is an unconfirmed report that DoD 8570.01 will be
+renamed Directive 8140 soon; Change 3 of DoD 8570.01-M has been expected
+for months, but remains unaccounted for.  I met with my manager at
+Lockheed to review my 2011 performance assessment and set a date for
+transition (2nd Jan).
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

@@ -1,0 +1,18 @@
+Weekly activity report no. 20081204.2331 (GMT) sequence no. 0061, week 8 MT
+
+I met with Dr Martin after journal reading group this week; I have mostly been
+reading and starting work on a journal paper that I hope to submit early in the
+new year.  My transfer viva is scheduled for 16th January at 2:00 p.m.  I
+checked with the assessors and they agree it would be helpful if I were to
+prepare a ten-minute talk for the beginning of the viva on what I've done so far
+and where I want to go.
+
+Tomorrow I will present the weekly Software Engineering seminar in the comlab.
+
+Next planned activity is to continue experimenting with encoding DCID 6/3 and CC
+formatted text in s-exprs and manipulating them in that form.
+
+-- 
+Joe Loughry
+DPhil PRS, Computing Laboratory
+St Cross College, Oxford

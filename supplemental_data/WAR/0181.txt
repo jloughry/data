@@ -1,0 +1,50 @@
+weekly activity report 181 (loughry) 
+Joe Loughry 
+Sent: 25 March 2011 00:20  
+To: Niki Trigoni; Andrew Martin; Joanna Ashbourn  
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; tom.a.marso@lmco.com  
+
+Weekly activity report no. 20110324.1511 (GMT-6) sequence no. 0181, week 10 HT
+
+For the security reading group, I introduced the paper by M. Wei, et al.,
+'Reliably Erasing Data From Flash-Based Solid State Drives' [San Jose,
+California: Proceedings of the 9th USENIX Conference on File and Storage
+Technologies (FAST'11), 15--17 Feb. 2011].  John and Cornelius were the
+only ones there.  Solid State Disk (SSD) storage devices, including flash
+memory sticks and ATA/SCSI/1394 magnetic disk replacements, turn out
+to have some interesting technical characteristics that interact poorly
+with conventional sanitisation algorithms.  This is highly relevant to
+the certification and accreditation problem; it is difficult to clear
+this type of storage completely and verifiably.  It turned out to be
+a better paper than I thought at first; we did find a couple of ways
+to improve their methodology, but for the first paper in a new field,
+it is hard to argue with, and comprehensive.  The full discussion from
+Reading Group can be found in my notes.
+
+No updates to the certification process of R'' this week.  They are likely
+out planning the UCDMOC.  I talked with two members of the project team
+on the R-prime case study.  I have been thinking about R-zero, but need
+to focus on R'' in the immediate time frame.
+
+Progress against plan: I spent the week reading all the references
+on GTM that were collected during last week's trip.  I also reviewed
+David Blunkett's speech given at the last ISPP seminar, and a new journal
+article on threats and vulnerabilities (Johnston2010b).  Shamal Faily sent
+me a pointer to a CHI'11 workshop paper on GTM (to appear); he had earlier
+given me the topic but not a link to the paper and in searching for it
+I found two other relevant journal articles.  I am writing concurrently
+on Chapters 1, 3 and 4 this week; ignoring Chapter 2 for now.  I hope
+to send the first draft chapter to Dr Martin early next week.  I have
+a thesis file in LaTeX now that builds eight chapters plus appendices.
+Chapters 4, 5 and 6 are expected to be 25 pages each; it not really
+possible to compress a GT case study smaller than that; it was preferable
+to break it up into three chapters.  I owe another report to the Air
+Force programme sponsor in two weeks, but that will not affect progress
+to schedule.  Status: still on track for COS application mid-April.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory,
+St Cross College, Oxford
+

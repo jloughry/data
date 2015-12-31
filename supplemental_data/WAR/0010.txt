@@ -1,0 +1,35 @@
+Weekly activity report no. 20071129.2226 sequence no. 0010 week 8 MT
+
+End of my first-ever term at Oxford.  What a ride!  After finishing the week of
+specification-and-design (SDE) last Friday, I came out of it much to my suprise
+having enjoyed the course very much.  That is not to say it was easy.  It was
+not.  SDE was a solid week of 100 percent concentration; if I let my attention
+wander even for a second, it felt like I could fall off the express train and
+never be able to catch up.  The group project at the end---I dread group
+projects---actually turned out to be a lot of fun after all; the two groups came
+up with very different solutions, but they were complementary in interesting
+ways.  What was most interesting to me was the way that a particular "error
+state" that we needed (but didn't know we needed) appeared right out of the Z
+equations, clear as day.  I was working separately, on the other side of the
+room, on the state transition model, and the same (needed) error state appeared
+there too!  It was a surprise to see it appear so clearly, out of two different
+methodologies just about simultaneously.  When we realized it, we knew we were
+on to the right solution.
+
+I am now starting to work on the assignment, as well as the assignment for
+Safety Critical Systems, due about the same time (early January).
+
+I introduced a paper for the first time at Reading Group this week, on the
+history of the Multics security evaluation in 1974.
+
+I have started applying for several grants and other sources of funding; thanks
+to Dr. Ashbourn for pointing me at some of them.  Don't know yet what the
+results will be, but at least that process is moving forward, albeit slowly.
+
+I entered a term report into the Oxford automated system when prompted; Dr.
+Martin should get a copy of it automatically.
+
+-- 
+Joe Loughry
+DPhil PRS, Computer Science
+St Cross College

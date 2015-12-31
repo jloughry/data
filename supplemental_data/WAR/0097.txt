@@ -1,0 +1,37 @@
+Weekly activity report no. 20090813.2119 (GMT-7) sequence no. 0097, week 8+8 TT
+
+There was no regular meeting this week because I was on business travel and Dr
+Martin was on holiday.  I spent Monday through Thursday in San Diego, California
+where I attended briefings at the Space and Naval Warfare Systems Centre.  That
+took up almost all my time so I did not get much writing done.  I did however
+meet with Lockheed managers in the morning and evenings and got their approval
+for my proposed (extremely limited) work schedule for the next year.  They
+understand my schedule and milestones related to research and promised to leave
+me alone to work on research as long as I get this one other work project (which
+I had already planned on) done.  So that is under control now.
+
+I got some more advice from Olav Kjono---the manager I most need to keep happy
+because he corresponds to my funding source---on time management.  He was
+talking about the redaction project, of course, but the same tricks may be used
+for both that and my research schedule for the next year.  Having milestones is
+important; also one other thing, according to Olav: testable indicators of
+progress that can be used to prune the decision tree in cases where you're not
+sure which of several alternatives is correct.  You don't want to spend all your
+time available pursuing the wrong alternative and have that turn out to be a
+dead end.  He suggested ways to avoid that.
+
+Tomorrow morning I have to drive to a secure facility where I can type up my
+trip report from San Diego and file it; then I can get back to work on research.
+
+I will schedule a weekly meeting with Dr Martin next week.
+
+To-Do List (abbreviated):
+
+1. First paper final draft and submit to security review;
+2. Prototyping (test different ways of encoding)'
+3. Methodology chapter.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

@@ -1,0 +1,40 @@
+weekly activity report 305 (loughry)
+Joe Loughry
+Sent: 09 August 2013 02:00
+To: Joe Loughry
+
+Weekly activity report no. 20130808.1801 (GMT-7) sequence no. 0305 week 8+8 TT
+
+My college administrator sent me a copy of the viva results report
+received there; the report is dated 24th July. The examiners' comments
+are unchanged but now I finally have the administration's deadlines for
+responses and follow-up. I sent a reply and an email to Mrs Hames in the
+exam schools as requested in the letter. The marked-up examiner's copy
+of my thesis is also on its way here via DHL. I have been rewriting and
+adding more justification to certain parts of the argument for a week;
+new citations to journal articles in support of the conjecture that
+government security testers behave like knowledge-intensive firms in
+that their 'capital' is necessarily esoteric and they leak information,
+which Starbuck (1992, 2010) noted places them at risk of destroying
+their primary asset, but missed the difference between KIFs and security
+attacks, which can be replenished at the cost of original research, not
+more people, either by the same group or as an exclusive exchange with
+others. Replenishment of leaked capital is an interesting extension of
+earlier results in the literature. Separately, I found an effective
+technique to show when the effect of moderating variables is both
+intensified and weakened; I am applying that to the part of the thesis
+describing informal channels observed and forerunner communication in
+the grounded theory.
+
+Reading group this week did the paper on TPM for sensors by Saroiu and
+Wolman (HotMobile 2010). The most interesting part of the paper seemed to
+be at the end where non-transferability of trusted sensor readings could
+be achieved through witness-hiding proof-of-knowledge protocols. How it
+is done might be the subject for next reading group.
+
+I am still working head-down and will report progress again in a few days.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

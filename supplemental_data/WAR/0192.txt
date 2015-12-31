@@ -1,0 +1,44 @@
+weekly activity report 192 (loughry) 
+Joe Loughry 
+Sent: 10 June 2011 06:31  
+To: Niki.Trigoni@comlab.ox.ac.uk; Andrew Martin; Joanna Ashbourn  
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; hmbjuggler@yahoo.com;
+	tom.a.marso@lmco.com  
+
+Weekly activity report no. 20110609.1805 (GMT-7) sequence no. 0192, week 6 TT
+
+I met with Dr Martin and gave him a complete draft of the first chapter.
+He pronounced it good enough to give to the assessors already, and
+recommended not polishing the chapter any more at this time.  Rather,
+I should work on the next chapter and keep up the pace.  We discussed
+the conventions of re-using sentences or paragraphs already written or
+information that has already been published elsewhere in the dissertation,
+and had a long discussion about academic writing style.  Finally, I have
+the level dialled in.  Afterwards we discussed some current topics on
+SCADA vulnerabilities and the response to RSA's two-factor authentication
+compromise last week.  I had a short item published in RISKS this week
+about transcription errors in publication dates affecting literature
+searching in Google Trends.  Two people emailed me about it.
+
+In California, the government sponsor D------ G------ (SPAWARSYSCENPAC)
+emailed Monday to say that the certifier R------ D------ gave verbal
+permission to field the post-certification patch version 5.0.1P at once.
+When the signed letter is received by the programme office, formal
+permission to field 5.0.1 to TSABI sites will be updated on the UCDMO
+baseline.
+
+I listened to the recording of Prof. R. Anderson's ISPP seminar Monday on
+`The Dependability of Complex Socio-Technical Infrastructure', thanks
+to Dr Martin who sent me an MP3 file.  There were one or two stories
+in his lecture I'd not heard before; one of them, regarding GCHQ and CC
+certifications, is relevant to my thesis.
+
+Next meeting with Dr Martin tomorrow 1445 BST.  GSS reports are due
+next week.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford
+

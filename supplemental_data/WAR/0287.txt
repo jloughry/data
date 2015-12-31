@@ -1,0 +1,28 @@
+weekly activity report 287 (loughry)
+Joe Loughry [joe.loughry@stx.ox.ac.uk]
+Sent: 04 April 2013 23:42
+To: joe.loughry@gmail.com
+
+Weekly activity report no. 20130404.1423 (GMT-7) sequence no. 0287 week -2 TT
+
+I have been reading some articles by Coase (1937, 1960) on the structures
+that lead to decision-forcing imbalances.  This is related to testing my
+earlier assertion that accreditors will exchange information in violation
+of the global security policy if and only if they are forced to say
+something because the alternative is perceptibly worse.  It behaves like
+addition of vectors but I am not convinced it holds up in every case where
+a new accreditor joins who has a much higher clearance.  I am working
+on a way of showing the mechanism in one figure.  For the IEEE paper,
+and in case the examiners ask, I am trying to show once again that the
+relation holds over all configurations of two or more accreditors in
+SCI-like accreditations.  I should have it working in a few more days.
+
+Julie Sheppard contacted me to arrange the date for my viva; once the
+date is confirmed I'll make travel reservations.  I have been in contact
+with a manager at Booz Allen Hamilton in Colorado and someone I know
+at Accenture.  He wants me to finish the viva first and then meet.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

@@ -1,0 +1,45 @@
+weekly activity report 247 (loughry)
+Joe Loughry
+Sent: 29 June 2012 04:23
+To: Joe Loughry
+
+Weekly activity report no. 20120628.1958 (GMT-7) sequence no. 0247, week 8+2 TT
+
+This week I worked on coding more CS-2 and CS-1 data and trying out
+network relations in the editor for an upcoming meeting with Dr Fléchais.
+In testing the practicality of using screen sharing through Google+
+hangout with a friend in Oxford, I found an interaction with ATLAS.ti
+6.2.27; it causes controls on my tool bar to flicker rapidly, and the
+recipient sees a black screen intermittently.  Tested on Firefox 13.0.1,
+Chrome 19.0.1084.56 m and 20.0.1132.43, SeaMonkey 2.10.1, and Safari
+5.1.7; it is independent of browser in any combination.  An effective
+workaround is to share the desktop instead of the ATLAS.ti window.
+A bug report has been filed with the ATLAS.ti vendor.
+
+I have been thinking more about the compartmentalisation issue and how
+it manifests pathologically in FISMA reporting.  'In theory, [FISMA]
+is a road map for developing a strong cybersecurity program[me] at
+each agency...in practice, agencies often focus on achieving compliance
+rather than effectiveness' [Tuutti, 2012].  There was a very interesting
+comment posted on Schneier's blog last week regarding the Common Criteria
+certification of Boeing's SNS.  After announcing their intention two years
+ago to certify the product at EAL7, the certification report actually
+came out at a surprising EAL5+, and the author guesses that it was done
+for export control reasons.  The security target and validation report
+reveal that this 'EAL 5' is augmented with a long list of SARs---almost
+all of which are EAL 7 requirements---and the evaluator was NIAP CCEVS,
+but for unstated reasons they chose not to call it that.  The developer
+certainly has the resources to carry it out, so either Boeing either
+thought it not worthwhile pursue EAL 7 (likely) or deemed it actually
+counter-productive, which makes sense if EAL 5 certificates are currently
+being approved for export.  This shows again that CC evaluations are
+being gamed, but in the opposite direction now.  I think it presages a
+move to NIST SP 800-37.
+
+The weather has been 40 degrees C and wildfires all over the state.
+Next supervisor meeting is 11th July at 1400 BST.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

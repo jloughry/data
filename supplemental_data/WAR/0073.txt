@@ -1,0 +1,35 @@
+Weekly activity report no. 20090226.2211 (GMT) sequence no. 0073, week 6 HT
+
+I met with Dr Ashbourn today at STX for Senior Mentor Graduate Consultation
+interview.  I asked for some advice on avoiding procrastination and for getting
+things done.  She gave me some specific suggestions that I will implement:
+
+ - start reading two chapters (from Hansche2006a) every day (in preparation for
+ISSEP exam);
+
+ - make a list at the beginning of each day of certain things that must be done
+that day; okay for items to roll-over, but make a new list each day;
+
+ - clear out my email in-boxes: every item must be replied to, deleted, or filed
+somewhere; in-boxes should be empty at the end of each day;
+
+ - quit thinking about writing perfect code and start getting some practice with
+the new language (in preparation for working on thesis).
+
+I am starting to implement the suggestions right now.  I am hopeful that you
+will see some improvement visible in these weekly reports.
+
+
+Upcoming deadlines and events:
+
+5th March: 1500 Cakes Talk by Shamal
+6th March: giving a talk at work
+14th March: Hilary term ends
+6th--7th April: TRUST 2009 in Oxford
+17th April: submission deadline for 2009 NSPW
+25th April: ISSEP exam in London
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

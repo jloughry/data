@@ -1,0 +1,51 @@
+weekly activity report 189 (loughry) 
+Joe Loughry 
+Sent: 19 May 2011 23:31  
+To: Niki Trigoni; Andrew Martin; Joanna Ashbourn  
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; hmbjuggler@yahoo.com;
+	tom.a.marso@lmco.com  
+
+Weekly activity report no. 20110519.1203 (GMT-7) sequence no. 0189, week 3 TT
+
+I sent a note on `Detecting Data Exfiltration With an Application to
+Insider Trading' to a friend in the Army Information Technology Agency
+(ITA).  He had sent out an urgent call for help Monday on social media
+vulnerabilities and insider threats.  The proposed method here is a
+broadening of the usual cross domain functionality of guarding plain
+text by matching regular expressions.  It extends the matching function
+to the detection of euphemisms, `talking around' classified information,
+or use of deliberately obfuscatory language in email.  It currently uses
+a variation of our alternate (Hadoop based) approach to the probabilistic
+redaction project for the Air Force, but applied to a completely different
+kind of data set.  I omit details here, but I filed a disclosure.
+
+Regarding the third case study, the developer's Systems Engineering
+manager related this week that the government programme office
+had notified him that T------ from NSA I173 confirmed that the
+post-certification patch would go to CDTAB in June and would be approved
+at the next DSAWG.  I have been experimenting this week with a new
+coding form for the other case studies that I want to use to document
+the evidence of CC&M for the assessors.  I think it is better than the
+free-form method I used before, but was developed from it.
+
+Miscellaneous: I found evidence that Update 3 to DoD 8570.01 is expected
+soon, and there will be changes to Table AP3.  I formally requested
+travel funds for the UCDMO conference in August.
+
+I came up with a supplementary argument in Chapter 1 that improves the
+introduction to cross domain systems for non-specialists.  I still owe
+chapters to Dr Martin urgently.
+
+The MPLS division graduate office requested could I please re-file the
+GSO.14b form.  The previous deferral of confirmation did not `take'
+for some reason.  The paper letter I ultimately received from them had
+the wrong term (Hilary rather than Trinity as agreed) printed on it.
+I updated the GSO.14b form and sent it via Fedex to Dr Martin for his
+signature.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory,
+St Cross College, Oxford
+

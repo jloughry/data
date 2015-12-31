@@ -1,0 +1,27 @@
+weekly activity report 231 (loughry) 
+Joe Loughry 
+Sent: 09 March 2012 05:32 
+To: Joe Loughry 
+
+Weekly activity report no. 20120308.1918 (GMT-7) sequence no. 0231, eighth week HT
+
+Looking at HAZAN now in addition to HAZOP as possibly extrapolable
+methods to find and mitigate `hazards', in a loose sense of that word,
+in the project management process of a cross domain system certification
+activity.  I got the ICE book from interlibrary loan for its definitions
+of commonplace guidewords; I have time to develop this idea only to
+a bare minimum, but it fits in Chapter 7 and needs to be included.
+I have also this week been going through a file of direct quotations from
+books accumulated over several years, tagging which quotations to use in
+the text.  In between times I have been watching old UCDMO presentations
+from past conferences to try to find the source of the mandate in 2011
+that I need to use to justify the use of SCAP for evidence generation
+prior to Beta 2.  I am thinking now that it has FISMA applications beyond
+ICD-503 which would anticipate the NISTification of A&A beyond defence
+that is coming in USG regulation; patterns are becoming discernible.
+Status: behind schedule but working on it.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

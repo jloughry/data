@@ -1,0 +1,75 @@
+weekly activity report 258 (loughry)
+Joe Loughry
+Sent: 14 September 2012 05:41
+To: Joe Loughry
+ 
+Weekly activity report no. 20120913.1709 (GMT-7) sequence no. 0258 week -3 MT
+
+In response to reviewers' comments on the C&ESAR 2012 conference paper,
+I improved the argument by showing how every possible alternative in
+a type 2 or type 3 accreditation forces the accreditor to communicate
+in violation of security policy.  In certain cases, because of the
+context supplied by differences in security clearance, it leaks even
+more information than the accreditor wants to communicate; the analogy
+to a covert channel is complete.  I sent the camera-ready paper to the
+editor and put the new proof of the security property in Chapter 6.
+
+Because of revising that paper to meet the earlier deadline, I made
+progress on different chapters and out of order this week.  Chapter 3
+is still not done but Chapter 6 gained much.  I met with Dr Martin on
+Skype to talk about appointment of examiners and submission.  He helped
+me with the forward references problem I had and I told him how the
+focus is now on the theory, with much less emphasis on describing every
+little event that happened in the case studies and more on the grounded
+theory itself, because that theory is so exciting.  Totally unexpectedly,
+I found a method through which the developer, for the first time ever,
+can exert a small measure of control over the certification schedule, and
+I found an equation that predicts the behaviour of accreditors.  The first
+theory is grounded in the data of the case studies, and the second one is
+supported by anecdotal evidence from installers and a mathematical proof.
+Every cross domain system developer will be interested in this theory,
+I think.  The whole thesis is being written around it now.  I will
+be submitting on time; Dr Martin told me that submission by post is
+perfectly possible and travel to Oxford just to deliver it to the Exam
+Schools is not necessary.  After our meeting I got in contact with the
+Research Degrees Examination Office and with the Oxford Print Centre;
+they can take my PDF file by email, print and bind two copies and deliver
+them to High Street.  That is a relief.
+
+We talked about appointing an external examiner and Dr Martin requested
+an abstract of the thesis to show to prospective examiners.  Ideally,
+the external examiner would be someone familiar with certification and
+accreditation, collateral classification, SCI, security clearances,
+and CESG.  I sent out the abstract the same day.
+
+I owe chapters to my supervisors in time for them to review them and
+a graphical overview of the whole theory to Dr Fléchais as soon as
+possible, basically now.
+
+Milestone 1: Chapter 1 (Introduction) due 14th August [done but needs
+	revising to highlight theory]
+Milestone 2: Chapter 2 (Literature Review) due 19th August [late, done,
+	not turned in yet]
+Milestone 3: Chapter 3 (Methodology) due 23rd August [late, almost done]
+Milestone 4: Chapter 4 (Case Study of a Successful Certification) due
+	27th August [late, started]
+Milestone 5: Chapter 5 (An Unsuccessful Common Criteria Evaluation)
+	[late, started]
+Milestone 6: Chapter 6 (Interpretation of Results) due 4th September
+	[late, 90 percent done]
+Milestone 7: Chapter 7 (Summary and Conclusion) due 8th September [late,
+	not started]
+Milestone 8: edit, rewrite, review by supervisors: last 2 weeks of
+	September
+Milestone 9: CESAR 2012 camera ready paper due 17th Sept [done and
+	submitted]
+Milestone 10: transmit PDF file to Oxford Print Centre for Monday, 1st
+	October.
+
+Status: I need to finish Chapter 3 tomorrow; working on 4 and 5; Chapter
+6 is rough but nearly done.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

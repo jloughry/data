@@ -1,0 +1,32 @@
+weekly activity report 349 (loughry)
+Joe Loughry
+Sent: 13 June 2014 03:16
+To: Ivan Flechais; Niki Trigoni; Andrew Martin; Joanna Ashbourn
+
+Weekly activity report no. 20140612.1848 (GMT-7) sequence no. 0349, week 7 TT
+
+I did not finish writing the chapter this week but four pages more
+are done now. The chapter is almost the right length and I will finish
+it *this*week*.
+
+The FAA issued a 14 CFR Part 25 Rule this week citing 'Special Conditions'
+to allow interconnection of at least two of three previously separated
+networks in Boeing 737 airliners (it was not even a Notice of Proposed
+Rule-making.) The three network domains (Aircraft Control domain,
+Operator Information domain, and Passenger Entertainment domain)
+have always run on separate busses, primarily for historical reasons
+(having been certificated at different times) but with assurance level
+separation benefits as well. Since the adoption of DO-178/C two years
+ago, first computers and now networks are migrating to VM separation on
+shared hardware. I wrote a public comment about the lack of detail in
+the Rule that was published in the Federal Register. No notice has been
+taken by the CDS community at all despite similarities to automobile
+vulnerabilities found by Koscher, et al. in 2010. [I have no time to
+pursue this topic---I have to finish my thesis--- but it is important.]
+
+GSS report has been filed.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+ 

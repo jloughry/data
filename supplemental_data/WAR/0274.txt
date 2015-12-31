@@ -1,0 +1,37 @@
+weekly activity report 274 (loughry)
+Joe Loughry
+Sent: 04 January 2013 01:46
+To: Joe Loughry
+
+Weekly activity report no. 20130103.1804 (GMT-7) sequence no. 0274 week -1 HT
+
+I am working on thesis for submission next week.  The concepts needing
+to be presented fall into six categories: background, methodology,
+data, model, observation, and interpretation.  The literature survey is
+background and future work is included in the interpretation section
+and conclusion.  The present difficulty is with narrowing the focus
+sufficiently to describe the useful and relevant aspects of the thesis
+without unnecessary information.  For example, the fact that some
+undesirable information flows are forced and desirable information flows
+inhibited in circumstances matching the global security policy suggests a
+specific recommendation to improve regulatory standards, and so should
+be included.  The obvious generalisation to a method of predicting
+the direction and magnitude of all induced information flows in every
+configuration of collateral and SCI-like accreditor configurations has
+not been worked out completely, and must be relegated to future work.
+I am trying to write honestly without overly broad claims of effectiveness
+or applicability; the accreditor model is limited by stated assumptions
+that vary slightly from standard practice and the certifier model is
+derived directly from observation and not from a theoretical model.
+The original methodology provided a direction of thought but the thesis
+discovered in that direction was less directly related to observation
+than it grew out of speculation about causes and effects not in the data,
+but abstracted from it.  Application of the thesis is thereby possible
+to every certification and accreditation, not just ones like the the
+examples in the case study.  I am rewriting and will send new chapters
+to my supervisors tonight.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

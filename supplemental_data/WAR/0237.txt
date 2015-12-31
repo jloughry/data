@@ -1,0 +1,37 @@
+weekly activity report 237 (loughry)
+Joe Loughry
+Sent: 20 April 2012 06:23
+To: Joe Loughry
+
+Weekly activity report no. 20120419.2146 (GMT-7) sequence no. 0237, noughth week TT
+
+Regarding the sequence or set of necessary or desirable events that must
+occur for a successful security certification and accreditation, and the
+set of tell-tale events that may accumulate to hinder it, I contacted
+Robert L. Glass for a reprint of a 1999 article by Craddock because I
+think the article will corroborate another hazard I have coded `science
+project'.  Craddock was apparently describing architecture astronauts
+in the CS90 project but the effect is similar to an NIH effort that
+consumed time and resources late in the R-prime CC evaluation activity.
+Other problems there included the impedance mismatch in status report
+information flow from level zero engineers to the PM, a different sort of
+impedance mismatch from the CCTL to level zero at the developer, knowledge
+retained by the CCTL and prevented from crossing the CCTL--developer
+interface, and other patterns I am currently tracking.  I talked with
+Prof. Glass by email about it.  Still working on coding CS-1 and -2
+evidence in ATLAS.ti and my notes and observations.
+
+Also this week I read the certification reports and STs for Fox's data
+diode CC evaluations.  I was looking for a description of the reliable
+one-way proxy server protocol they claim to use, but they put it outside
+the evaluation boundary and kept it undocumented.  This is relevant
+to the setting of the security boundary in CS-1 which in hindsight was
+too broad and illustrates the practical lessons that can be learnt from
+successful and unsuccessful CC security evaluations.  In conclusion, I am
+forcing more time to data analysis this week with the end of completing
+the coding work in the agreed time.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

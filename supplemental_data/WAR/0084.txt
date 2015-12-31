@@ -1,0 +1,33 @@
+Weekly activity report no. 20090514.2058 (GMT+1) sequence no. 0084, week 3 TT
+
+I am writing the methodology chapter.  Re-reading and incorporating assessors'
+comments from my transfer report, and thinking about tools; the outline is
+almost ready to email to Dr Martin before we meet next time.  I will send that
+out tomorrow.
+
+No meeting this week, but we will meet next week; Dr Martin is on travel in
+Edinburgh.  We are in the process of setting up a meeting for next week.
+
+Upcoming deadlines and events:
+
+20th May: lunch with Dr Ashbourn
+21st May: Donald Knuth lecture in the comlab
+27th May: Prof Kwiatkowska's briefing on confirmation of status process
+29th May: Andy's viva
+22nd-26th June: Requirements Engineering (REN) software engineering module
+
+TO-DO:
+
+1. Email outline of methodology chapter to Dr Martin.
+2. Reading:
+  (a) Dybvig (1996) on Scheme language
+3. Decide on what individuals I need to interview in the UK before I leave for
+the USA in July.
+4. Start files on all of the individuals (40 or so total?)
+5. Contact Dr Levy's PA to set up an appointment
+6. Verify that I am enrolled in the REN module.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

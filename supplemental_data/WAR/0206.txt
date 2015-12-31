@@ -1,0 +1,34 @@
+weekly activity report 206 (loughry) 
+Joe Loughry 
+Sent: 16 September 2011 02:22 
+To: Joe Loughry 
+ 
+Weekly activity report no. 20110915.1716 (GMT-7) sequence no. 0206, week 8+12 TT
+
+I met with Dr Ashbourn to go over results from the viva and to go over
+plans for Michaelmas term.  I obtained a useful reference on qualitative
+methods [UK Physical Sciences Centre, 2011] before I left.  This week I am
+reading three dissertations for their methods of using grounded theory;
+afterwards I will schedule a meeting with Dr Fléchais to discuss.
+I would like to plan another trip to Oxford near the end of the year,
+either December or January, to present results in progress.
+
+The Unified Cross Domain Management Office (UCDMO) released version 4.0 of
+the UCDMO cross domain inventory this week.  I met with the developer of
+R's systems engineering manager regarding the trade study of OS options
+for version 6.0 of R'' and details of the Navy transition funding.
+The programme manager and government programme office are looking only at
+immediate cost and appear to be ignoring the risks inherent in support;
+I will work the new information into my model.
+
+Security reading group was postponed this week but I found an article
+to suggest for an upcoming session [Alexander and Smith, 2011].
+
+TO DO: finish the LaTeX template and abstract submission process for the
+OXFORD-CS-2011 conference; reading on methodology; set up meetings with
+both supervisors to plan deliverables for this term.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford
+

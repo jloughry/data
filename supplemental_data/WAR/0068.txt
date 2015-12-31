@@ -1,0 +1,27 @@
+Weekly activity report no. 20090122.2117 (GMT) sequence no. 0068, week 1 HT
+
+Transfer viva was completely successful.  I received the assessors' report and
+discussed their recommendations with Dr Martin yesterday; we agreed on a plan
+for the rest of the year.  Highlights:
+
+1. I concur with the assessors' recommendation that `the focus of the
+presentation of the research needs to be turned around: it should be about the
+development of a methodology, justified by a failure---rather than the analysis
+of a failure, accompanied by a potential solution.'
+
+2. We discussed several alternatives to solve the linked problems of
+intellectual property and funding for validation of the proposed automated
+method and tool.
+
+3. We agreed that more than one validation would be a valuable addition to the plan.
+
+I will plan on attending TRUST 2009 in April at St Hugh's college in Oxford.
+
+We also discussed my idea for starting a respository of transfer reports in the
+comlab, and whether it could be hosted in the Oxford Research Archive.  I will
+investigate.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

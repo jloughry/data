@@ -1,0 +1,35 @@
+Weekly activity report no. 20090430.2348 (GMT+1) sequence no. 0082, week 1 TT
+
+I have a meeting scheduled with Dr Martin tomorrow morning to go over the Table
+of Contents of my dissertation and focus on a specific chapter.  Today I helped
+work the University of Oxford's booth at Info Security 2009 in London all day.
+Results from the CISSP-ISSEP examination on 25th April will be released in July
+approximately.
+
+Upcoming deadlines and events:
+
+22-26 June: Requirements Engineering (REN) software engineering module
+
+TO-DO:
+
+1. Table of Contents for meeting tomorrow
+2. Reading:
+  (a) MacKenzie and Pottinger (1997)
+  (b) Pottinger (1994)
+  (c) Dybvig (1996)
+  (d) Butterfield (2008)
+3. Start a file on Dr Ian Levy, including copies of all correspondence with him
+and other information I have obtained about him.
+4. Begin similar files on all other potential interview sources.
+5. Start contacting people for interviews.
+6. Paper ideas:
+  (a) Look at the correlation between CVE or CERT alerts and Common Criteria
+evaluated products.
+  (b) Changes over time in the approval process for Protection Pro files
+7. Taxonomy of C&A standards
+8. Verify that I am enrolled in the REN module.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

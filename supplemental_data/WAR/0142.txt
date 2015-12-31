@@ -1,0 +1,143 @@
+Weekly activity report no. 20100624.1416 (GMT-7) sequence no. 0142, week 8+1 TT
+
+This has been an extremely busy week.  I had a meeting with the
+programme manager for the Radiant Mercury CDS, Mr Olav Kjono, in
+Denver on Monday.  He is based in San Diego near the government sponsor
+(U.S. Navy SPAWARSYSCEN Pacific) but was in Colorado on a business trip,
+and I grabbed him.  I went into the meeting well-organised with an
+agenda and a list of specific questions about RM's funding relationship
+through Lockheed Martin and the government sponsor.  I wanted to ask how
+the costs of CT&E time and effort are allocated, and about the overall
+cost and budget of the programme.  An impedance mismatch quickly became
+apparent in the specialised terminology of government contracting.
+I understand where the RM programme is in the systems engineering
+life-cycle, but not in the acquisition life-cycle, and that is important.
+We found it impossible to communicate without a glossary; the language
+of acquisitions is so idiosyncratic (example: `the wrong colour money')
+that I could not get my questions across.  I got this much: the reasons
+why the O&M sustainment phase is fee-for-service and not fully funded
+can only be explained in the context of the acquisition life cycle;
+specifically, where the RDT&E money that is used for beta testing comes
+from.  Under the fee-for-service model, sites needing an RM system pay
+a combination cost of price + `tax' for overhead in addition to a yearly
+support fee, in contrast to a fully funded programme such as an aircraft
+acquisition where the end-users receive a certain predetermined number
+of aircraft but pay no amount monetarily.  The RM programme is not fully
+funded, even for the baseline.
+
+The programme manager recommended that I study the acquisition life
+cycle training material at the Defence Acquisition University (dau.mil)
+in order to better understand the right questions to ask.  I have
+requested access to the training and was also referred to some articles
+by an author in the Lockheed systems engineering organisation on the
+subject of `affordability' (another overloaded term that has a specific,
+non-obvious meaning in the acquisition life cycle).  Mr Kjono encouraged
+me to come back and talk to him again after I have learnt the language.
+[Editorial note: so this is what those people on the business side of
+the house do.  From my experience, engineers are largely unaware of it.
+They know vaguely that a specialised language exists but rarely hear
+it, as it is considered a `business ops' function.  Engineers tend to
+be more aware of the Federal Acquisition Regulations (FAR) because of
+compliance training that engineers receive, but FAR is about controls,
+not acquisitions.  What I discovered on Monday is that talking to the
+programme manager is impossible without the vocabulary.]
+
+Going through the Basic training series, Fee-for-Service module,
+and O&M Support module at dau.mil is supposed to take 56 hours; the
+training materials are free.  I have not begun it yet because I am
+working on the ACM workshop paper, due in a few days.  On the subject
+of different accreditors measuring different levels of risk in a CDS,
+and hence making different judgements about the risk mitigation measures
+that they will insist must be put in place, the concept of `moral hazard'
+keeps coming up.  Everett U. Crosby wrote about risk assessment in the
+context of fire insurance and fire protection measures in factories in the
+late 19th and early 20th century.  It led to the formation of societies
+that were sponsored by insurance companies for the purpose of encouraging
+and requiring---later enforcing---risk mitigations that had been shown
+actuarially to reduce payout costs.  What they found was that reducing
+the actual danger of fires sometimes led to a paradoxical increase
+in the number of fires, although the new fires were smaller.  In this
+analogy, accreditors are the fire marshals, data owners are the insurance
+companies, and CDS installers are the factory owners.  Some entities play
+more than one role, so I am still deciding whether this analogy holds
+any water.  Another related reference is Akerlof (1970), on the `market
+for lemons'.  In that paper, he shows how parties extract information
+about what price to pay for commodities from other parties that have the
+information but do not want to give it up.  They do it through tricks.
+In my thesis, I am trying to apply it to knowledge about the true level
+of risk in a CDS accreditation amongst the community of accreditors,
+who sometimes want to cooperate, sometimes do not, and sometimes want
+to cooperate but are constrained by security clearance rules.
+
+Looking for more history on the CT&E and ST&E of cross-domain systems in
+the intelligence community, I found a new book by Richard J. Aldrich this
+week about GCHQ (London: Harper Press, 2010).  With this book together
+with Bamford (2002), Richelson (2007) and possibly Bamford (2008) I hope
+to find a reason for the oft-cited difference in risk tolerance positions
+between US and UK accreditors.  I have heard the philosophical difference
+expressed on different occasions by evaluators on both sides of the ocean,
+so anecdotal evidence suggests it is a real phenomenon.  Other than by
+reading between the lines of their respective standards, though, if I
+cannot find a primary source for the policy differences I may be reduced
+to quoting the opinions of practitioners in the area.  Fortunately, I
+have at least two good sources of such opinions: opinionated individuals
+who have been willing to give me their opinions on the record.  Not as
+good as citable published sources in the literature, but once again I
+come up against the dearth of published sources (other than standards and
+policy documents) in the cross-domain accreditation field.  To this end,
+I am continuing to angle for an invitation to attend the next meeting of
+the CDTAB in Washington, DC.  The person I asked about it referred me to
+two other people and the current plan seems to be to make it a combined
+delegation to the CDTAB (Cross Domain Technical Architecture Board),
+DSAWG (Defence Security Accreditation Working Group), and the Unified
+Cross Domain Management Office (UCDMO) conference in early August.
+The programme manager is trying to get the PMO to provide funding.
+I may have to pay my own way.
+
+I talked with Mingqiu Song this week by email more about security
+certification requirements by the US Department of Defence under DOD
+Instruction 8570.1, particularly the CISSP and what it covers.  I offered
+to endorse her application if she wants to get the certification for the
+purpose of getting security managers to talk to her.  We talked about
+what the examination covers, various study guides that are available,
+and changes that were introduced in the requirements around 2004 that
+made the certificate much more difficult to obtain.
+
+I spent some time this week reading articles in the Times Higher Education
+about PhD education, supervision, and the time pressure imposed by the
+nominal three-year duration of a UK PhD as compared with nearer seven
+years elsewhere.  I am thinking about it because of the need pretty
+soon to stop researching, drive a stake in the ground, and say `I will
+write a dissertation about $x$.'  All the stories about poor graduate
+students in those articles make me want to validate with Dr Martin that
+he thinks I am generally still on the right track and not doing too
+many of those behaviours that annoy supervisors and delay finishing.
+I have a meeting with Dr Martin tomorrow and I will ask him about it.
+
+Tasks (in priority order, most urgent priority first)
+
+Immediately:
+
+1. ACM workshop paper draft due 28th June.  2. Waiting for visit request
+to get into CDTAB.  3. Accreditor survey more new questions.  List of
+email addresses for known accreditors.  4. Transfer list of accreditor
+meeting attendees and email addresses into a searchable text file.
+5. Finalise list of email addresses for the other two surveys.  6. Finish
+methodology chapter (waiting on final survey questions).  7. Crosstalk
+journal paper.
+
+To be done as soon as possible:
+
+8. Still waiting on UK student visa application.  9. Update dissertation
+Table of Contents.  10. For Chapter 3 or 4, start writing the
+interpretation of the first case study results and second case study
+preliminary results.  (This will be needed for both confirmation of
+status and for answering questions in France.)  11. Document the codes
+I used in a new appendix for de-anonymising of all study participants.
+It is a university requirement.  12. Begin writing progress report
+for confirmation of status.  13. Update the schedule.  14. Apply for
+confirmation of status.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory,
+St Cross College, Oxford

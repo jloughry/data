@@ -1,0 +1,25 @@
+weekly activity report 293 (loughry)
+Joe Loughry
+Sent: 17 May 2013 03:45
+To: Joe Loughry
+
+Weekly activity report no. 20130516.2023 (GMT-7) sequence no. 0293 week 4 TT
+
+I am leaving Friday for collaborative work meetings with Dr Fléchais
+beginning 1000 Monday.  I hope to be able to join the Reading Group next
+Tuesday for the cyber security research methodology meeting, and I am also
+planing to attend the cyber security research seminar Friday evening.
+If all goes to plan, by the end of next week I should have the model
+finished in ATLAS.ti and the only remaining work will be fairing it
+into the original Chapter 5 and updating the methodology in Chapter 3
+to correspond to the new work.  If any of the conclusions are altered
+by the new model, Chapter 7 will have to be revised to match.
+
+Tool report: ATLAS.ti version 6.2.28 began to slow down dramatically right
+around the same time I finished coding.  Files are version controlled
+in GitHub for backup and remote access.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

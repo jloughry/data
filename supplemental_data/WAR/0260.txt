@@ -1,0 +1,45 @@
+weekly activity report 260 (loughry)
+Joe Loughry
+Sent: 28 September 2012 04:26
+To: Joe Loughry
+ 
+Weekly activity report no. 20120927.2001 (GMT-7) sequence no. 0260 week -1 MT
+
+I am convinced it is necessary to know the precise conditions under
+which the accreditor model predicts information flow and where it makes
+no prediction.  I met with my supervisors this week to discuss the issue.
+They urged taking more time to further test the robustness of my argument
+and to make the writing watertight before presenting it to the examiners.
+I agreed to spend a few more months on it in order to submit a better
+written dissertation at the end of the year.  My contributions are solid
+and I have analysed the data sufficiently but they want me to think more
+about what it all means before finishing the final draft.  I think I can
+accomplish that by November.  I am going to keep working on it and send
+PDF files to Dr Martin and Dr Fléchais more often.  I have to apply back
+to the department for status within one year, but it should be approved
+automatically once I have my thesis finished and ready to submit to the
+examiners.  This week I have been working on a proof of the last result
+I came up with---the most important of my results---which I need for the
+thesis and also for some unspecified paperwork I need to file somewhere
+else soon.  Dr Fléchais gave me advice on improving the grounded theory
+argument in my thesis and Dr Martin helped me understand how and where to
+show my results in the form of a mathematical proof.  Both of them showed
+me how to reuse peer-reviewed material properly in writing chapters.
+
+Dr Martin contacted the Computer Science department admin and my
+college on my behalf to explain to them about the delay in submitting.
+Registration opens next week for the C&ESAR 2012 conference in November;
+I will make travel reservations for that after I get the location and
+schedule information.  I have started sending out résumés and applying
+for jobs in anticipation of finishing; I figure to have plenty of time
+for writing and rewriting while waiting for interviews this autumn.
+If no job offers are forthcoming pretty soon, I'll start writing the
+software to turn these results into a startup.
+
+Status: thesis submission delayed; working on a proof of the security
+properties of the ST&E phase of C&A.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

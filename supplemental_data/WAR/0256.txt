@@ -1,0 +1,52 @@
+weekly activity report 256 (loughry)
+Joe Loughry
+Sent: 31 August 2012 01:58
+To: Ivan Flechais; Niki Trigoni; Andrew Martin; Joanna Ashbourn
+
+Weekly activity report no. 20120830.1834 (GMT-7) sequence no. 0256, week 8+11 TT
+
+I am done with Chapter 2 but have not turned in yet.  I got stuck last
+week trying to include everything I ever read in the literature review;
+it caused me to delay starting on the methodology chapter.  I am now
+about a chapter and a half behind schedule.  I am working on it and
+trying to catch up.  I had some new insights on how best to describe the
+methodology.  A lot of it involves deciding how much material to leave
+out: reading I did that turned out not to be useful, things I tried that
+did not work, dead-ends I went down before backtracking.  Chapter 3 is
+expected to be done in two more days.  Chapters 4 and 5 should go more
+quickly than previous chapters because of all the things I have had
+to review and think about and decide how to say during the writing of
+the literature survey and methodology chapters.  The complete theory
+diagram that I owe to Dr Fléchais is not done yet.  I will get that
+figure drawn as soon as possible but I am trying to keep to my schedule.
+
+Milestone 1: Chapter 1 (Introduction) due 14th August [done]
+
+Milestone 2: Chapter 2 (Literature Review) due 19th August [late, done,
+	not turned in yet]
+
+Milestone 3: Chapter 3 (Methodology) due 23rd August [late but started]
+
+Milestone 4: Chapter 4 (Case Study of a Successful Certification) due
+	27th August [late, not started]
+
+Milestone 5: Chapter 5 (An Unsuccessful Common Criteria Evaluation) due
+	31st August.
+
+Milestone 6: Chapter 6 (Interpretation of Results) due 4th September.
+
+Milestone 7: Chapter 7 (Summary and Conclusion) due 8th September
+
+Milestone 8: edit, rewrite, review by supervisors: last 2 weeks of
+	September [reduced from 3 weeks]
+
+Milestone 9: CESAR 2012 camera ready paper due 17th Sept.
+
+Milestone 10: submit dissertation Monday, 1st October.
+
+Status: describing methodology in Chapter 3.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

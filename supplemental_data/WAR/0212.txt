@@ -1,0 +1,72 @@
+weekly activity report 212 (loughry) 
+Joe Loughry 
+Sent: 28 October 2011 03:39 
+To: Joe Loughry 
+ 
+Weekly activity report no. 20111027.1947 (GMT-7) sequence no. 0212, week 3 MT
+
+I received the assessors' report Friday by airmail.  As I told Dr Martin,
+this week was hopeless to make any progress at all in the face of what
+is required to close out the FA-8750-C-0006 contract.  I will look at
+my thesis again Monday.
+
+Security Reading Group met Tuesday to discuss the paper `seL4: Formal
+Verification of an OS Kernel' by Klein, et al. (2009), suggested by
+Justin.  Several people sent around notes this week about new papers
+appearing at CCS'11, some of them relevant to cross domain systems.
+I listened to a presentation by John Morrison on the annual Cyber Defence
+Exercise (CDX) conducted by NSA against service academy cadet teams.
+Fifty or so NSA people on the red team play against students at eight
+academies; students are given certain legacy systems (occasionally riddled
+with malware) that they are required to keep functioning during the test.
+The grey cell meanwhile provides ongoing operational traffic, playing the
+part of operational missions who have to keep working through the attack;
+if their traffic is delayed or dropped, the blue team loses points.
+Scoring is automated.  There was a video made of the most recent contest;
+I am trying to get a copy of it.
+
+The quarterly progress report and annual summary report to the Air
+Force have been submitted; I must finish the final technical report
+this weekend in addition to a presentation for the patent review board
+and some updates to the user's guide.  All the reports were delayed by
+other managers giving me unplanned tasks all week, all of which had to
+be done immediately.  In contrast to all these assignments, I don't even
+know if I will have a job in two weeks.
+
+I met with Dr Martin this week Wednesday.  I reported that I would be
+tied up writing contract final reports for the FA8750-09-C-0006 contract
+through the end of this week, but free after.  Dr Martin said the GSO.25
+form has been processed and encouraged me to meet with Dr Fléchais as
+soon as possible.  We discussed what is likely to happen at work and I
+reinforced that my only priority is to complete my research and finish
+my dissertation.  We chatted about some technical aspects and then Dr
+Martin encouraged me to meet with Dr Fléchais to get moving again on
+the grounded theory once I am out from under the Air Force contract.
+A meeting with Dr Fléchais will help to plan the schedule and what
+tasks exactly I need to accomplish to finish.  I reported that I have
+updated the estimated time to completion of tasks on the chart to keep
+them accurate and reflecting of reality; some estimated November dates
+have now moved into December and January.
+
+Next meeting is scheduled for 1st November 2011 after reading group.
+
+Table of progress report on analyses and interpretations:
+
+Chapters 1 and 2 need the specific work indicated. Writing a review
+	article on declassification.
+Chapter 3 on CS1 current status: 60% done (needs model linking coding
+	to grounded theory).  Estimated completion date: December.
+Chapter 4 on CS2 current status: 5% done, waiting until CS1 is properly
+	completed.  Estimated time to complete: December and January.
+Chapter 5 on CS3 current status: 0% done, waiting until CS2 is done.
+	Estimated time to complete: February.
+Chapter 6 and 7: current status: 5% done, waiting until end of January
+	to work on.
+
+I will show the declassification review section to my supervisors after
+I send the final report to AFRL.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

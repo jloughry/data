@@ -1,0 +1,48 @@
+Weekly activity report no. 20090521.2113 (GMT+1) sequence no. 0085, week 4 TT
+
+Donald Knuth gave a talk at the Computing Laboratory today.  The permutation
+described in his talk was illustrated with a nifty card trick; when I asked a
+question about it (I was incautious enough to be sitting in the front row),
+Professor Knuth handed me the deck of cards and told me to try it out in front
+of the whole room.  I was sure I had a counterexample, but it didn't work.
+Professor Bird thought there was one too, but I convinced him eventually that it
+could not work.  Afterwards I spent time in the library attempting to work out
+more counterexamples, but no matter how you do it, the permutation forces the
+answer to come out the same way.  (It is independent of the size of the deck.)
+Neat trick.
+
+I am working on two things this week: first, my methodology chapter.  I met with
+Dr Martin on Tuesday; he gave me advice on writing, organising thoughts, and
+advice for getting unformed ideas down on paper.  I am following that advice and
+will bring a methodology chapter to our next meeting.  The second thing I am
+working on is a mid-point progress report of my DPhil research so far.  This is
+not required but I think it will be a good way of organising my schedule for the
+next six weeks, six months, and the next year.
+
+Next regular weekly meeting with Dr Martin: 27th May.
+
+Books I am reading: Bock (2001), `Getting It Right: {R\&D} Methods in Science
+and Engineering'; Phillips and Pugh (2007), `How to Get a {PhD}, 4th edition';
+Shasha and Lazare (1985), `Out of their minds: the lives and discoveries of 15
+great computer scientists'; Dybvig (2003), `The {Scheme} Programming Language:
+{ANSI Scheme}'.
+
+Upcoming deadlines and events:
+
+27th May: Prof Kwiatkowska's briefing on confirmation of status process
+29th May: Andy's viva
+22nd-26th June: Requirements Engineering (REN) software engineering module
+
+TO-DO:
+
+1. Methodology chapter
+2. Mid-point progress report
+3. Reading
+4. Contact individuals to schedule interviews for case studies
+5. Contact Dr Levy again to try to set up an appointment
+6. Verify that I am enrolled in the REN module.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

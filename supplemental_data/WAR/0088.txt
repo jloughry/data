@@ -1,0 +1,53 @@
+Weekly activity report no. 20090611.2010 (GMT+1) sequence no. 0088, week 7 TT
+
+I am buckling down for the work required over the next 12 months.  That is 4
+peer-reviewed published papers before confirmation of status in June 2010.  I am
+going by a useful piece of advice from Dr Martin: `your thesis is three good
+ideas that you have had published'.  Each paper will be a chapter.  The first
+paper I am going to write (starting now) is a version of the same talk I have
+given at two seminars.  Goal is to get the paper written and submitted to the
+journal _Crosstalk: The Journal of Defence Software Engineering_ before I have
+to move house at the end of July.
+
+Status of parallel tasks:
+
+1. Waiting for a reply from Dr Ian Levy of CESG regarding interview (Legal);
+2. Clone \LaTeX\ files and tailor Makefile and CVS for each of the 4 papers;
+3. FINISH METHODOLOGY CHAPTER OUTLINE!
+4. Update wiki with Bletchley Park maps, trip information, and schedule;
+5. I am introducing the next Reading Group paper on Wednesday.
+
+Books I have been reading this week:
+
+Knuth (1986) _The \TeX book_
+Still working on Bock's book (1999) on methodology;
+
+TO DO:
+
+1. Trinity graduate student supervision report (tonight);
+2. First paper draft (tomorrow);
+3. Detailed plan for next 12 months (needed for following task);
+4. Mid-point progress report (due 21st June);
+5. Reading plan for going through my historical project records.
+6. Cognitively Assisted Cross-Domain Information Sharing (CACDIS) quarterly
+progress report (for the Air Force).
+
+Upcoming deadlines and events:
+
+15th June: quarterly progress report to the Air Force is due for internal review;
+21st June: HALF-WAY POINT (end of term 6);
+21st June: GalaxyZoo meet-up at Royal Oak
+24th June: encaenia;
+22nd-26th June: Requirements Engineering software engineering module (all week);
+8th July: field trip to Station X;
+28th July: moving day;
+1st September 2009: plan to have first chapter peer-reviewed;
+1st January 2010: plan to have second chapter peer-reviewed;
+1st April 2010: plan to have third paper peer-reviewed;
+15th June 2010: plan to have fourth paper peer-reviewed; Confirmation of Status
+report due.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

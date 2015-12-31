@@ -1,0 +1,19 @@
+Weekly activity report no. 20080403.2128 sequence no. 0027 week -2 TT
+
+I have an opportunity to give a talk about experiences at Oxford at my company
+next week.  It should be good practice, standing up in front of 80 people.  I am
+preparing slides using the LaTeX beamer class.
+
+One of the purposes of this trip is to secure paper records of source material
+that I need for my transfer report.  Because the records are stored in a secured
+area, I can't rightly ask someone else to box up a bunch of records (not really
+knowing what they are), and mail it to another country.  Better I do it myself.
+ The cost of the trip will be worth it to have the records.
+
+I will be in the USA all next week.  Next regular meeting with Dr Martin will be
+during Week 1.
+
+-- 
+Joe Loughry
+DPhil PRS, Computing Laboratory
+St Cross College, Oxford

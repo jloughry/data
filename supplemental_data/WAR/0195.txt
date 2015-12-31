@@ -1,0 +1,64 @@
+weekly activity report 195 (loughry) 
+Joe Loughry 
+Sent: 01 July 2011 04:50  
+To: Niki.Trigoni@comlab.ox.ac.uk; Andrew Martin; Joanna Ashbourn  
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; hmbjuggler@yahoo.com;
+	tom.a.marso@lmco.com  
+
+Weekly activity report no. 20110630.2019 (GMT-7) sequence no. 0195, week 8+1 TT
+
+This was not a productive week for writing, due to personal business.
+Travel arrangements for the UCDMO conference were finalised and paid
+for; during times when I am not demonstrating the prototype, I will
+be able to attend the rest of the conference.  I applied for one more
+term of student loans to cover travel and conference expenses over the
+summer and Michaelmas term.  I still need the U.S. government sponsor's
+approval that is necessary to get into the conference and visit request
+from government security to pass clearances.
+
+I worked on the new grounded theory coding form.  It is part of the
+methodology and belongs in Chapter 2, but depends on org charts not
+described until Chapter 3.  I am late delivering a complete Chapter 2 to
+Dr Martin.  I thought I could do it by 27th June, but failed to deliver.
+Tomorrow I will stop writing Chapter 3 and get Chapter 2 done.
+
+I attended two virtual seminars this week: `Leveraging Social Media for
+Early Indications and Warnings of Instability and Unrest' (IEEE CS) and
+another on Lockheed's test of different malware scanners at the network
+edge, comparing in detail the differences in results found by each.
+I have also started reading Shamal's dissertation, principally to see
+how he wrote up a grounded theory in his Chapter 9.
+
+I need the entire month of July to write Chapter 3 (the first results
+chapter) and a good part of Chapter 4.  Date not set for confirmation
+of status yet, but it should take place in August or September, at the
+convenience of the assessors Drs Jirotka and Fléchais.  I have not
+been in close reporting contact with those two since the beginning of
+the year; probably I should email them both, describe the work I have
+done in response to their advice, and book a time for the viva.  I need
+to talk to Dr Martin about that plan; I'll request a meeting next week.
+
+The cross domain technical architecture board assigned a new technical
+risk rating to version 5.0.1 this week.  K------ M------ and D------
+B------ attended the meeting 29th June.  The board revised the
+technical risk from `high' to `medium', good news for the developer.
+The earlier version 4.5 had a medium risk; 5.0 was evaluated `high'.
+The difference is directly attributable to changes the developer made
+in response to CDTAB concerns about technical, data, and attack risk.
+Few other CDSs are rated `medium'; most are rated `high' with the
+exception of null-functionality data diodes that might get a `low'.
+This CDTAB go-around amounts to the SABI approval sought by the R''
+developer.  The board highly praised the developer's OSP process,
+described earlier.  The COTS TCB patching problem had been universally
+ignored by CDS developers until now; the board said they intend to
+force all other CDS developers to follow the OSP model.  The board
+recommended additions and changes including guard-specific IAVAs to
+track OSP application compliance; CDTAB were reportedly happy that the
+developer solved that problem for them.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford
+

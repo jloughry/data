@@ -1,0 +1,25 @@
+Weekly activity report no. 20071108.2156 sequence no. 0007 week 5 MT
+
+I am scheduled to attend the Safety Critical Systems course (Software
+Engineering) next week as an observer.  The week after that is Specification and
+Design (SDE) which is more of a worry, but I am reviewing Z syntax in
+preparation for the course.  More worrisome is the prospect of missing a couple
+of lectures in Computer-Aided Formal Verification (CAFV), which is difficult
+enough to keep up with as it is.  Fortunately, because the professor is out of
+town, there are no CAFV lectures next week, so it's only the week of SDE that I
+need to watch out for.
+
+Exam dates for Functional Programming and CAFV have been published; I have until
+week 8 when the exams are handed out to be sure that I can meet those dates.
+
+Priority no. 1 this week: reading Z books.
+
+Outside work: switching to half-time status (official) with Lockheed Martin
+Corp, due to increasing time demands at school.  Applying for student loans to
+make up the difference in funding; this will not appreciably change my funding
+resources; just moves things around a little.
+
+-- 
+Joe Loughry
+DPhil PRS, Computer Science
+St. Cross College

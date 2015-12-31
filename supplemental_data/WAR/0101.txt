@@ -1,0 +1,61 @@
+Weekly activity report no. 20090910.2233 (GMT-7) sequence no. 0101, week 8+12 TT
+
+I made good progress this week although not in the sequence on my schedule.  I
+tried using LinkedIn.com to contact some participants I need to interview, and I
+got back positive and encouraging responses from several people.  These are all
+people I have not had any luck finding previously, and all four indicated that
+they would like to talk to me.
+
+The poster presentation for ACSAC 25 is coming along; I do not have it finished
+yet but I WILL get it done by the end of the day tomorrow.  The deadline is a
+week away and I still have to get it reviewed/approved for public release.
+There is considerable overlap between this poster presentation and the article I
+am writing for the journal Crosstalk---the journal article is more expanded and
+contains information that won't be in the poster, but I worry about the ethics
+of multiple publication.  The thing to do is to finish writing them and show
+them side-by-side to my supervisor.  I hope to be able to do that in about a week.
+
+Graduate Supervision Reports came out today and I read Dr Martin's comments.  I
+agree that I am heading in the right direction and also that I need to speed up
+the rate of progress.  I resolve to track and report milestones more closely in
+future and stick to deadlines.  My current milestone is to have to have both the
+ACSAC poster (submission) and Crosstalk paper (draft) completed before 18th
+September.  I still think this is achievable.  The hard deadline of the ACSAC
+conference is a good motivator.  I will also schedule a meeting with Dr Martin
+by telephone as soon as I finish these two papers.
+
+I did not meet with Dr Martin this week---my fault, not his---though as shown
+above I have had a fairly efficient week even though unexpectedly working on
+things out-of-order according to my schedule.  The result was time lost on the
+poster presentation but maybe progress toward research.  I will finish the
+poster (required two pages) by the end of tomorrow.
+
+Other Activity: I am giving a talk tomorrow to a group of about sixty engineers
+at Lockheed on the topic of secure deletion of data from storage devices.  (I
+only got asked to do it yesterday.)  I have been getting more and more involved
+lately with a weekly seminar series---in Pennsylvania, but people dial in from
+all over---that addresses random Information Assurance (IA) topics.  I have
+presented at a couple of them, and the organiser has invited me back each time.
+
+I looked up current values for magnetic coercivity (4000 to 8000 Oe according to
+a recent Seagate patent) and the field intensity of currently approved
+degaussers (around 13,000 Oe).  I have time and cost comparison numbers for
+overwriting and shredding versus full disk encryption.  I will describe the
+current state of TPM-based encrypted storage and the security certifications
+that have been done to date in USA and Japan.  Finally I will go over recent
+changes in US government regulations addressing media sanitisation.
+
+Current Milestones:
+
+ - The deadline for ACSAC 25 poster or WiP submissions is 18th September.  The
+poster must be reviewed for public release before this date.  Also, to have the
+Crosstalk article draft to Dr Martin for review.
+
+ - Week of 14th September: schedule a supervisor meeting with Dr Martin.
+
+ - Register and pay for ACSAC 25 in December.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

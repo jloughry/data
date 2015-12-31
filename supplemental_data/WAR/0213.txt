@@ -1,0 +1,59 @@
+weekly activity report 213 (loughry) 
+Joe Loughry 
+Sent: 04 November 2011 07:48 
+To: Joe Loughry 
+
+Weekly activity report no. 20111104.0118 (GMT-6) sequence no. 0213, week 4 MT
+
+I finished writing the final technical report for the Air Force
+Research Laboratory contract. I wrote several referee reports for the
+OXFORD-CS-2011 conference, and updated the conference web site. The
+programme committee will meet this week to evaluate submissions. I
+responded to the comments from the evaluators on my application to the
+IPRB patent review board and the attorney search results for prior art
+in preparation for the board meeting next week.
+
+I met Tuesday afternoon with Dr Martin.  I reported much activity but
+no progress at all on thesis work.  Air Force contract requirements for
+quarterly and annual summary reports were delivered, leaving only the
+final technical report.  I worked a few hours on a possible new funding
+source, BAA 10 09 RIKA `Cross Domain Innovative Technologies', but I do
+not know if I should even pursue that work.  The amount of time demanded
+by Lockheed is increasing without bound.  I have meetings booked tomorrow
+with an HR manager at Lockheed and with my L-code to figure out what to
+do next.  Wednesday, I met with a trusted financial advisor to look at
+my accounts and determine what I can afford to do.
+
+Dr Martin and I talked about the ISPP seminar on mobile phone theft;
+he sent me the speaker's slides.  OXFORD-CS-2011 programme committee
+work is almost wrapped up; the local committee members will run the show
+and the conference dinner. There was no meeting of the security reading
+group this week; I have a couple of papers I would like to suggest but
+no time to prepare, so I haven't put one forth.  I reported that I have
+no more than week-to-week funding presently.  I promised to meet with Dr
+Fléchais and set a schedule after submitting the final technical report.
+
+Our next meeting is scheduled for Tuesday, 8th November 2011 after
+reading group.
+
+Table of progress report on analyses and interpretations (unchanged from
+last week due to working full-time on the final technical report):
+
+Chapters 1 and 2 need the specific work indicated. Writing a review
+	article on declassification.
+Chapter 3 on CS1 current status: 60% done (needs model linking coding
+	to grounded theory).  Estimated completion date: December.
+Chapter 4 on CS2 current status: 5% done, waiting until CS1 is properly
+	completed.  Estimated time to complete: December and January.
+Chapter 5 on CS3 current status: 0% done, waiting until CS2 is done.
+	Estimated time to complete: February.
+Chapter 6 and 7: current status: 5% done, waiting until end of January
+	to work on.
+
+I will go back to work on the declassification review section in the
+morning.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

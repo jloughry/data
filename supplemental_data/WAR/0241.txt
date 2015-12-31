@@ -1,0 +1,28 @@
+weekly activity report 241 (loughry) 
+Joe Loughry 
+Sent: 18 May 2012 01:25
+To: Joe Loughry
+ 
+Weekly activity report no. 20120517.1745 (GMT-7) sequence no. 0241, week 4 TT
+
+Almost finished with CS-1 files and ATLAS coding.  Out of 1617 files
+examined, 36 percent so far are relevant to CS-1 or CS-2; 733 files
+remain to be gone through.  New codes appearing to become important this
+week include rumours and unsubstantiated beliefs about the methods of
+operation of certifiers and accreditors that are endemic at the developer
+and programme office level; visible evolution of my thesis question;
+and blind alleys that proved out to be unproductive.  I found a mention
+of a planning estimation technique from NASA for planetary rovers that I
+believe could be useful for projecting accreditation completion dates.
+Another person gave me a 2009 paper by Barnes from which I got useful
+techniques for qualitative analysis and organizing the lit. survey.  I was
+emailed by Lockheed intellectual property counsel this week regarding an
+invention disclosure filed in 2003; I provided the requested information.
+Status: very close to finishing CS-1 codes and into filtering of CS-2
+evidence.  Estimated completion date of CS-1 data analysis remains the
+fourth or fifth week of May.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

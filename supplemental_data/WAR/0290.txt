@@ -1,0 +1,21 @@
+weekly activity report 290 (loughry)
+Joe Loughry
+You forwarded this message on 26/04/2013 20:08.
+Sent: 26 April 2013 20:07
+To: Ivan Flechais; Niki Trigoni; Andrew Martin; Joanna Ashbourn
+
+Weekly activity report no. 20130426.1939 (BST) sequence no. 0290 week 1 TT
+
+I arrived safely in Oxford; my viva will be at 2pm Monday in room 441.
+I have prepared a short introductory talk.
+
+Reading group this week discussed 'The Core of the Matter: Analyzing
+Malicious Traffic in Cellular Carriers' by Lever, et al. (ISOC NDSS 2013).
+I completed drawing new figures for the IEEE paper on the improved
+accreditor model.  Before travel, I met with Dr Martin via Skype.
+I am updating the term card on the OUSS web site.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

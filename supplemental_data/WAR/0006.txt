@@ -1,0 +1,39 @@
+Weekly activity report no. 20071102.2005 sequence no. 0006 week 4 MT
+
+Sorry this report is late; I simply forgot to write it yesterday.  I have put
+reminders in the calendar to avoid that problem in the future.
+
+I have successfully caught up with lectures and assignments in Functional
+Programming (FP) and Computer-Aided Formal Verification (CAFV).  My current
+priorities are, in order:
+
+Priority 1: Review Z language syntax in preparation for the Software Engineering
+department SDE short-cource, which starts Week 7.
+
+Priority 2: Stay on top of FP and CAFV assignments, two of which will come due
+in the next week or so.
+
+Priority 3: Prepare, if necessary, for the SCS intensive short-course, which
+starts Week 6.  Currently I expect that not much preparation will be needed, but
+I need more information.
+
+Things that I need: I need confirmation of a place in the Software Engineering
+department SCS short-course, which starts Week 6.
+
+Things that I have promised to other people: to choose a paper to present and
+talk about at the Security reading group in a couple of weeks.
+
+Highlights of the week: I started reading two new books, one on CAFV to help
+interpret the foreign language in lectures, and the other on Z.  Had a bit more
+sucess understanding the Haskell language this week than last.  I would still
+rather be writing in SPARK than Haskell, though, at least so far.  I had several
+interesting exchanges by email with Dr. Martin about copyright, plagiarism, and
+research methods.  He pointed me to a troubling recent study of plagiarism among
+grad students in _information_security_ of all fields.
+
+Outside Work: deferred while I was concentrating on school this week.
+
+-- 
+Joe Loughry
+DPhil PRS, Computer Science
+St. Cross College

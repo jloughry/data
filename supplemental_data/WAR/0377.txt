@@ -1,0 +1,21 @@
+weekly activity report 377 (loughry)
+Joe Loughry
+Sent: 26 December 2014 03:24
+To: Ivan Flechais; Niki Trigoni; Andrew Martin; Joanna Ashbourn
+
+Weekly activity report no. 20141225.2003 (GMT-7) sequence no. 0377, week 8+3 MT
+
+I found a solution to the problem I had with the writing of Chapter 5. I
+discussed the solution with my supervisors and I am implementing it now for
+them to review. It will take only as long as changing all the verb tenses
+in 36,000 words and getting the necessary network diagrams out of ATLAS.ti
+and into the text as new figures. As soon as I have that done (tomorrow or
+Sunday at the latest), and write a new chapter introduction, I shall send
+my supervisors a new Chapter 5. After that, I need to do some clean-up in
+Chapters 6 and 7 (the revision notes), and update the list of codes in the
+appendices. I'll have it done before New Year's Day.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

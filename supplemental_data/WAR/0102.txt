@@ -1,0 +1,52 @@
+Weekly activity report no. 20090918.0049 (GMT-7) sequence no. 0102, week -3 MT
+
+I finished the poster for ACSAC 25 tonight, after working like a demon on it all
+week.  The deadline for submission is today.  I know I didn't get it done early
+enough to have several people review it internally before submitting.  I want to
+submit the poster today, however, in order to make the deadline for the
+conference.  I think it is pretty good, but it's definitely not flashy.  If you
+have time to look at it today, I would very much appreciate any feedback.  It's
+the first poster I've ever done.  I think I could stand next to this poster and
+talk about it at a conference.  (PDF file attached.  It is sized for printing as
+two A4 pages or two-up on a single A0 sheet.)
+
+I have submitted a draft of the poster for (security) review for public release
+already; the security clearance people understand the difference between draft
+and camera-ready copy, and just want to see a draft as early as possible.
+
+I promised last week to have the poster and a draft of the Crosstalk journal
+article done by today; the journal article is not ready yet but it should go
+together quickly now because the content is basically the same as the poster,
+only expanded to 4000 words instead of 800 words.  There are many details I had
+to cut from the poster because they wouldn't fit; all the wordsmithing I did and
+agonising over phrases can be re-used in the journal article.  I will work on
+that article today.
+
+I wanted to have the writing finished before calling Dr Martin for a meeting;
+because I ended up writing all week I didn't schedule a meeting earlier in the
+week.  Let me finish the journal article draft over the weekend.  As soon as
+possible after that I will email to request a meeting.
+
+Other activities this week: I gave a talk to the IA Communities of Practice
+(CoP) group at Lockheed Martin on 11th September.  There were 125 engineers on
+the multicast (they were in Pennsylvania, I was in Colorado) plus an unknown
+number of people on the teleconference and NetMeeting.  I got many questions
+from the audience and some thanks by email afterwards.  The organiser asked me
+back for another talk in the future.  So far I have given two of these talks and
+contributed background material to several others; they take place weekly on a
+variety of topics related to Information Assurance.  It's good practice; I can
+tell that I'm getting better at public speaking although I still need a lot more
+experience at it.
+
+Current Milestones:
+
+ - ACSAC 25 poster or WiP submission deadline TODAY.
+
+ - Crosstalk journal article draft TODAY.
+
+ - Later today or early next week, schedule a meeting with Dr Martin.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

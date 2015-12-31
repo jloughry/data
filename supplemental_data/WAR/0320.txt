@@ -1,0 +1,22 @@
+weekly activity report 320 (loughry)
+Joe Loughry
+Sent: 21 November 2013 23:52
+To: Joe Loughry
+
+Weekly activity report no. 20131121.1617 (GMT-7) sequence no. 0320, week 6 MT
+
+I am ready to send chapters to my supervisors to begin reviewing. Dr
+Martin emailed the other day to suggest a meeting; I asked for some time
+on Skype to agree on a schedule. I can have the second chapter ready
+tomorrow; after that I want to send another every three or four days.
+
+Reading group next week will be going over Deena A's transfer report;
+I have been reading it in preparation. Yesterday I spent hours updating
+SSH keys in makefiles all over my GitHub repositories in response to a
+security advisory about unauthorised login attempts coming from 40,000
+IP addresses. GSS reports are due next week.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

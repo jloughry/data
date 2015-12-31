@@ -1,0 +1,83 @@
+Weekly activity report no. 20090924.2234 (GMT-7) sequence no. 0103, week -2 MT
+
+I met with Dr Martin by video teleconference on Wednesday.  We discussed the
+ACSAC poster submission and progress towards the Crosstalk journal paper.
+
+Something unusual has come up.  From a contact at Lockheed, I received a copy of
+a new U.S. Air Force Request for Information (RFI) asking for a system very much
+like what I have proposed to build as part of validating my thesis.  This came
+in late Tuesday night and I had not had time to read it thoroughly at the time
+of my meeting with Dr Martin on Wednesday morning, but it appears to be a close
+match.  The only difference between what I proposed at Transfer of Status and
+this is that my proposal dealt with the Common Criteria and the Air Force is
+asking for DIACAP.  The RFI definitely contains information I can use.  It may
+additionally prove to be a source of funding, a case study for validation, and
+an impetus towards more rapid progress on my research.
+
+After talking with Dr Martin and verifying that it would not be a conflict of
+interest to do so, I told my manager at Lockheed that I would like to explore
+it.  Within hours, the situation escalated.  The programme manager assigned a
+project manager (a person I have worked with before; I have great respect for
+her ability).  The programme manager kicked it upstairs to the Vice President
+level.  I got a call from Legal asking me to please check the University's
+regulations on intellectual property and research support.  (I am still reading
+web pages on those.)  I have definitely been encouraged strongly to pursue it.
+
+What I hope will happen next is that Lockheed will decide to submit a white
+paper in response to the RFI.  I would undoubtedly be asked to write it.  The
+best part is, that's exactly the same thing as the Crosstalk paper.  So I will
+get paid for the time I spend writing it.  It's only a few days of funding, but
+still.
+
+The Air Force programme office that issued the RFI would next evaluate the white
+paper along with any others that they received.  (I am aware of at least one
+other department within Lockheed starting to write a white paper.)  If the Air
+Force likes the Lockheed white paper, they may request a formal proposal to
+follow.  The proposal is significantly longer, more detailed, and contains
+schedule and budget information along with a list of specific deliverables.  I
+would help write that together with several other people who specialise in such
+things.  Once the proposal is delivered, it is up to the Air Force to decide
+whether to allocate funds and issue a contract.  If that should happen, I would
+be assigned to work on the project and build the system.  I would be getting
+paid to work on my research problem.
+
+This is serendipitous for two reasons; firstly, it represents a reliable source
+of funding.  Secondly, a project manager will be monitoring all progress to a
+parallel but highly detailed schedule, forcing me to keep to deadlines and all
+but guaranteeing rapid progress on my part.
+
+Even if everything else were to fall through (unlikely), I still have the
+RFI---a published document---and could use the information therein to validate
+the requirements for my proposed methodology and tool support.
+
+Not all of the above things have actually happened yet.  I have a backup plan in
+case it doesn't.  When the opportunity first came to light, I thought about
+whether I should ignore it and stick to my original plan (Common Criteria) or
+take a risk, be `agile', and switch my research to DIACAP.  Theoretically, it
+makes no difference.  DIACAP (Department of Defence Information Assurance
+Certification and Accreditation Programme) is based on Common Criteria anyway
+and there are strong commonalities.  DIACAP is newer, and may in fact be a
+better standard.  I decided to exercise agility and pursue it.  As mentioned
+above I have backup plans in case this doesn't pan out.
+
+My immediate tasks are:
+
+1. Understand the RFI and what it's asking for;
+
+2. Write the Crosstalk article, then submit it simultaneously as a white paper
+in response to the RFI;
+
+3. Finish checking the University regulations governing ownership of graduate
+student research, since Lockheed is chary about funding something they might
+lose control of later.
+
+As usual, my best laid plans (every week, it seems like) have to be rearranged
+in response to external events.  However, this is potentially a good opportunity
+and I think it's worth the risk.  I promised to get the draft Crosstalk article
+to Dr Martin before our next meeting on Thursday, 1st October 2009 at 2:00 p.m.
+Oxford time.  Several other people are waiting impatiently for it now, too.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

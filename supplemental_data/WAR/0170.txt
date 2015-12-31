@@ -1,0 +1,179 @@
+weekly activity report 170 (loughry) 
+Joe Loughry 
+Sent: 07 January 2011 06:21  
+To: Niki Trigoni; Andrew Martin; Joanna Ashbourn  
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.w.auten@lmco.com; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; tom.a.marso@lmco.com  
+
+Weekly activity report no. 20110106.2222 (GMT-7) sequence no. 0170, week -1 HT
+
+I met with Dr Martin by video teleconference at 5pm (UK time) on
+Wednesday.  Agenda emailed out before the call.  At the time of the
+meeting I had not received a report from the assessors yet, though I
+have received it now.  What I wanted to talk to Dr Martin about was a
+plan for recovering and moving forward.  I got sidetracked, I told him,
+chasing off after an idea that ultimately turned out not to be useful.
+I said that I got a strong impression that the assessors do want me to
+succeed, and gave me good advice.  The lowest-risk path, as I see it,
+is to do precisely what the assessors asked for.
+
+Dr Martin noted that the assessors' view is not the only view.  The work
+I have done in the past year is not wasted and may turn out to be more
+important than the data in the long term.  The reason, he said, is
+because I seem to be on to a theory that can make predictions, a more
+valuable contribution than data alone.  Dr Martin encouraged me not to
+throw away the work I have done, but to look at the time available as
+the controlling resource.  The lowest-risk path might not be the lowest
+risk if it requires more time than is available.
+
+I related that the assessors said at the time of the viva that they
+thought I could accomplish the new data analysis if I could devote
+nine months full-time to the task.  I reported that I am learning the
+new tool for qualitative analysis but I do not have a good estimate yet
+how long the analysis will take.  I plan to tackle the third case study
+(R'') first, because the shape of that data is closest to the model of
+well-structured raw data that I have seen (data obtained from Shamal,
+the local expert on grounded theory in the comlab).  I do not have a good
+sense yet of the relative sizes of the hermeneutic units of all three
+case studies in terms of work required to code their textual artefacts.
+Dr Martin asked what references I have; I reported that the seminal
+work on grounded theory is a book published in 1967; I have a copy of
+that book on order from Amazon along with two other books on grounded
+theory and on coding of textual material.  Once those arrive and I have
+read them, I will be able to estimate the work.  It is frustrating not
+to have the university library close at hand.
+
+The assessors told me that the data I have collected are paramount to
+them.  I spent a lot of time searching for a predictive theory last year
+because I was operating under the (apparently incorrect) assumption that
+it would be improper to use that data directly, being as it were `tainted'
+by participation.  I thought I could use the data to get to a theory,
+but not use the data directly.  The assessors had a different opinion.
+
+Dr Martin encouraged to consider my models.  I developed two separate and
+distinct models last year: the concrete one of accreditor behaviour in the
+presence of differing security clearances and classifications---useful for
+describing the constraints on accreditor actions---and the abstract one
+that attempts to predict accreditor decisions.  He noted, in the context
+of not throwing work away, that I have got some level of validation
+in these models, an advantage over a purely data-focussed description
+of events.  I replied that the concrete model has encountered widespread
+acceptance amongst the accreditors I have talked to about it, although
+the abstract model---with risks represented as masses and forces on a
+frictionless plane in risk space---is something that people are still a
+bit dubious about.  But, Dr Martin asked, was I getting indications of
+predictive value?  I think so, but I was just getting into that part of
+the data analysis when I met with the assessors, and they pretty well
+scared me away from that direction.
+
+It occurred at this point in the conversation, prompted by an observation
+of Dr Martin's, that perhaps there is an opportunity here to use the
+qualitative data analysis to generate exactly the series of fine-grained
+events I needed to feed into the predictive model and exercise it.  I have
+to explore the ATLAS.ti software more to determine whether it is possible,
+but it just might work.  The bulk of the dissertation would still be the
+grounded theory data analysis, but to have a working predictive theory in
+addition would be a bonus.  That would be a win--win situation according
+to Dr Martin.  He said to be cautious about discarding the prediction
+theory, as it is the stronger result.  Be careful about confirmation
+bias (it's no good to have a theory that perfectly predicts what it
+was derived from, but nothing else); think about using two of the case
+studies to predict the third.  Even better, consider them pair-wise and
+predict all three.  That would be a strong result.
+
+I asked for and received some assurance in this supervisor meeting
+about deadlines.  If it takes longer than the normal DPhil duration to
+conduct this research properly, can I get the time?  I asked how hard
+the deadline actually is.  If it takes four and a half years to do
+this research properly, can I get the time to do it right?  Dr Martin
+conceded that it would be possible.  It might require the intercession
+of my supervisor and DGS, and it might have to be approved at the MPLS
+division level, but Dr Martin is willing to sign the form to do it.
+`Assume it will work', said Dr Martin.  `Now let us set out a schedule.'
+
+The first thing I have to do---currently under way---is to learn a
+whole new methodology of qualitative data analysis and grounded theory.
+At this point, I know almost nothing about it.  I am going through the
+software manual while I am waiting for the reference books to arrive;
+just figuring out how to use it is going to take a while.  I don't even
+know at this point if I am supposed to have one grounded theory, or three.
+My thesis statement is undefined at the moment.  (Dr Martin laughed.)
+I want to come back to Oxford in mid-March with a completed first
+analysis in hand and get some validation that I am on the right track.
+Shamal and the assessors can help with that.  I asked whether it would
+be all right to consult with the assessors over the quality and form of
+the results.  Dr Martin assured me that it would not disqualify them
+from being assessors.  It is supposed to be a collaborative process,
+he said.  I understand that, and I view the present ordeal as proof
+that the process works.  While the rules are vague in places, leading to
+misunderstandings between student and assessors like the one I ran into,
+the purpose of confirmation is not to be adversarial, said Dr Martin---the
+final viva is more adversarial---but to help ensure that the student
+goes into the final viva with a solid dissertation.  I should ask Shamal
+for advice; he is working on something weird about grounded theory and
+is probably the best resource.  I have already been talking to Shamal.
+I should look at it as an opportunity to learn a new data analysis
+methodology, but be aware of perspective; the two assessors I drew have
+a very different perspective on what solid work looks like.  The good
+news is that they told me exactly what they want to see next time.
+When I go back for confirmation of status, I will make sure that they
+get precisely what they want.  Dr Martin said that I am now developing
+a very concrete plan for finishing.  When I hit confirmation again,
+I will be very close to finishing.  That is the ideal situation, and
+what assessors are most pleased to see.
+
+`Why' I got here is irrelevant.  What matters is the plan to get out.
+I made some mistakes, but Dr Martin refused to let me call them mistakes;
+dead-ends are part of doing science and you learn from them.  Besides the
+upcoming trip planned for mid-March (we coordinated schedules so he will
+likely be in town), I asked a few specific questions about trying to
+publish [publishing can be a distraction; maybe I should just concentrate
+on producing solid results; when the time comes that you have something
+you just have to publish, the compulsion to do so will be irresistible].
+The assessors did ask for one review paper to be published in a journal.
+That paper, citable in the introduction of everything else, will set down
+once and for all the background material that I keep having to explain
+to nearly everyone I talk to about my research: what is a CDS, what is
+accreditation, what are the constraints that accreditors operate under,
+what are the circumstances of the case studies, and so on.  I asked about
+the kind of journals that publish reviews; they are not as common as they
+once were.  ACM Computing Surveys?  Dr Martin looked up the name of one
+journal where a recently published paper appeared: IEEE Communication
+Surveys and Tutorials.  I promised to locate the information.  Dr Martin
+asked when I intended to write the paper, and suggested that it might
+serve to keep me sane during the grounded theory analysis.  I think
+staying sane is a good outcome.  I am looking around for source of
+guidance on how to write a good review paper.
+
+We discussed meeting more often than we have in the past, but that
+depends on progress and results.  I am applying for one more round of
+student loans to ensure my funding during the time required to do the
+grounded theory work.  I am liking the new software so far, and feel
+that it provides a useful framework that was lacking.  I am going to hew
+more closely to home from now on, to avoid getting sidetracked from the
+current plan.
+
+Reading group starts up again next week; John suggested a paper.
+I received the assessors' report this morning; it contained no surprises.
+I concur with the assessors' recommendations in all respects (with the
+proviso of the new idea that we developed in yesterday's supervisor
+meeting).  If anyone wants to read the assessors' report, email me.
+
+My current tasks, in priority order, are:
+
+1. Study grounded theory and qualitative data analysis.
+
+2. Learn to use ATLAS.ti software.
+
+3. Begin coding R''.
+
+4. Search for good examples of review papers.
+
+I am also considering whether to use a project tracking tool to plan
+and monitor the the schedule.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory,
+St Cross College, Oxford
+

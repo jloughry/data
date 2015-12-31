@@ -1,0 +1,46 @@
+weekly activity report 282 (loughry)
+Joe Loughry
+Sent: 01 March 2013 00:55
+To: Joe Loughry
+ 
+Weekly activity report no. 20130228.1656 (GMT-7) sequence no. 0282 week 7 HT
+
+I have a very rough draft of the new paper on a proposed explanation
+for certain accreditor behaviour based on risk gradients.  It yields a
+relative magnitude and something like a direction for the accreditor's
+tolerance of residual risk in a cross domain system; it ought to add
+like vectors.  Abstracts are due 15th March; meanwhile this week I emailed
+people I know at Booz Allen Hamilton, Ernst & Young, Deloitte, and Tresys.
+I am in the process of applying to job postings at Orbital Sciences Corp.,
+General Dynamics, Northrup Grumman, and Harris.
+
+Reading group this week discussed `Practicality of Accelerometer Side
+Channels on Smartphones' by Aviv, et al. from ACSAC'12 last December.
+The most important contribution of this paper was controlled experiments
+on accelerometer readings from several phones taken while seated and
+walking from a statistically significant number of participants at the
+$p<0.01$ level.  I mentioned a blog posting by Nick Berry titled `PIN
+number analysis' in the context of adding another layer of prediction of
+likely PIN values to the machine learning portion of the paper to improve
+guessing effectiveness.  It was suggested that a method combining the
+accelerometer data with a very old paper on `Identity Verification
+through Keyboard Characteristics' could improve the security of PIN
+entry through assurance that the expected person is entering a PIN.
+It connects in a way to the authors' observation in Section 5 of the
+paper that participants learned the test PINs and gestures in the
+course of the study; an attacker trying guessed PINs would likely have
+a different pattern of entry.  We talked about other sensors that might
+be exploited or synthesised from existing hardware, and about defences
+including use of sound or vibration transducers during PIN entry to
+reduce the bandwidth of the covert channel, designing in covert channel
+bandwidth reducing features like jitter and noise to the sensor inputs,
+and Andrew Paverd described some of Webinos's research into environment
+binding, an extension of time binding protocols.  I speculated that
+environment binding could decide whether or not to prompt for a PIN based
+on evaluation of whether it seems safe or desirable to enter a PIN, given
+the perceived safety of the physical security environment around the user.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

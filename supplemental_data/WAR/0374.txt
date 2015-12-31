@@ -1,0 +1,34 @@
+weekly activity report 374 (loughry)
+Joe Loughry
+Sent: 05 December 2014 03:21
+To: Ivan Flechais; Niki Trigoni; Andrew Martin; Joanna Ashbourn
+
+Weekly activity report no. 20141204.1805 (GMT-7) sequence no. 0374, week 8 MT
+
+I am still writing Ch5; the results and conclusion are well in hand, I am
+struggling with getting there. I figured out that I was using the wrong
+approach in the part before the time line and have corrected course now. I
+am proceeding straight through the middle now to get it done. I should have
+a complete draft of the middle in a few more days. I have been thinking
+about how this research applies to incident response and continuous
+monitoring; although the time scale is shorter, the required communication
+between executives and the incident officer, through an incident manager to
+incident responders, resembles the structure of a C&A activity to a degree
+and analogous information flows may be expected there.
+
+Reading group discussed the paper 'Large Scale Test of Sensor Fingerprint
+Camera Identification' by Goljan, et al. (SPIE Electronic Imaging, 2009),
+suggested by Chad. Our analysis ranged across what was not in the paper:
+why the number of data points was the size that it was; to considering
+the detector as an EW problem---i.e., could a synthetic fingerprint be
+crafted to trap the detector into keying on it preferentially; geometric
+transformations that the researchers did and did not consider; Chad noted
+that these are very robust signals. Reading group tomorrow will discuss
+a new paper testing the effectiveness of Tor fingerprinting attacks from
+CCS'14.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+
+

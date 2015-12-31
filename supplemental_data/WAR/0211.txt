@@ -1,0 +1,64 @@
+weekly activity report 211 (loughry) 
+Joe Loughry 
+Sent: 20 October 2011 21:18 
+To: Joe Loughry 
+
+Weekly activity report no. 20111020.1320 (GMT-7) sequence no. 0211, week 2 MT
+
+I am writing a review of declassification papers from 1982--2009
+for Chapter 2.  I had hoped to have a few pages ready in time for
+the student conference but reviewing has begun already and I must
+complete the reviews I am responsible for.  Regarding written work, I
+ran across these papers by accident only after discovering the keyword
+(`declassification') they were indexed under.  I am also reading the
+MITRE technical reports from 1973--76 where Bell and LaPadula published
+their security model; I realised I had never read the original source
+and declassification is all about security models that contain leaks
+by design.  It seemed important to write this review paper now because
+it is exactly the sort of question an examiner would ask at the viva.
+The review paper might turn out to be something I could publish later,
+but primarily it is being written for Chapter 2.  I promised written work
+with every weekly status report from now on, but it was not ready yet.
+I am writing, though.  Trying to get back on schedule and make progress
+faster, I am following the methodology.
+
+I met with Dr Martin early this week; I reported that the MPLS graduate
+division office finally received my paperwork from the department
+and released an enrolment certificate.  I sent the GSO.25 form for
+co-supervisor arrangement to Dr Fléchais.  My student loan funds came
+through at last.  Dr Martin and I talked at some length about Lockheed
+and some changes I may soon be making to my work/school balance so I can
+focus without interruption on school.  I have been unreasonably distracted
+with Lockheed work this month and it is slowing progress on Chapter 3.
+Realistically, I will continue to be pulled in multiple directions
+like this until November 1, but not afterwards.  We talked about page
+limits, the ISPP seminar series, the student conference, and scheduling.
+I need to talk with Dr Fléchais about the Atlas.ti analysis and how long
+he thinks it will take.  First, however, I have got to finish writing
+reports for the Air Force to close out that contract.  The sponsor came
+back twice this week with emergency requests for more work.  As part of
+the fallout, I have half agreed to teach a statistics class some time.
+
+Next meeting Wednesday, 26th October at 1400 Oxford time, 0700 my time,
+before the ISPP seminar on mobile phone security.
+
+Table of progress report on analyses and interpretations:
+
+Chapters 1 and 2 need the specific work indicated. Writing a review
+	article on declassification.
+Chapter 3 on CS1 current status: 60% done (needs model linking coding
+	to grounded theory).  Estimated completion date: middle of November.
+Chapter 4 on CS2 current status: 5% done, waiting until CS1 is properly
+	completed.  Estimated time to complete: November and December.
+Chapter 5 on CS3 current status: 0% done, waiting until CS2 is done.
+	Estimated time to complete: January.
+Chapter 6 and 7: current status: 5% done, waiting until end of January
+	to work on.
+
+I will show the declassification review section to my supervisors after
+I send the final report to AFRL.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

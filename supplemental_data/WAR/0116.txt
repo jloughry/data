@@ -1,0 +1,11 @@
+Weekly activity report no. 20091224.2226 (GMT-7) sequence no. 0116, week 8+3 MT
+
+It is Christmas Eve.  I have been learning this week about use cases,
+more ANSI Scheme, and the changes introduced in R6RS.  I am sick with
+some kind of flu that seems to be hitting its stride this evening.
+Not concentrating very well.  I hope everyone is well and warm and that
+you all have a good Christmas.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

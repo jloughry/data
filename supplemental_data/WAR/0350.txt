@@ -1,0 +1,27 @@
+weekly activity report 350 (loughry)
+Joe Loughry
+Sent: 20 June 2014 03:25
+To: Joe Loughry
+
+Weekly activity report no. 20140619.2002 (GMT-7) sequence no. 0350, week 8 TT
+
+I continued to write in Chapter 5 this week, between replying to all the
+people who contacted me directly about the public comments I wrote about
+the FAA ruling. I was contacted by an engineer from Rockwell Collins who
+provided details of the AFDX network and argued that it is dissimilar to
+the architecture the Berkeley researchers found in the chassis of their
+Lexus. We had an interesting discussion. I want safety critical system
+designers to look at block diagrams the way I do: realising that failures
+may be intelligently malicious in their aim besides being randomly
+occurring (fuzzing is an example that crosses the boundary). Analogous
+to fuzzing, Rockwell testers do thermal cycling but that is primarily
+concerned with error detection, recovery, and propagation. I'm trying
+to get them to consider the possibility of Maxwell's demon as well. The
+fuss has died down finally and I promise not to say anything else that
+will attract other people's attention until I finish this chapter and
+give it to my supervisors.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

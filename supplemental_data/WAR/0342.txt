@@ -1,0 +1,25 @@
+weekly activity report 342 (loughry)
+Joe Loughry
+Sent: 25 April 2014 03:43
+To: Ivan Flechais; Niki Trigoni; Andrew Martin; Joanna Ashbourn
+
+Weekly activity report no. 20140424.1941 (GMT-7) sequence no. 0342, noughth week TT
+
+In chapter 5, after the introductory sections, I am following
+Dr Fléchais' emailed advice on describing and explaining the core
+themes. These include implicit communication, particularly the beliefs of
+the developer and security testers and how it drives informal and implicit
+comms, which I claim exceed the importance of formal communications to
+the prediction of a successful outcome, as well as planned communication,
+informal communication (esp. forerunner communication), and observations
+correlated with successful and unsuccessful outcomes in the CT&E
+phase. The time line is being used now only where it illustrates the
+occurrence or operation of a core theme, or contradicts it. Someone
+else got the job at Google; I believe they were looking for a Java
+specialist. If I can concentrate on this chapter for a few days straight,
+I can have a new draft ready for review next week.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

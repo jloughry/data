@@ -1,0 +1,43 @@
+weekly activity report 259 (loughry)
+Joe Loughry
+Sent: 21 September 2012 03:44
+To: Joe Loughry
+
+Weekly activity report no. 20120920.1949 (GMT-7) sequence no. 0259 week -2 MT
+
+I emailed a snapshot of the most current rough draft to Dr Martin and
+Dr Fléchais.  The accreditor model predicts DAA behaviour during the
+accreditation phase only in certain circumstances; I have a partly
+completed diagram explaining what those circumstances are.  I think
+at this point the best thing to do is to sketch out the remainder
+of that figure in the least detail possible, then stop working on it
+and focus on cleaning up the rest of the writing.  The corresponding
+argument for certifiers is already done.  Chapters 3, 4, and 5 need the
+most work; Chapters 1, 2, and 6 are in good shape; Chapter 7 needs a
+conclusion, but I can take it from two other pieces I wrote this week.
+The appendices have not been put together yet, but merely comprise a
+list of references to PDF files that have already been generated and
+are waiting in a directory.
+
+I received an acknowledgement from the C&ESAR 2012 editor that he accepted
+the revisions to my paper.  That means my proof that the accreditor model
+is applicable to every case has been peer-reviewed.  I am claiming three
+contributions in this dissertation: (1) the accreditor model---along with
+a proof that it applies to all situations that can possibly arise and
+that it meets the requirements for reliable signalling in the presence
+of asymmetric information, (2) a method that gives cross domain system
+developers a measure of control over the cost of CT&E, and (3) a system
+that predicts accreditor behaviour during ST&E.  The latter two methods
+only work in certain circumstances and the actual amount of control is
+feeble, but it is a real effect and improves over what cross domain
+system developers had before, which is no control at all.  And I can
+define the exact conditions in which the effect works.
+
+Status: to finish sketching out remaining cases for the accreditor model
+so I can show everywhere it predicts and everywhere it fails to predict
+anything.  Then clean up the earlier chapters, especially 3, 4, and 5.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

@@ -1,0 +1,21 @@
+weekly activity report 289 (loughry)
+Joe Loughry
+Sent: 19 April 2013 01:51
+To: Joe Loughry
+
+Weekly activity report no. 20130418.1815 (GMT-7) sequence no. 0289 noughth week TT
+
+Reading and preparing for viva in ten days.  I am reviewing all my
+notes from the beginning.  I have a meeting tomorrow with Dr Martin
+to go over what is expected in the viva.  The remainder of my travel
+arrangements have been made.  For the current paper, I found a simpler
+approach to explaining the accreditor model that works better; I am
+dropping the gradient idea for now in favour of highlighting every
+hazardous configuration where undesired information flow is forced.
+I am drawing new figures to illustrate.  Reading group meets next week;
+the assigned paper is on analysing malicious traffic in cellular carriers.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

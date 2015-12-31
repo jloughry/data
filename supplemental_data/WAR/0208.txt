@@ -1,0 +1,36 @@
+weekly activity report 208 (loughry) 
+Joe Loughry 
+Sent: 29 September 2011 22:13 
+To: Joe Loughry 
+
+Weekly activity report no. 20110929.1652 (GMT-5) sequence no. 0208, week -1 MT
+
+I met with my funding sponsor at the Air Force Research Laboratory in
+Rome, New York this morning.  We demonstrated the software and I presented
+the last two and a half years of research results.  The sponsor called it
+an especially well designed research effort and said that their Technical
+Council are very happy with them for doing it and want them to do more
+like it.  I fly back tomorrow; tonight I am transcribing notes from
+the meeting.
+
+With the end of the Air Force contract, I have to find new funding;
+unfortunately, the government underfunded my department at Lockheed
+over a million dollars this year and they are trying to shed people as
+it is.  I was contacted by a specialised information security group in
+the company called JAGUAR who might try to hire me.
+
+Miscellaneous: I was contacted by the MPLS graduate division looking
+for my confirmation of status paperwork; it is holding up registration.
+I emailed Julie Sheppard who tracked it down and got it signed; the
+paperwork will be to MPLS by the end of the week and they can release
+the hold on my enrolment.
+
+I reviewed some security engineering process information for the Centre
+for Cyber Security Innovation this week.  No reading group this week,
+but most of my time was taken up anyway preparing a presentation for
+the funding sponsor, travel, reports, and meetings.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford
+

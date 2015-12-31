@@ -1,0 +1,81 @@
+weekly activity report 168 (loughry) 
+Joe Loughry 
+Sent: 24 December 2010 07:10  
+To: Niki Trigoni; Andrew Martin; Joanna Ashbourn  
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.w.auten@lmco.com; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; tom.a.marso@lmco.com  
+
+Weekly activity report no. 20101223.2221 (GMT-7) sequence no. 0168, week 8+3 MT
+
+Weather delayed getting back from travel by three days.  Heavy snowfall
+in Great Britain on Saturday prevented getting to Heathrow airport.
+When it became clear that I could not get to Heathrow in time for my
+scheduled flight, I called the airline to re-book.  I figured they could
+re-allocate the seat, since that was one of the few flights that did get
+out of Heathrow all day.  But the roads were impassible; I could not get
+to Heathrow; I couldn't even get back to city centre to catch a train.
+Buses were not running; cabs were not running.  I was able to get a
+reservation on a flight out of London City airport two days hence.  I took
+a bus to London the following day to try to get there in time for the
+early morning flight, and discovered the Docklands Light Railway (DLR).
+When I got to the airport at 5am they had no record of my ticket, so I
+had to re-book, but I made it onto a delayed flight to Frankfurt, which
+was the only thing going anywhere.  London City airport was unbelievably
+crowded.  I missed the scheduled connection out of Germany but managed
+to get wait-listed on a flight to Washington, D.C. that was delayed.
+Arrived in D.C. late Thursday night and found that they had lost one
+of my bags, so I spent some time in Customs and Immigration detention
+because they will not let you through U.S. Customs unless you arrive
+with the same number of items you departed with.  The U.S. Customs people
+were nice and friendly; they explained the policy---something to do with
+security---and went in search of the missing suitcases for me and a few
+other people.  The international terminal was almost deserted because
+few people were coming in from Europe due to the weather.  They found my
+stuff after a while and I boarded a standby flight to Denver at midnight.
+Arrived back home early Thursday.
+
+I met with Dr Ashbourn on Friday to discuss my meeting with the assessors
+and spent some time Christmas shopping before it started snowing.
+I got stranded in city centre when the buses stopped running and had
+to walk back to the ring road through the blizzard, which was a stupid
+thing to attempt but everything was shut down by the weather and there
+was no good alternative.  I talked with Dr Martin several times during
+the weekend by email; he was also stranded on the way back from travel.
+I sent a copy of last week's report to both assessors; I have not received
+their report yet but I wanted to make sure that I understood all their
+instructions.  I contacted Julie Sheppard, as requested, and notified
+her of the need for a couple more terms to do the new data analysis.
+My funding is secure for about another nine months; my funding will be
+at risk for only about three months in late 2011.
+
+I will call Dr Martin as soon as possible to plan the way forward after
+Christmas.  Meanwhile, I have references on grounded theory to read;
+I have to get up to speed on this type of data analysis.  Shamal sent me
+some references.  At the present time, I plan to do the third case study
+(R'') first, as I have the highest quality data for that one, followed
+by R' and then R-zero.  Next travel will be approximately 13th March when
+I will come back to Oxford to sit down and get a validation check on the
+new data analysis approach and the first case study analysis.  All of the
+previous MATLAB work is checkpointed under version control for later.
+Dr Martin gave me a report to read; I have not read it yet but will do
+so in the morning.  I want to talk to Dr Martin about the review journal
+paper that the assessors requested, the plan for doing the three grounded
+theory analyses, and plan for submitting chapters for review.
+
+I look at it as an opportunity to learn a new data analysis technique.
+I have been taking too many risks; the lowest-risk path from here is
+to do precisely what the assessors told me to do, so I will do that.
+I need to figure out whether the journal review article that the assessors
+wanted comprises Chapter 1 or 2 or parts of both.  I have a new Table
+of Contents but I need to sleep some before I rewrite the task list.
+I think I should suspend trying to publish, with the exception of the
+journal review paper, until the new data analysis is completed.
+
+Next task: look up papers on grounded theory and obtain a licence for
+Atlas.ti (qualitative data analysis software).
+
+Joe Loughry
+Doctoral student in the Computing Laboratory,
+St Cross College, Oxford
+

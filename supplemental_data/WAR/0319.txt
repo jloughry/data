@@ -1,0 +1,37 @@
+weekly activity report 319 (loughry)
+Joe Loughry
+Sent: 15 November 2013 01:58
+To: Joe Loughry
+
+Weekly activity report no. 20131114.2024 (GMT-5) sequence no. 0319, week 5 MT
+
+I attended the 13th IEEE International Conference on Technologies for
+Homeland Security (HST'13) where I presented a paper on my research. There
+were three papers from Oxford in the conference, all in the Cyber Security
+track. Of 85 full papers submitted to the track, 25 were accepted (29
+percent). Some especially good papers I saw included identity management
+(Creese, et al.); detecting insider threats (Garfinkel, et al.);
+multi-scale graph partitioning (Hui, et al.); BGP route hijacking (Gersch,
+et al.); maximisation of entropy in address space layout randomisation
+(Kanter and Taylor), power efficiency of data-leak hardware trojans in
+AES crypto circuitry (Reece and Robinson); and automatically extracting
+privacy policy from the text of legal statutes (Miao, et al.). It was
+interesting to observe how several presenters mentioned health care as
+a potential application area of their research. I got two good follow-up
+questions after my talk, one from Emily Frye of MITRE about how the shift
+from C&A to continuous assessment affects the communication channels
+that control the pace of C&A testing, and the other from Dr Anne Connell
+of Carnegie Mellon SEI, who wants to use my results in their web-based
+tool for massively distributed risk assessment.
+
+I talked to Dr Stephen Polit (BBN and Raytheon) about their new secure
+router although he wouldn't talk to me, citing Export Control, after he
+saw the 'U.K.' on my conference name tag. I got to see MIT whilst I was
+here. I did not get as much writing done this week as I thought I would
+(busy attending as many technical tracks as possible) but I did get some
+done. Returning tomorrow morning.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

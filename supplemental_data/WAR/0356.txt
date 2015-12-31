@@ -1,0 +1,27 @@
+weekly activity report 356 (loughry)
+Joe Loughry
+Sent: 01 August 2014 01:21
+To: Joe Loughry
+
+Weekly activity report no. 20140731.1738 (GMT-7) sequence no. 0356, week 8+6 TT
+
+In support of my argument that there are two kinds of channels
+carrying information in the CT&E activity, I have identified analogous
+characteristics, or mechanisms, corresponding to Shannon's definition of
+channel coding, noise, and bandwidth. The coding in implicit channels is
+more efficient than in formal channels, and requires more effort on the
+part of the recipient to decode. (When placed against the inefficient
+but robust coding of formal channels, this justifies both the relative
+fragility and the practical necessity for implicit channels, thereby
+explaining their emergence in almost all cases.) There is essentially no
+noise in implicit channels. Forerunner communication---by definition,
+implicit---is the most valuable of information, but also by definition
+it is illicit (out of compliance with process), and therefore must be
+encoded for security (of the transmitter) as well as for the available
+bandwidth. (Implicit channels are narrow). Status: working on Chapter 5,
+with some going into the conclusions in Chapter 7.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

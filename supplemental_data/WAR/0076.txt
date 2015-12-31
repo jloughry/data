@@ -1,0 +1,30 @@
+Weekly activity report no. 20090319.2108 (GMT) sequence no. 0076, week 8+1 HT
+
+This week I completed the review of a conference paper submission (for RE 2009)
+for Dr Jirotka and sent her my comments on the paper.  I have started working on
+a new paper about Protection Profile approvals.  I met with Dr Martin today and
+we discussed the outline of the new paper.  Lately I have found that meeting
+every week is good; it keeps me on track.  We are going to continue meeting
+every week.  Still trying to set up a meeting with Dr Ian Levy in the UK
+government, but I have not heard back from him yet.
+
+I will be out of the country tomorrow through Tuesday 24th March 2009 on a work
+trip to New York.  I have to give a presentation to the sponsor (Air Force
+Research Lab) of my new project.
+
+I am still trying to stick to a regular schedule of research-related reading,
+but events this week prevented it.
+
+Upcoming deadlines and events:
+
+23rd March: travel to New York for 4 days
+6th--7th April: TRUST 2009 in Oxford, St Hugh's College
+17th April: submission deadline for 2009 NSPW
+25th April: ISSEP exam in London
+26th April: Trinity term begins
+30th April: Infosec show in London; I am helping out
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

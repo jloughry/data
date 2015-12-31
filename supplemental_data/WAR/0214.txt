@@ -1,0 +1,57 @@
+weekly activity report 214 (loughry) 
+Joe Loughry 
+Sent: 11 November 2011 06:59 
+To: Joe Loughry 
+ 
+Weekly activity report no. 20111110.2309 (GMT-7) sequence no. 0214, week 5 MT
+
+I attended a webcast by Steve Welke on certification and accreditation
+under the SABI, TSABI, and FISMA unified processes.  Separately, I
+talked with Dr Ben Calloni about a talk he gave at IEEE METROCON 2011 on
+`Automated Vulnerability Path Assessment'.  Their research has not been
+published yet but contains a method for systematically deciding whether
+to accept the residual risk in an accreditation, using a mathematical
+approach to address the weakness space.  In response to a question
+about the Common Criteria, he said one reason companies go offshore for
+evaluation is because the NSA evaluators and validators that oversee
+NIAP CCEVS have it as a secondary duty; this causes validation events
+to be postponed when other work becomes more pressing.  Vendors going
+overseas for their evaluations do not seem to have that problem.
+
+The presentation I gave to the IPRB today was successful; the board
+ruled that a patent application should be filed. The Air Force funding
+sponsor accepted the final technical report with minor changes.  I have
+been assisting another group with their initial approach to the same
+Air Force Research Laboratory sponsor.
+
+Security Reading group this week discussed the paper `User Study,
+Analysis, and Usable Security of Passwords Based on Digital Objects'
+by Biddle, et al. [IEEE Trans. Inf. Forensics and Sec. 6(3), 2011],
+suggested by Andrew Paverd.  After reading group I met with Dr Martin,
+reporting that I have arranged things with Lockheed.  The exact manner
+of leaving is still indeterminate and arrangements will take some time
+to conclude, but it put Lockheed on notice that the amount of time
+they have been demanding is greatly excessive and I am quitting them
+to focus on my dissertation.  I am removing roadblocks to finishing.
+Dr Martin asked that I meet with Dr Fléchais and I promised to do
+that as soon as I have enough information to plan a new schedule.
+Next meeting scheduled for 17th November.
+
+Table of progress report on analyses and interpretations (unchanged from
+last week)
+
+Chapters 1 and 2 need the specific work indicated. Writing a review
+	article on declassification.
+Chapter 3 on CS1 current status: 60% done (needs model linking coding
+	to grounded theory).  Estimated completion date: December.
+Chapter 4 on CS2 current status: 5% done, waiting until CS1 is properly
+	completed.  Estimated time to complete: December and January.
+Chapter 5 on CS3 current status: 0% done, waiting until CS2 is done.
+	Estimated time to complete: February.
+Chapter 6 and 7: current status: 5% done, waiting until end of January
+	to work on.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

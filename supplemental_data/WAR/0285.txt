@@ -1,0 +1,30 @@
+weekly activity report 285 (loughry)
+Joe Loughry
+Sent: 21 March 2013 23:06
+To: Ivan Flechais; Niki Trigoni; Andrew Martin; Joanna Ashbourn
+
+Weekly activity report no. 20130321.1628 (GMT-6) sequence no. 0285 week 8+2 HT
+
+Applying to more jobs, no leads yet.  I applied to three new postings
+at Booz Allen and two at Boeing today.  I am working on the IEEE paper.
+If it is not accepted in April, I plan to submit it to ACM CCS 2013 (4--8
+November, Berlin) next; the deadline for that conference is 8th May.
+I am meeting with some people I know from Lockheed this evening.  I have
+been working out a problem with CMAP translations in PDF files that I
+think is causing copy & pasted résumé keywords to break in web forms;
+the problem showed up on Lockheed's web site.  Reading group was postponed
+the other day but I am introducing a paper next week.  I would like to
+get input from the other members of reading group also on an up-to-date
+ranking of conferences and journals in this field; in order to gather
+the necessary data with minimal impact on participants, I looked for
+an efficient method of ranking collections of more than seven items.
+There is some interesting research published about the cognitive
+burden of rating vs ranking questions in surveys (Alwin, 1985) but no
+implementations; I looked at building a new one using jQueryUI sortables.
+I read Gurevich's paper on 'Impugning Randomness, Convincingly' since
+I couldn't make it to his seminar in the department this week.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

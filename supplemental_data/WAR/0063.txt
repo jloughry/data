@@ -1,0 +1,10 @@
+Weekly activity report no. 20081218.2030 (GMT) sequence no. 0063, week 8+2 MT
+
+I am catching up with some work tasks due before the end of the year.  I have
+several new books in the queue to read soon.  Still experimenting with encoding
+DCID 6/3 and CC formatted text in s-exprs and manipulating them in that form.
+
+-- 
+Joe Loughry
+DPhil PRS, Computing Laboratory
+St Cross College, Oxford

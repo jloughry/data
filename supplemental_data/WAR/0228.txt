@@ -1,0 +1,20 @@
+weekly activity report 228 (loughry) 
+Joe Loughry 
+Sent: 17 February 2012 02:15 
+To: Joe Loughry 
+
+Weekly activity report no. 20120216.1337 (GMT-7) sequence no. 0228, fifth week HT
+
+I am 70% done with coding CS-1 evidence and the bulk of the analytical
+memos.  There are more analytical memoranda and they are more complex than
+estimated, so it is taking longer than expected.  I have a new analogy
+for explaining high-to-low cross domain systems in the introduction
+and methodology.  The list of profiles needed for decoding roles is is
+only half complete; I need to finish filling in details there.  I will
+report progress to Dr Fléchais as soon as I get through the remaining
+PDFs in a few more days.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

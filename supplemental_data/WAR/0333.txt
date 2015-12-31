@@ -1,0 +1,29 @@
+weekly activity report 333 (loughry)
+Joe Loughry
+Sent: 21 February 2014 02:49
+To: Ivan Flechais; Niki Trigoni; Andrew Martin; Joanna Ashbourn
+
+Weekly activity report no. 20140220.1439 (GMT-7) sequence no. 0333, week 5 HT
+
+I updated or wrote new material this week in chapters 3, 5, 6,
+and Appendix D to take care of issues in my revision notes. Further
+improvements were made to relations in more of the network diagrams in
+the first half of Ch5 and I found a better approach to the behaviour
+observations I am trying to explain. By looking at specific contrasts
+between what failed in the 2006 security evaluation and what was was done
+differently---I claim, as a result of them---in the 2010 certification
+and accreditation, I think I got around that roadblock that has
+had me stuck. I have not finished colour-coding network diagrams yet
+because I had to spend time comparing and purchasing new family health
+insurance to satisfy U.S. law; the existing plan was discontinued by
+the underwriter due to changes elsewhere in the law and they have been
+sending increasingly frantic letters and calling me on the phone about
+it. I had a technical phone interview today with a software engineer from
+Google; the interview went all right, and I am to have another technical
+interview in a few weeks with an engineering team located in Boulder,
+Colorado. I intend to be done with writing before then.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

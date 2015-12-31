@@ -1,0 +1,75 @@
+weekly activity report 184 (loughry) 
+Joe Loughry 
+Sent: 15 April 2011 03:20  
+To: Niki Trigoni; Andrew Martin; Joanna Ashbourn  
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; tom.a.marso@lmco.com  
+
+Weekly activity report no. 20110414.1620 (GMT-7) sequence no. 0184, week -2 TT
+
+I reviewed the requirements for Confirmation of Status (COS) in the
+departmental handbook and the DGS presentation on COS.  GSO.14 and MAT.3
+forms will be done and fedexed to Julie Sheppard tomorrow.  I will send
+the written work that completes the application after I have had a chance
+to go over it carefully first with Dr Martin.  It will not all be turned
+in at the same time but I think Julie will give me a bit of slack before
+the Easter holiday.  The plan all along has been to meet the assessors
+later in the summer after I had time to perform a suitable amount of
+research using the new methodology.  It is only the COS application
+(but technically with written work attached) that is due now.
+
+Beginning in December, I first went back to the original data that the
+assessors were so interested in seeing, to review it and see what I had.
+After that I read up on grounded theory and its origin in sociological
+research.  Following that I looked at examples of GT analysis that had
+been done on similar problems, to see how those researchers had done it.
+This led me to earlier research, published before the GT methodology was
+first named.  It was there I found the model of what I wanted to write.
+Allow me to expand on that point:
+
+I spent this week writing but also reading more deeply into the research
+of Melville Dalton from the late 1940s.  His writing is extremely dense,
+but rewarding once parsed.  I read his entire book in spite of the lack
+of time when I should have been writing this week.  Dalton provided
+necessary inspiration: until recently, I was only cataloguing problems
+with the CDS C&A process under the GT methodology without thinking about
+`why' the people involved were apparently working at cross purposes.
+I found a defensible answer in the aforementioned book and other published
+research (Ginzberg, 1955; Laski, 1930) on the nature of experts and their
+interaction with others---particularly with engineers (Moore, 1951; Mills,
+1946).  [The expert], said the early 20th century political scientist
+Harold Joseph Laski, `...is an invaluable servant and an impossible
+master'.  It seems to be exactly the problem that was occurring in the
+case study.  The impedance mismatch amongst UCDMO, the programme office,
+NSA I173, I733 and the developer's software engineers is understandable
+now as a special case of line--staff relations.  This necessitates some
+alterations to the written work I planned to turn in for COS, which I
+am doing now.
+
+Dr Martin reminded me, `best is the enemy of good.'  I keep repeating
+that to myself and forcing words to come out onto the page.  I will have
+time to polish the prose later.
+
+Other activity this week: I found a new journal on DIACAP that will be
+useful.  I attended a Saturday conference of Lockheed infosec engineers
+at which Cross Domain Access Solutions and CT&E were discussed.  In a
+meeting with the R'' developer, the systems engineering manager reported
+that version 5.01 regression testing is now complete with no new software
+build required.  The BOE is to be handed to CDTAB soon.  Recall that the
+technical risk of 5.0 at CT&E was rated `high'; they are still, to my
+surprise, trying to get that reduced to medium.  Transfer CDS solutions
+carrying a `high' technical risk rating under the RMF require flag
+approval for deployment.  Additionally, a `medium' TR rating will allow
+the developer to include some higher risk protocols such as VoIP that
+would be considered to present an unacceptable AR or DR when associated
+with a high TR.  The systems engineering manager is travelling to CDTF
+next week with Mr Fletcher.  I have a meeting with him booked.
+
+Current status: concentrating on writing.  I requested a meeting with Dr
+Martin.  Julie Sheppard is expecting the COS application forms to arrive.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory,
+St Cross College, Oxford
+

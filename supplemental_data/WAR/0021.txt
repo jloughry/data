@@ -1,0 +1,22 @@
+Weekly activity report no. 20080221.2017 sequence no. 0021 week 6 HT
+
+I am working on formulating a thesis topic for the transfer report, which I hope
+to submit in Michaelmas Term 2008, or possibly during the summer before.
+
+Meeting scheduled with Dr Martin next Friday 29th February 2008 at noon.  We
+will discuss progress toward a thesis topic then.
+
+Other activities: I saw the boat races on the Isis the other day.  The St Cross
+crew bumped the Univ boat and caused a pileup on the river that destroyed the
+Univ boat.
+
+I attended a lecture at the St Cross colloquia on 'Ultra-fast computer
+algorithms for discovering new drug candidates'.  I asked the presenter a few
+questions about their method for searching a database of 10^12 virtual molecules
+for close matches based on a 12-element vector of atomic coordinates.  Their
+method is 1500 times faster than the previous best search.
+
+-- 
+Joe Loughry
+DPhil PRS, Computing Laboratory
+St Cross College, Oxford

@@ -1,0 +1,37 @@
+weekly activity report 306 (loughry)
+Joe Loughry
+Sent: 16 August 2013 04:49
+To: Joe Loughry
+
+Weekly activity report no. 20130815.2119 (GMT-7) sequence no. 0306 week 8+9 TT
+
+I got the examiner's copy of my thesis back yesterday. Comparing the
+handwritten notes in it (fifty-two, including one repeated word and an
+error in an equation that was noted at the viva) with the final report,
+I can focus on exactly the areas the examiners found problems with. I
+have not yet finished going through all the handwritten notations in
+the examiner copy. Still working on revisions.
+
+Further developing the argument for the grounded theory in Chapter 5, the
+government's penetration testers fit the criteria for an 'obscure-benefit
+domain' but differ from that characterisation of experts in that
+for them, original research into 0-day vulnerabilities is at least
+as important as hiring and alumni effects in maintenance of a supply
+of esoteric assets. Because pen testers pursue a vulnerability only to
+the proof-of-concept stage, conversion of knowledge to capital assets is
+minimised. Instead, and unlike the other examples in the literature, their
+intake is primarily of original research, whether internally generated or
+purchased from producers, with ideas (e.g., Lipton's defence) and hiring
+and dismissal being correspondingly less important. Starbuck (1992) is
+primarily concerned with KIFs losing information capital through mobile
+experts leaving the firm, although he acknowledges the parallel effects of
+esoteric information leakage through imitation by other firms (either as a
+result of publicity or after conversion by the KIF of esoteric information
+capital into physical capital by the creation of machines, processes,
+or procedures), and through obsolescence of information. `KIFs learn by
+hiring, training and dismissing personnel', he says (1992, p. 736).
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

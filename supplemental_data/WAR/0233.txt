@@ -1,0 +1,18 @@
+weekly activity report 233 (loughry)
+Joe Loughry
+Sent: 23 March 2012 02:59
+To: Ivan Flechais; Niki Trigoni; Andrew Martin; Joanna Ashbourn
+
+Weekly activity report no. 20120322.2041 (GMT-6) sequence no. 0233, week 8+2 HT
+
+I read a report by G.E.P. Box from 1979 on use of statistical methods
+to improve robustness of scientific models, and three books by Kletz on
+dividing up process control systems for the purpose of predicting hazards.
+I have been notified this week that DTIC.mil is publishing the final
+technical report on Probabilistic Redaction.  I would like to submit a
+paper to the AReS 2012 conference (deadline 28th March), but I am very
+short of time to work on it.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford

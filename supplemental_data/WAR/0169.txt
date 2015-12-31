@@ -1,0 +1,90 @@
+weekly activity report 169 (loughry) 
+Joe Loughry 
+Sent: 30 December 2010 22:58  
+To: Niki Trigoni; Andrew Martin; Joanna Ashbourn  
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.w.auten@lmco.com; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; tom.a.marso@lmco.com  
+
+Weekly activity report no. 20101230.1400 (GMT-7) sequence no. 0169, week -2 HT
+
+I ordered and installed a licence for the specific software tool
+recommended by the assessors, called ATLAS.ti.  The tool is designed
+for qualitative data analysis, a methodology I am not well acquainted
+with yet, but I am going through the on-line tutorials and reading
+the software manual.  The manual is well written.  For background on
+grounded theory and the technique of coding of textual data specifically,
+I ordered several books including the original reference on grounded
+theory discovery, and on qualitative data analysis and coding (Glaser and
+Strauss, 1967; Charmaz, 2006; Saldaña, 2009).  As a check, I obtained
+a sample of the raw data he used from Shamal.  It appears that the
+structure, format and content of his source material (some notes from
+a data session in 2009) are sufficiently similar to my data in both
+level-of-detail and the type of events captured to suggest that the
+coding method prescribed in Saldaña will work.  The data gathering
+methodology is similar (and I can see application of some techniques
+from the REN module) with the important exception of dependence on
+audio and video recording for later transcription, a restriction of my
+participants' environment that I work around.  Coding will be done first
+against unclassified artefacts obtained from R'' with references to closed
+discussions likely being proxied by a second anonymisation framework made
+for the purpose.  Something I like so far about the ATLAS.ti software is
+that it facilitates capture of a lot of miscellaneous documentation that
+I previously lacked context for: org charts, funding flows, alignment
+indications and notes from informal discussions.  I am optimistic that
+the coding process will get off to a fast start.
+
+Dr Martin and I will meet next week after the holiday to set down a plan
+for coding textual materials from three case studies before the end of
+Trinity.  My intent is to code R'' first, since the data for that one is
+in the clearest form, then to obtain validation in March that the result
+is sufficiently good.  After that, R' will be coded, followed by R_zero.
+In the same time frame, chapters 1--3 will be finalised and presented for
+review.  By the beginning of summer I should have confirmation of status
+firmly re-established.  Due to the holiday, as expected I have not heard
+back from Julie Sheppard or DGS about the revised deadline or seen the
+assessors' report, but I anticipate that the assessors' recommendation
+of two more terms will be provided and this high-level schedule will be
+sufficient to meet it.  Other things I want to talk with Dr Martin about
+next week include my thesis statement and title---sufficiently general
+that I think it needs no alteration---although the thesis problem now
+needs to be restated and I need advice.  I have funding for nine more
+months from Air Force contract FA8750-09-C-0006; after that my funding
+will be at risk for three months through the end of calendar year 2011,
+although I intend to apply for one more US federal student loan next week
+to cover the shortfall.  I owe the sponsor a quarterly progress report
+on the probabilistic redaction research project this week; I will have
+that done and submitted for review by the 31st.
+
+Aside from the literature review, which now requires a new section on
+grounded theory and qualitative data analysis, and the methodology
+chapter, one thing that need not change is the model of accreditor
+behaviour which the assessors agreed with and will be used in the
+interpretation chapter.  In the current embodiment, accreditors with
+different security clearances reside on different sides of a multi-lateral
+CDS and have different but possibly overlapping knowledge of risks and
+risk mitigations that at least some accreditors are not cleared for.
+Accreditors will communicate but will refuse to violate security policy
+(Bell--LaPadula with extensions).  Rather than establishing a covert
+channel, I will look for evidence that some exist.  The developer occupies
+a semi-privileged position with knowledge of some of the risks and risk
+mitigations but is precluded from sharing information unrestrictedly with
+accreditors by the position of the certification authority.  The initial
+baseline risk determination is set by the certification authority;
+the goal of each accreditor is to minimise the residual risk after all
+supplemental security controls have been applied before ATO is granted.
+The preceding statements, I think, will inform or affect the discovery
+of a grounded theory, or three grounded theories, from the case studies.
+Waiting for Glaser and Strauss (1967) to arrive to learn the answer to
+that question.
+
+Plan for the next week: meet with Dr Martin to present and examine a
+detailed plan with fine-grained milestones for the next two months.
+Re-establish task list with new targets and delivery dates.  Finish
+reading software manual and tutorials.  Write quarterly report for Air
+Force sponsor.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory,
+St Cross College, Oxford
+

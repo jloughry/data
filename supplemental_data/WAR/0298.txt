@@ -1,0 +1,23 @@
+weekly activity report 298 (loughry)
+Joe Loughry
+Sent: 21 June 2013 04:43
+To: Joe Loughry
+
+Weekly activity report no. 20130620.2031 (GMT-7) sequence no. 0298 week 8+1 TT
+
+I sent a full paper to the IEEE HST'13 committee (Boston, November).
+It is the second round of referee reviews for this conference.
+Notification date is 17th July.  The content of the paper is mostly
+methodology, so work done on it was dual-purpose; I accomplished some
+necessary updates for Chapter 3 this week.  Now that that's in, I am
+going back to work on explaining the grounded theory.  I want to have
+it done by report no. 300.
+
+I have a new lead on a potential job at Seagate; they are looking for
+security design architects (Colorado); the preferred qualifications are
+a close match.  A friend at Lockheed is forwarding my CV to them.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

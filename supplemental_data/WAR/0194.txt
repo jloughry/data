@@ -1,0 +1,64 @@
+weekly activity report 194 (loughry) 
+Joe Loughry 
+Sent: 24 June 2011 05:26  
+To: Niki.Trigoni@comlab.ox.ac.uk; Andrew Martin; Joanna Ashbourn  
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; hmbjuggler@yahoo.com;
+	tom.a.marso@lmco.com  
+
+Weekly activity report no. 20110623.1824 (GMT-7) sequence no. 0194, week 8 TT
+
+I am still trying to finish Chapter 2 and have started writing Chapter 3.
+For confirmation I need to have Chapters 1--3, part of 4, and Appendix
+A entirely completed by the end of July.  I received a letter from the
+MPLS graduate office this week telling me to apply for confirmation
+of status---which I did before Easter---and reiterating that I should
+submit before Friday, 13th January 2012.  I am confident I can finish
+writing up by then.
+
+Working in a sense on Chapter 3 already, I searched for an explanation
+of the special outlook common to accreditors and certifiers.  I think
+I found it in Whyte's characterisation of `the organisation man'; the
+actions and words I observed from several participants in the first
+case study are a nearly perfect match for what Whyte described in 1956.
+This is why I am late delivering the second chapter; I needed the right
+way to illustrate the methodology I was struggling to describe.  I will
+turn in a complete Chapter 2 to Dr Martin, I hope, by Monday.
+
+I got Shamal's dissertation today.  I can look at how he wrote up a
+grounded theory chapter.  I hope that audio recordings of the ISPP
+seminars by Dr Price and Dr Wright will be available on the web site
+soon so I can listen to them.
+
+GSS report was turned in on time last week.
+
+There was a report recently of an interesting new information leakage
+problem.  It was on Bruce Schneier's blog this morning [1].  Two lawyers
+were charged with insider trading after they allegedly deduced upcoming
+mergers and acquisitions from the titles of documents in the firm's
+document management system [2].  There was enough information in the
+titles of documents to leak useful amounts of confidential data with no
+need to read the documents themselves, which would have left an audit
+trail if the documents had been accessed by an unauthorised associate.
+The titles were not so protected, and users were storing information
+in the titles.  It is like a combination of the aggregation problem in
+classified information and an error sometimes made by database designers:
+storing information in the key (it makes normalisation more difficult
+later).
+
+References:
+
+[1] T. Harbert. 'Catch Me If You Can'. Law Technology News, 1st June 2011.
+	URI: http://www.law.com/jsp/lawtechnologynews/PubArticleFriendlyLTN.jsp
+	?id=1202494769505&slreturn=1&hbxlogin=1
+
+[2] United States District Court, District of New Jersey.  'Complaint for
+	Violations of the Federal Securities Laws: Securities and Exchange
+	Commission, Plaintiff v. Matthew H. Kluger and Garrett D. Bauer,
+	Defendants'.  Case No. 11-cv-01936-KSH, 2011.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford
+

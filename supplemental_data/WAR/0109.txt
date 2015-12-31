@@ -1,0 +1,41 @@
+Weekly activity report no. 20091105.2111 (GMT-7) sequence no. 0109, week 4 MT
+
+I met with Dr Martin on Wednesday after Reading Group.  This week I have
+spent time observing activities involved in the Certification Test and
+Evaluation (CT&E) of a major revision of the software for a cross-domain
+system at Lockheed.  This is a useful case study for my research because
+it is the first time that the C&A process (NIST Special Publication
+800-53) has been used; hence both the certifier (DIA) and the developer
+(Lockheed) are unfamiliar with it.  This is the second case study in my
+research, although the first is not done yet.  On Monday and Wednesday I
+participated in the Independent Verification and Validation (IV&V) Test
+Director's briefing and took notes in the test lab during Alpha Testing.
+Alpha Test is the second of four phases of testing.  The previous phase
+was Factory Acceptance Test (FAT) which is performed by the developer;
+the following phase will be Beta 1 at government (field) site in December.
+The final phase, called Beta 2 is a penetration test performed by NSA.
+Therefore, in all, four disjoint groups of people will have tested the
+software before it is certified: the developer, the IV&V contractor,
+Beta 1 site personnel, and NSA.  I have been getting to know as many
+of these people face-to-face as possible.  On Monday I have another
+meeting scheduled, as they have figured out that I am studying C&A
+standards and have been coming to me with questions about which DoD
+standards apply in different situations.  There are many C&A standards,
+all interlocking and partly overlapping, some new and others superseded;
+I have been helping straighten them out.
+
+Since Alpha Test is going on this week and next, I have been spending time
+following it at the expense of progress on the Crosstalk journal paper.
+I will be able to finish that paper around the end of next week at
+the latest.
+
+I feel that my research is focussing to a greater degree.  The dangers
+to watch out for now are two-fold: firstly, to avoid spending too much
+time trying to make things perfect; and secondly, to fit all the work I
+need to accomplish in the next 10 months into that limited amount of time.
+
+Next meeting scheduled for: Wednesday, 12th November at 2:00 p.m. Oxford time.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

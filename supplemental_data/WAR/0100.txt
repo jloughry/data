@@ -1,0 +1,43 @@
+Weekly activity report no. 20090903.2233 (GMT-7) sequence no. 0100, week 8+11 TT
+
+The air in Colorado is full of smoke from wildfires in Los Angeles, a thousand
+miles west of here.  A couple of nights ago there were bits of ash floating in
+the air.  I miss Oxford a lot.  I will be watching the St Giles Fair over the
+weekend through the webcam at http://webcam.oii.ox.ac.uk/
+
+I am working on my poster for the ACSAC conference in December.  The deadline
+for submission is 15 days from now.  Dr Martin gave me encouraging feedback on
+the first page; I have also been reading the 'Advice on designing scientific
+posters' at http://www.swarthmore.edu/NatSci/cpurrin1/posteradvice.htm and
+looking at examples of good and bad posters in a Flickr group.  The writing is
+going very slowly but I am making progress.  I had an insight while making one
+of the figures that explains something I have puzzled over (about the failed CC
+evaluation) for years.  I suddenly understood what Lockheed should have done at
+that point, and why, and also why it was not done.  I wrote down extensive notes
+about it and filed them away for later when I get to my conclusions.  For now I
+have to finish the methodology explication so that I can present that clearly
+and persuasively in a poster and then in more detail in a journal article.  As
+soon as I get those two things done, which will be no later than two weeks from
+now, I will get back to working on experiments.
+
+I read an inspiring paper by Richard P. Gabriel called 'Designed as Designer'
+(ACM SIGPLAN Conference on Object Oriented Programming Systems Languages and
+Applications, 2008); I want to introduce it to reading group next term.  It's a
+strange paper but good, I think.
+
+TO DO:
+
+1. Poster for ACSAC due 18th September.
+
+2. Crosstalk journal article also planned to be done by that time.
+
+3. Security review for public release (at least a complete draft of both is
+required)
+
+4. Register and pay for ACSAC 25 in December (Hawaii)
+
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

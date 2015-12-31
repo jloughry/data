@@ -1,0 +1,60 @@
+Weekly activity report no. 20091112.2029 (GMT-7) sequence no. 0110, week 5 MT
+
+I met with Dr Martin at 2:00 p.m. GMT today by video teleconference.
+I reported my status as stressed, sleep-deprived, and worrying about
+progress.  In other words, situation normal.  Lockheed has been taking up
+too much of my time again; I have to guard against that.  I am acutely
+aware of the short amount of time remaining that I have to finish this
+research.
+
+I attended training on DO-178B/C safety-critical certification for
+aircraft software systems.  It is another C&A standard.  I am not
+planning to study it in detail, but the training opportunity came up and
+I thought it would be useful background material for better understanding
+of the field.
+
+This week I had two interesting experiences when people asked me questions
+on two different occasions.  The first was a question about the Trusted
+Path requirement common to TCSEC, ITSEC, CC, and SP 800-53.  This has
+always been a problem for me to understand in the past.  This week,
+when someone asked me a question related to it, I had a good answer.
+I had never before understood the Trusted Path requirement well, at least
+not to be able to explain it very well.  This time it just clicked.
+That was the good experience; the bad experience this week was when
+another person asked me a question about how the C&A process differs for
+SCI systems from collateral (classified Secret and below).  I didn't know
+the answer.  I had been concentrating on the non-SCI aspect for so long
+that I realised I did not know the SCI side.  It just shows how much more
+knowledge remains that I have yet to take in.  Lots more work to go.
+Dr Martin said that he was pleased that things are starting to come
+together and focus.  He is hopeful of seeing a great burst of progress
+from me soon.
+
+Dr Martin asked about the CT&E Alpha Testing that I have been observing.
+Had I obtained good data from it?  I should write a report about it.
+The Alpha Test out-brief is tomorrow; I promised to write a report this
+weekend and send it to Dr Martin on Monday.
+
+Without doing a big re-planning exercise, for next week I should put
+target dates on the items on my task list so that we can track those
+dates and see where they are going.
+
+Task list: unchanged from last week.  Graduate Student Reporting for
+the term is next week.
+
+Problems: Lockheed has been taking too much of my time again.  I will have
+to remind them again that they also stand to benefit from this research,
+if they will only let me finish it uninterrupted.
+
+Other activities: Reading Group yesterday discussed the famous paper
+by Biddle, et al. on Darknets from 2002.  It was interesting to look at
+the way that some of the trends named for the first time in that paper
+have either continued or changed drastically in the seven years since
+the paper was written.
+
+Next meeting: not scheduled yet but I will arrange a meeting after 5:15
+p.m. GMT some time next week.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

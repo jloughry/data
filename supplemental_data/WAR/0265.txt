@@ -1,0 +1,56 @@
+weekly activity report 265 (loughry)
+Joe Loughry
+Sent: 02 November 2012 02:13
+To: Joe Loughry
+
+Weekly activity report no. 20121101.1923 (GMT-6) sequence no. 0265 week 4 MT
+
+I met with Dr Fléchais last Friday for a discussion.  I reported
+that I have been working out exactly what the unintended and
+uncontrollable---that is, forced---information flows are, pointing to
+examples of each of the theoretical instances if I can find them in
+my data.  I believe I have both kinds, but I want multiple examples of
+each type if possible.  I described a couple of the practical examples
+and solicited advice on the appropriateness of classing each as forced
+or unintended.  The perennial disagreement between developer and
+certifier over the risk of one particular channel type is an example,
+vs intra-developer conversations during or after telecons with the
+certifier during R'' certification when the phone was muted.  I am
+still unsure whether I should characterise the developer's speculation
+about certifiers' motives as an unintended information flow.  I believe
+a much stronger case can be made for forced information flows, where
+an observer or participant armed with a certain amount of knowledge
+can deduce reliably from the fact that the other side does not say
+anything the truth of certain information.  Ironically, the absence of
+explicit communication makes the argument logically stronger.  Part of the
+problem is that most of the accreditor--accreditor cases in the model are
+`SCI-like' where there is no clearly defined high side.  There are two
+high sides, from different perspectives.
+
+Yesterday in another meeting we discussed my diagram combining a
+high-level sequence of events from each of the case studies, overlaid onto
+developer and certification authority life cycle activities, and showing
+how data flowed into both models and recommendations or predictions
+emerged.  I knew the diagram was overcomplicated but Dr Fléchais advised
+how to simplify it.  He showed me the type of figure he needs to see
+at this point and I promised to draw them up.  I am using graphviz
+today to try to generate them from my coding files and theme notes,
+treating it like a process flow diagram where inputs and interactions
+are those actually observed in the data, not what they are `supposed'
+to be by the C&A process.  For example, the problem afflicting CS-2 was
+what I am calling `non-proportional servo feedback'; in control theory,
+it causes hunting behaviour, which is what was observed in the data.
+If the system can adapt to compensate, it may do so by increasing the
+amount of hysteresis, which in CS-2 was operationalised by a slowdown
+in the rate of delivery of work packages.
+
+I went to the doctor today for antibiotics to treat the sinus infection
+that has laid me low.  We talked about different standards of proof and
+where each is used in the structure of a dissertation.  We are going
+to iterate these meetings several times before I have to travel to a
+conference in a few weeks.  I need to complete chapters 3 and 6 with
+the new information before going back to finish 4 and 5.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford

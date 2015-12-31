@@ -1,0 +1,23 @@
+weekly activity report 316 (loughry)
+Joe Loughry
+Sent: 25 October 2013 04:42
+To: Joe Loughry
+
+Weekly activity report no. 20131024.2047 (GMT-7) sequence no. 0316, week 2 MT
+
+I made excellent progress this week due to instituting two new
+progress and time tracking measures: firstly, keeping a log of exactly
+how much time was spent on every different activity (checking and
+correcting references, revising Ch. 1, revising Ch. 2, revising
+Ch. 3, adding material to the appendices, sysadmin tasks, email,
+reading, etc.); and secondly, commits to the revision control system
+(via diffs visible in GitHub). I improved the flow of the main thesis
+throughout the justification and history sections and I am getting into
+the methodology. I am finally making faster progress. My conference
+presentation is due to the editor in two weeks but I am not working it
+at the moment, staying on task.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

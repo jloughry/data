@@ -1,0 +1,38 @@
+Weekly activity report no. 20091217.1928 (GMT-7) sequence no. 0115, week 8+2 MT
+
+I am working hard to get caught up on my thesis research.  I am re-reading
+Dybvig's book on ANSI Scheme.  Going through notes from RM 5.0 Alpha
+Testing and the final Alpha Testing report, which I managed to get
+a copy of from someone in IV&V after the PMR last week.  I have been
+asked to get up to speed quickly on use cases for a project at work.
+I don't mind that because I can use the opportunity to start writing use
+cases for the certification support tool I want to develop.  Shamal sent
+me something to read; I will look at it in the morning.
+
+I have noticed that it is getting easier to explain concisely to people
+what it is that I am researching.  'Certification and accreditation
+of existing systems where the certification process either is new
+or has changed suddenly' is what I am focussing on.  I am starting
+to think about the fundamental use cases implied by that description.
+A lot of back-and-forth, but things are really starting to zero in now.
+Good thing too, because I have about 170 working days left before it
+is time to apply for Confirmation of Status.  That is a terrifyingly
+short amount of time.  I have got to get the following 3 current tasks
+completed and out of the way so that I can plan the next 6 months,
+then meet with Dr Martin and go through the plan.
+
+1. RM 5.0 Alpha Testing observation report.
+
+2. Crosstalk journal paper, plus submit it to the editor before the end
+	of the year.
+
+3. Methodology chapter: planned to be complete before 31st December.
+
+Government employees are all on holiday through the end of the year.
+Lockheed is quiet also.  I am taking advantage of the lull to scramble
+back onto research work.  Hopefully I will have a more complete progress
+report next week.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

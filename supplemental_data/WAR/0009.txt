@@ -1,0 +1,17 @@
+Weekly activity report no. 20071122.2029 sequence no. 0009 week 7 MT
+
+I am in SDE (Specification and Design) course all week long.  All Z all the
+time.  Very intense.  The group project, which I was dreading (because I dislike
+working in groups) actually turned out to be sort of fun.  I got to learn to use
+a new tool called fuzz for writing Z specifications.  It uses LaTeX syntax,
+which I enjoy.
+
+No other activity this week because of SDE.  I had no meeting with Dr. Martin
+this week for the same reason.
+
+I am scheduled to introduce a paper at Security Reading Group next week.
+
+-- 
+Joe Loughry
+DPhil PRS, Computer Science
+St. Cross College

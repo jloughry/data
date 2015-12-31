@@ -1,0 +1,26 @@
+weekly activity report 375 (loughry)
+Joe Loughry
+Sent: 12 December 2014 02:31
+To: Joe Loughry
+
+Weekly activity report no. 20141211.1905 (GMT-7) sequence no. 0375, week 8+1 MT
+
+My submission date is 16th January, only five weeks away; my supervisors
+have asked for a complete draft ASAP. I owe a GSO.3 form to Julie Sheppard
+soon.
+
+Reading Group last week looked at a new paper from CCS'14, only a few weeks
+old, titled 'A Critical Evaluation of Website Fingerprinting Attacks',
+by Marc Juarez, et al. The authors looked carefully at the assumptions
+underlying a questionable technology (monitoring access to web sites
+done via Tor relays). This week we are to look at a classic paper: 'New
+Directions in Cryptography' [IEEE Trans. Info. Theory 22(6), 1976] with
+background from 'Keeping Secrets' by H. Corrigan-Gibbs (2014) about the
+influence of former NSA director Vice Admiral Inman on DES and D--H through
+the late 1970s.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+
+

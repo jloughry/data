@@ -1,0 +1,99 @@
+Weekly activity report no. 20100422.2149 (GMT-7) sequence no. 0133, noughth week TT
+
+I met with Dr Martin on Wednesday 21st April to look over my progress.
+I reported on the status of my experimental animal: Radiant Mercury
+5.0 certification testing.  Beta 1 continues to proceed normally; IV&V
+will wrap up this week on Friday and submit their final report on 30th
+April; no change there.  Rumour has it that there are no major findings,
+which is good news.  The developer is only working on 6--8 CRs (software
+Change Requests) at the present time, none of them large; things look
+good for version 5.0zc to become the build candidate that goes into Beta
+2 regression testing---due to complete 18th June (factory acceptance test)
+and 8th July (government regression test).
+
+As I predicted, the developer finally decided to slip the date for Beta 2
+by six weeks and test at STRATCOM instead of JFCOM.  The project manager
+noted in yesterday's meeting that the artificial sense of urgency that
+prevailed whilst the developer were still trying to make the JFCOM
+deadline is probably the only reason why they'll actually receive the
+IV&V report by 30th April; without that pressure, the IV&V contractors
+probably wouldn't have worked as hard.  The slippage of 6--8 weeks off
+the original date is actually not bad, although funding is very tight
+and the developer is 'at risk' through 30th April.  They will get it
+worked out with NMSO, not to worry.  But funding is very tight and
+the project manager specifically asked all personnel to look out for
+any unnecessary effort in the plan that can and should be eliminated.
+There could be nuclear missiles incoming to Washington, D.C., she said,
+and NMSO would never move any faster.  The government sponsor (through
+NMSO) have been incrementally funding this project to death.
+
+In other words, the certification is proceeding normally.  It is extremely
+interesting to watch the process unfold, observing how it really works
+as opposed to how it is supposed to work.  All the meetings and all the
+artefacts I collect are useful data for my dissertation.
+
+Next I reported on the UCDMO conference paper abstract I submitted last
+Friday.  I almost missed the deadline, having found out about it only
+two days before submissions were due, but I did not miss the deadline.
+I am excited about this new paper on information asymmetry.  The topic
+did not really gel until I began writing it, but this is exactly the
+formalism I was searching for and is the key to making the accreditor
+information tool in phase II work.  I am working on the full paper
+and will have more to say about it soon.  I now have two solid ideas
+that are completely different but both relating to the same thesis.
+Feeling good about progress right now.
+
+I described a failed experiment that I was trying to do in R, relating
+to the information asymmetry idea.  I tried to model the aggregate
+risks for each data owner's accreditor by a normal distribution with
+a random mean and standard deviation, shifting them left or right a
+random amount so they didn't line up, then trying to get the residual
+risk by a moving average of all the curves.  It totally did not work.
+It seemed like a great idea but it didn't work.  I can express the
+concept clearly in set theory but I am still having trouble coming up
+with a way of visualising it.  I will have more to say about this later.
+
+Survey progress was delayed because of emergency work on the UCDMO
+conference paper.  Working on the questions for tomorrow.
+
+I gave another talk at Lockheed on Tuesday to an audience of about sixty
+engineers on new technical capabilities in Radiant Mercury 5.0 and the
+UCDMO process.  Following Dr Martin's advice, I made sure the talk was
+on a different subject from before and also that it related directly to
+a section or chapter in my dissertation.  The subject of this talk will
+become two sections in Chapter two or three.  I received good feedback,
+participants in one east coast multicast site suggesting at least one
+completely new use for the system that has never been considered before.
+If it works, it could lead to enormous cost savings throughout the
+government.  I passed on the idea to the programme manager.
+
+Miscellaneous: Lockheed introduced a new automated process for reviewing
+papers and presentations for public release.  It should speed up the
+required security reviews that I am subject to.  Dr Martin suggested an
+interesting new thing that Probabilistic Redaction could be used for.
+I am going to use that idea in next week's meeting with the project
+sponsor.  I helped Shamal proofread a new paper for NSPW 2010 this
+week.  I provided John Lyle with a list of historical references about
+certification and accreditation.
+
+Next meeting scheduled for Thursday, 6th May 2010 at 1400 Oxford time.
+Dr Martin is at the Info Security Europe conference next week.
+
+Current list of tasks in priority order, most urgent priority first:
+
+1. List of email addresses for practitioner survey, participant survey,
+and user survey; develop questions, enter in SurveyMonkey and test.
+Goal is 23rd April.  2. Extend the outline of the methodology chapter.
+3. Journal article (based on methodology chapter, VALID 2010 paper and
+recent talks).  I want to submit by 30th April.  4. Write the rest of
+the UCDMO conference paper.  5. Update dissertation Table of Contents.
+6. For Chapter 3 or 4, interpretation of first case study results.
+7. Begin writing progress report for confirmation of status.  8. Fill
+out paperwork for UK student visa extension in April for June deadline.
+9. Update the schedule.  10. Apply for confirmation of status---I want
+to submit the forms with written work in June for August or September.
+11. Development of accreditor information coordination tool.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

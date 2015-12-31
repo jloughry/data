@@ -1,0 +1,31 @@
+weekly activity report 303 (loughry)
+Joe Loughry
+Sent: 26 July 2013 02:58
+To: Joe Loughry
+ 
+Weekly activity report no. 20130725.1909 (GMT-7) sequence no. 0303 week 8+6 TT
+
+I compared my categorisation of certifier and developer behaviour observed
+during CT&E to a report I obtained from the U.S. Department of Defence
+Office of General Counsel about government employee misconduct (DoD OGC,
+2012). That report places emphasis on theory explaining the connection
+between data collected and the reasons for misconduct (hence, to direct
+effort towards solving the problem); while not exactly comparable to
+my thesis, it is parallel, and aligns with what I read in Daft and
+other places. I am working on explaining my theory and making sure it
+explains adequately.
+
+I referred to the exam regulations for content of theses and the procedure
+for resubmission to the examiners; a detailed report of about 2000 words
+indicating the specific changes made is requested; I was already going
+to do that. Other occurrences this week: 'A Model of Certifier and
+Accreditor Risk Calculation for Multi-Level Systems' was accepted to
+the conference in Boston (12--14 November); camera ready copy is due by
+11th Sept. A response to examiner action was sent on USPTO 13/355,210
+in advance of publication of the application. The patent application
+was published this week.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

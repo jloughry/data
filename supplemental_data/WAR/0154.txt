@@ -1,0 +1,173 @@
+weekly activity report 154 (loughry) 
+Joe Loughry 
+Sent: 17 September 2010 07:07  
+To: Niki Trigoni; Andrew Martin; Joanna Ashbourn  
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.w.auten@lmco.com; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; tom.a.marso@lmco.com  
+
+Weekly activity report no. 20100916.1627 (GMT+1) sequence no. 0154, week -3 MT
+
+In attempting to model accreditor--accreditor communication interactions
+in a way that shows correspondence with observed events [Is there a word
+for `similarity of behaviour' the way `isomorphism' means `similarity
+of form'?  If there is, I have not been able to find it.  Mizruchi and
+Fein (1999) use the term `mimetic isomorphism' in exactly the way
+I mean.], I have gone back temporarily to the Common Criteria as a
+(comparatively) bare-bones example of the type.  The Common Evaluation
+Methodology (CEM) of the CC sponsoring organisations spells out out a
+suggested sequence of tasks and procedures that evaluators must perform
+on the ST and evidence of a product in evaluation.  To expand on the 5
+C's of accreditor motivation, we can see that in the first case study,
+$L$ were acting in accordance with C2 and C3 (Corporation and Contract,
+respectively) in their evaluation if we consider C2 to encompass, through
+$L$'s policies, practises and procedures, the CEM.  It is illuminating
+to consider events seen from the perspective of $D$ in light of a new
+article by Spicer (2010) in which the author points out that both the
+environment and the evaluated configuration are the responsibility of
+the customer, something that is not well communicated or understood by
+PP end-users.  I emailed Patti Spicer and asked for a meeting with her to
+discuss this; she responded and suggested a telecon to include Charles
+Nightingale and Hal Forsberg, after they return from a business trip.
+I will arrange for that telecon as soon as possible, either next week or
+(more probably) the week after.  It should clear up some unknowns that
+are hindering me from getting a numerical simulation working in MATLAB.
+It is also directly related to the Crosstalk article on my task list.
+
+I have been reading a new book by Hahn and Valentine (2010) on MATLAB,
+working through their examples and trying to figure out how to solve
+my problem.  The suggestion I keep getting is to model it as a physical
+system (think of springs pulling a weight in different directions), get
+it working in the simple case first, then start adding adjustment factors
+to account for complications.  [It doesn't help that this week's xkcd
+is about exactly the same thing.]  Accreditor behaviour, deriving from
+accreditor behaviour incentives, is proving to be surprisingly difficult
+to model.  I said I would have a paper ready this week to submit to this
+year's ACSAC describing the solution, but tonight all I can do is outline
+the problem and describe a bunch of failed solutions that do not work.
+I am not going to submit the paper in its current condition.  I would
+rather have a good paper accepted by a later conference than a poor
+paper rejected now.  I read some advice in Patterson (2001) and Vardi
+(2010) on hypercriticality and peer review that made it seem essential
+to concentrate on the introduction and the first page, because that is
+what reviewers read.  I am still planning to submit the abstract of
+this paper to the Comlab DPhil Student Conference tomorrow, but I am
+not comfortable submitting to a national conference a problem without a
+solution that works---someone might see it and publish a working solution
+first.  I was talking to a couple of people in Lockheed earlier today,
+and when they asked about my thesis I rattled off a (cogent, I thought)
+description of my latest thinking on the subject---and suddenly I thought,
+`oh no, what if that gets out before I can publish it.'  I need to do
+more work on it before I can put this before peer review, and right now
+I am worried about getting scooped.
+
+Reading this week: besides the MATLAB book, I found a large tutorial by
+Pennock and Wellman (2004) on 'Markets in Uncertainty' and I am going
+through it looking for inspiration.  To add to my literature survey,
+I found a reference to the earliest written description of one of the
+principles I am trying to encode: `Fear of harm ought to be proportional
+not merely to the gravity of the harm, but also to the probability of
+the event.' in \it{La logique, ou l'art de penser} by the monks of the
+monastery of Port Royal (1662), quoted in translation in Bernstein (1996),
+citing Hacking (1972).  Bernstein recommended another book by David (1962)
+on the discovery of probability, which I will probably end up buying
+from Amazon.  In the simplest analysis it is true, of course, but compare
+to Schneier's (2008) observation that people tend to attribute a larger
+value to potential losses than they do to potential gains (apparently
+modified by the distance between the change and their current state).
+All these forces need to be modelled in the numerical simulation if it
+is to have any chance of predicting accreditor behaviour during ST&E.
+Someone else recommended Augustine (1997) on how engineers communicate.
+I have it on order.
+
+I helped out Ronald Kainda this week with a reference that he was
+looking for; I remembered having seen it in a very weird paper by
+Frøkjær and Hornbæk (2002).  I am giving another talk on
+TEMPEST next week to the Red and Blue Teams at Lockheed Martin who
+specialise in testing internal systems for intrusion vulnerability.
+They expressed an interest in hearing about new vulnerabilities that
+have been discovered within the last 10 years and attacks that could
+be implemented at low cost.  I adapted an earlier talk I gave about
+optical, conducted, tribo/acoustic, thermal, and induced emanations.
+That talk is scheduled for 23rd September.
+
+There was no RM 5.0 CT&E hotwash telecon this week.  The participants
+(at least the developer) are still waiting for the pre-CDTAB results.
+NSA I173, I733, and DNI CAT have submitted their final draft reports
+to UCDMO for the pre-CDTAB.  I predict there will be a telecon on 23rd
+September to discuss the reaction of the CDTAB.  I received a kind
+response from Paul Ozura to my email asking for help getting accreditors
+to talk to me; he said that the problem likely stems from the fact that
+they do not know who I am, at least in my rôle as a University of Oxford
+researcher, and that consequently they are `afraid that what you write
+may fall into the wrong hands that could use what is said against them.'
+He asked me to show how I am approaching the accreditors, and offered
+to talk to a few DAA reps and try to open some doors.  I will send a
+detailed reply to Mr Ozura in the morning.
+
+I learnt some more background this week about the funding relationship
+extending from the U.S. Navy, through the PMO, to the $R$ CDS developer.
+The Navy has never fully funded the programme since it took over
+sponsorship from the first sponsoring agency; the programme has been
+funded at-risk by the developer for more than a year at present.
+Suddenly, two weeks before the end of Fiscal Year 2010, the developer
+has received ALL the money from the Navy, and needs to figure out how
+to spend the money during this FY before it disappears again October 1.
+To not spend the money would hurt the feelings of the COTR, who worked
+very hard to get it.  Capital expenditures are impermissible; it must
+be used for operating expenses, e.g., software development, research,
+maintenance and enhancements.  The developer has a new roadmap, something
+formally documented for the first time, that should improve response
+time to inverse funding crises like this in future.
+
+There is an executive currently asking around the corporation why there
+are two CDSs in Lockheed, TMAN and RM.  The difference, of course, is
+that TMAN has not been under continuous development for a decade the
+way RM has; TMAN have been around for a long time, but not continuously
+developed.  In fact, it appears that TMAN started over recently.  Their
+code, at present, is probably better than RM's, but their functionality
+is much less.  In the UCDMO community, almost no one has heard of TMAN;
+they have all heard of RM.  RM has competed with TMAN many times, and
+never lost a proposal.  The developer expects that this executive will
+go away after a while.
+
+I owe a draft Confirmation Report to Dr Martin on 24th September.
+I intend to get that done on time.  I had no meeting with Dr Martin this
+week; there have been too many other things going on.  I will set up a
+meeting next week.
+
+My current task list (in priority order, most urgent first; work on
+tasks in this order):
+
+1. Finish abstract for the Comlab DPhil Student Conference (due tomorrow).
+	This is the first two pages of the updated `information asymmetry'
+	article that I decided not to submit to ACSAC; I need to find a new
+	conference for it to go to.
+2. Set up a meeting with Patti Spicer, Charles Nightingale and Hal
+	Forsberg at CSC.
+3. Write a detailed justification for Paul Ozura.
+4. Read the Pennock and Wellman (2004) tutorial on uncertainty markets.
+5. [for Lockheed] Finish quarterly progress report, FY 2010 summary
+	progress report, experimentation report and technical presentation
+	for the Air Force (this weekend).
+6. Write confirmation report for Dr Martin (due in one week).
+7. Finish reading the MATLAB book; fix the broken numerical model;
+	get a simple option mechanism based on the Dutch pattern working;
+	implement `acid test' in MATLAB.
+8. Do small tasks: update first case study chart with audience
+	suggestions from VALID 2010 conference; draw fault-tree diagrams for
+	$R^\prime$, $R^{\prime\prime}$ and $S^\star$; draw up organisation
+	charts for $R$, $R^\prime$, $S^\star$, $R^{\prime\prime}$, $N$, $L$
+	and $G$; document the current set of anonymisation codes.
+9. Request a meeting with Dr Martin.
+10. Crosstalk article: immediately after writing confirmation report,
+	write the interpretation of the first case study in terms of
+	accreditor behaviour incentives; write a preliminary overview of
+	second case study based on final reports from NSA I173 and I733, DNI
+	CAT, ST&E, and the POA&M Validation Report.
+11. Based on what I learn from Paul Ozura, rework the other two planned
+	surveys done for background on the case studies.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory,
+St Cross College, Oxford

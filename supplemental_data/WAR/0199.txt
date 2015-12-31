@@ -1,0 +1,69 @@
+weekly activity report 199 (loughry) 
+Joe Loughry 
+Sent: 29 July 2011 03:50  
+To: Niki.Trigoni@comlab.ox.ac.uk; Andrew Martin; Joanna Ashbourn  
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; hmbjuggler@yahoo.com;
+	tom.a.marso@lmco.com  
+
+Weekly activity report no. 20110728.1916 (GMT-7) sequence no. 0199, week 8+5 TT
+
+Dr Fléchais replied to my email that 7th September would be a suitable
+date for confirmation of status.  Dr Jirotka has not replied yet.
+That week, if both assessors can agree on it, would be ideal.
+
+I worked, as planned, on separating the grounded theory code book out
+from my chronological notes file.  Locating and linking all the relevant
+analytical memo notes to each codon is taking up most of my time.
+I am almost done with it.  Additionally, I am coding separately for
+proprietary and sensitive information in hopes of saving time later.
+
+I met with Dr Martin last Friday again.  I looked over the Trustworthy
+Digital Systems call for proposals; the deadline is 13th September and I
+want to submit a research proposal after I turn in written work for COS.
+Dr Martin told me to get the MoD green paper with the specifications
+for proposals in it from the portal.  We discussed travel to Oxford
+for confirmation of status and Skype obliged by failing mid-conference.
+I think it shows respect for the assessors if I attend in person, and I
+remain chary of depending on teleconferencing for critical functionality.
+I reported on preparations for the UCDMO conference next week including
+the demonstration of the probabilistic redaction tool at the Air Force
+Research Laboratory exhibit there.  I am leaving in one day for Chicago.
+Late Friday I was asked to give a talk Monday to a group of VP and
+director-level executives of Lockheed about the project; that is now
+done, and a dry run earlier the same day for software engineers in the
+department yielded good (i.e. hard) questions from the audience.
+
+Saturday, I attended the quarterly LM information assurance
+`un-conference'.  Bharat Shah spoke on a new Security Controls Assessment
+Database application he is developing; I talked later with him about
+getting a copy of it or of his progress reports.  His tool is being
+designed to link NIST SP 800-53 Rev. 3 security controls assessment to
+the associated software requirements, and to present government security
+evaluators with every relevant piece of information from an overview down
+to the details.  Available commercial tools for this purpose, viz. Exacta,
+are incredibly expensive.  I was asked again to contribute a talk about
+the UCDMO when I get back from the conference.
+
+The R'' developer encountered two interesting certification-related
+events this week; I assisted with the developer's written responses to
+the government.  The first was regarding the DoD requirement for Host
+Based Security System (HBSS), a requirement considered risky by cross
+domain system developers.  B------ F------ has made it known throughout
+DoD from his perch at NSA that cross domain systems are to report through
+SCAP, not run HBSS.  I wrote the justification.  Later in the week, an
+extremely interesting discussion happened between the State department,
+the programme office, and the certifier regarding risk assessment of
+a proposed foreign sale.  I wrote the developer's risk assessment.
+I am not sure yet how much of that I can use because of security.
+
+I have a list of companies and people to talk to during the UCDMO
+conference.  Next meeting with Dr Martin tomorrow morning.  There are
+24 weeks to submission.  If Dr Jirotka can make it, I am planning travel
+to Oxford the week of 5th September, but have not bought tickets yet.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford
+

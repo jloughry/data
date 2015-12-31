@@ -1,0 +1,42 @@
+weekly activity report 280 (loughry)
+Joe Loughry
+Sent: 15 February 2013 00:03
+To: joe.loughry@stx.ox.ac.uk
+Bcc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	carmenmoyer@hotmail.com; chip.auten@comcast.net; edloughry@aol.com;
+	diane@dldrncs.com; joe.loughry@stx.ox.ac.uk;
+	mmcauliffesl@comcast.net; hmbjuggler@yahoo.com; tom.a.marso@lmco.com
+
+Weekly activity report no. 20130214.1632 (GMT-7) sequence no. 0280 week 5 HT
+
+I applied to four job postings this week at Booz Allen and Boeing.
+It was interesting to compare the résumé parsers used at almost all
+of these sites; to apply for a job now it requires you to upload a
+résumé, which is parsed and used to pre-fill fields in a web form.
+The Boeing parser was more accurate than Booz Allen's.  The Booz parser
+consistently misidentified ligatures in words like 'certification' and
+'difficulty', which is interesting because I specifically generated that
+PDF file with text attributes on the extended characters.  That suggests
+the Booz parser is looking at letterforms, not text, possibly even doing
+OCR on uploaded files (for security reasons?).  It gave me the idea for
+crafting a résumé for maximum compatibility with automated parsers to
+try to reliably set as many search bits as possible on the other side,
+while still being readable by a human.  I am working on that improvement,
+and then will apply for another batch of jobs with it.
+
+Deadline for abstracts for the HST13 conference in Boston is 15th March.
+I am reading a book this week on speaking and presentation (Berkun,
+2010) in anticipation of my viva.  I met for lunch with the IT security
+director of OppenheimerFunds to network; he encouraged me to join ISACA
+and come to their monthly meetings.  Still working on one conference
+paper, one journal paper, and the UK student visitor visa application.
+
+Reading Group met this week to discuss a preprint paper on protocol
+analysis.  I think the method has similar potential to use of static
+analysis in pre-build CM checking on high assurance programmes.  I am very
+glad to be back in Reading Group; I missed going to it when I was writing.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

@@ -1,0 +1,34 @@
+weekly activity report 272 (loughry)
+Joe Loughry
+Sent: 20 December 2012 22:30
+To: Joe Loughry
+
+Weekly activity report no. 20121220.1449 (GMT-7) sequence no. 0272 week 8+3 MT
+
+I am working on writing the interpretations in Chapter 6.  I know I am
+behind on my commitments for finished written work and I am trying to
+remedy that; I have been working on parts of different chapters out of
+sequence but which are necessary to hang together.  Dr Martin emailed
+me today to say that both internal and external examiners have been
+confirmed, and he wants chapters from me to review.
+
+I have been corresponding with Nicholas Padolak for a few days about
+medium and high assurance systems outside the cross domain solution
+area, and possible application of my research to their C&A, or more
+specifically, to their system development before the CT&E phase of
+C&A begins.  He thinks it might be fruitful to essentially complete
+some certification and accreditation tasks much earlier in the design
+pipeline than is currently done, based on my data showing when certain
+information first becomes known and when that information presently gets
+to the people who need it.  Evidence would be carried forward encoded in
+software configuration items directly, where it could be automatically
+verified during integration.  In that conversation I had an insight about
+how to explain part of the accreditor model that is counter-intuitive in
+a much better way, and wrote it up.  I will send three finished chapters
+to Dr Fléchais and Dr Martin in the next few days; they have both asked
+for chapters to review as soon as I can get them done.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

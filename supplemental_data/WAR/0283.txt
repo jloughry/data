@@ -1,0 +1,35 @@
+weekly activity report 283 (loughry)
+Joe Loughry
+Sent: 08 March 2013 05:21
+To: Joe Loughry
+
+Weekly activity report no. 20130307.2051 (GMT-7) sequence no. 0283 week 8 HT
+
+The extended abstract is due to IEEE next week for my submission on
+'a model of certifier and accreditor risk calculation for multilevel
+systems'.  Tresys, Inc. (Baltimore, Maryland) asked for a summary of
+my research.  Still no response from other companies.  I attended an
+ISACA student group meeting at E&Y for a presentation on data analytics.
+I received notification that my visa application is being processed
+and expected to be completed mid-month.  I renewed my University card.
+I have started collaborating with a researcher in the department of
+social policy and intervention; they want to borrow some of my data and
+have provided an informed consent agreement.
+
+Reading group discussed 'A Decade of OS Access Control Extensibility' by
+R.N.M. Watson [Comm. ACM 56(2), pp. 52--63, February 2013].  There was
+some argument over whether loadable kernel modules in FreeBSD can be
+trusted, because I claimed there is no reliable way in FreeBSD for
+the module to be able to determine whether it was loaded directly
+or interposed.  To defend against failures of the reference monitor,
+I described a process used on a CMW operating system that continually
+tested separation boundaries (process, file, message, label, and signal)
+and communicated to a trusted process that had privilege to shut down
+the system.  I noted some architectural features of the Burroughs large
+system machines that are still ahead of their time.  Reading group is
+looking for another paper for next week.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

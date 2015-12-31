@@ -1,0 +1,64 @@
+weekly activity report 264 (loughry)
+Joe Loughry
+Sent: 26 October 2012 04:56
+To: Joe Loughry
+
+Weekly activity report no. 20121025.2020 (GMT-7) sequence no. 0264 week 3 MT
+
+In our meeting earlier this week, I discussed with Dr Fléchais
+the applicability of my accreditor model to be able to predict
+certifier--attacker information leakage from security vulnerability
+analysis during certification of regulated medical diagnostic and
+therapeutic devices.  I have been ill with a head cold all week but
+working.  Before I can do anything else I need to work out the direction
+and magnitude of two arrows I have been calling on the diagram for
+each of the SCI (or SCI-like) configurations of two accreditors having
+non-comparable security clearances and different amounts of knowledge
+of the security risks and risk mitigations from each perspective.
+Collateral accreditations lack this property.  Dr Fléchais drew my
+attention to another instance of imbalance of responsibility in the case
+of medical device certification: certification cost is borne entirely
+by the vendor but benefits users.  I noted that cross domain solution
+developers also bear the cost of certification and recertification,
+but the C&A authorities of cross domain systems are cognisant of the
+need for patch management and have built in time limits on certification
+(UCDMO sunset list) and accreditation (three year limit on ATO) that are
+designed to take obsolete equipment out of circulation on a schedule.
+The obvious balancing force in the certification of medical devices is
+the threat of litigation, which affects equally the developer and user
+but does not apply so far to cross domain systems.  I can write about
+this in my conclusions.
+
+I have been thinking about how to explain it to an audience next month.
+Dr Fléchais pointed out several interesting consequences of my research
+that I had not appreciated, but cautioned not to expand the scope.
+We talked about how to simplify the characterisation of unintended and
+uncontrollable information flows in cross domain accreditations: it
+reduces to either three or four general statements: either there exists
+or does not exist a classified threat I am not cleared for, and either
+there exists or does not exist a risk mitigation I am not cleared for.
+(The null possibility is that the residual risk is exactly what it
+appears to be.)  Another interesting consequence is that if present
+rules for clearances and classifications are followed to the letter,
+then information leakage must occur, but if those rules are bent
+slightly in the interest of convenience, as usually occurs, then no
+potential difference exists and consequently there is no unintended
+flow of information.  The additional cost of clearing accreditors to a
+common high level probably does not exceed the savings from elimination
+of scheduling difficulties in accreditations.  It could also be said
+that current practice, formalised by Bell--LaPadula from something
+that evolved, which at first glance looks both wrong and inefficient,
+is actually an essential quality and a necessary cost if security is to
+be preserved.  (I still need to prove that it is true for all SCI and
+SCI-like configurations.)  We talked about other possibilities inducible
+from either positive or null behaviour or statements.  We talked about
+ow to write up this theoretical contribution in the conclusions section.
+
+I have a meeting with Dr Fléchais tomorrow.  I am thinking about my
+schedule for finishing.  I need to complete chapters 3 and 6 with the
+new information before going back to finish 4 and 5.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

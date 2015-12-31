@@ -1,0 +1,32 @@
+weekly activity report 339 (loughry)
+Joe Loughry
+Sent: 04 April 2014 03:31
+
+Weekly activity report no. 20140403.1909 (GMT-7) sequence no. 0339, week 8+3 HT
+
+In the time line of Chapter 5, I traced backward to the earliest
+indications when funding issues began affecting certification progress,
+and how it was resolved each time by the programme office (no pattern is
+apparent). The remaining time line is still excessively large but the
+size is coming down: it is currently 33 pages (at the end of Beta I),
+wrapping up CT&E. The ST&E phase, as discussed earlier, occurred out of
+view and represents much less data. The first phase was more important;
+as one of the participants put it in an interview: '[Beta I] always
+finds something".
+
+I had a phone interview this week with a Google software engineer
+in Boulder, Colorado. The interviewer had looked at my GitHub, and
+connected that I had written some article or other he'd read. He had
+me talk through data structure and algorithm programming problems for
+about an hour: interesting ones, inclining strongly towards scalability
+and extreme scales, as expected. At the end I was invited to a more
+detailed interview on-site in Boulder, probably to occur next week;
+I will get a call from someone Monday to set it up.
+
+Status: I need to cut the length down from 338 pages to 200 including
+anonymisation code tables. I shortened Chapter 5 by 47 pages in two weeks.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

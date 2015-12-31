@@ -1,0 +1,95 @@
+Weekly activity report no. 20090618.2211 (GMT+1) sequence no. 0089, week 8 TT
+
+Flexibility and adaptability are key.  I have had opportunities to practise both
+this week.  First, I finally have an appointment scheduled with Dr Ian Levy at
+CESG on 29th June.  Since he is a busy person and important---both in the
+government and to my research---I was hoping to get some practice interviewing
+other participants in my case studies before going in to see him, but it didn't
+work out that way; I have to interview him first.  In a way, the timing is
+fortuitous because Dr Levy's opinions are crucial background for the first paper
+I want to publish.  So therefore---re-planning again---I will concentrate on
+trying to have a rough draft of that paper ready in a week's time to check some
+facts with Dr Levy and get his opinion about the failed Common Criteria
+evaluation.  I will plan on having specific questions ready to ask when I go in
+to talk with him, along with a printed agenda for the meeting.  Visit request is
+being processed by security.
+
+Next week I will be in the Requirements Engineering software engineering course
+all week, per recommendation of one of my transfer viva assessors.  I am doing
+the pre-readings for that course and the pre-assignment this week.
+
+I introduced a paper at Reading Group this week from the 2008 Int'l Common
+Criteria Conference.  It was an interesting paper because it shows the
+negotiations that occur between a software developer and the CLEF [testing lab]
+during the security evaluation process.  Reading between the lines of this paper
+was interesting because I could recognise some of the same discussions Lockheed
+Martin had with a different CLEF.  In other news, I found two other groups doing
+research similar to mine.  Not completely identical to my research, but both of
+these groups propose using an XML database with XSLT
+transformations from XML into work packages for Common Criteria evaluation.  At
+least one group is working from the perspective of a CLEF wanting to use this
+method to streamline their work flow.  I'm not worried because I'm planning to
+use a different method, and they don't have my case studies.  But I will
+certainly study their solutions and cite their work in the introduction to mine.
+ I should also look at using XSLT which I wasn't planning to use, but perhaps I
+ought to, since everyone else seems to use it.  I want to use graphviz for
+generating tree diagrams; pic is good for flows but it doesn't lay out trees
+automatically.
+
+I attended the DPhil writing workshop in the comlab on Thursday.
+
+Next meeting with Dr Martin is scheduled for Tuesday, 23rd June at 12.15.
+
+Status of parallel tasks:
+
+1. Work on draft of paper no. 1;
+2. Prepare for REN course module next week;
+3. Finish methodology chapter outline;
+4. Update wiki with Bletchley Park maps, trip information, and schedule;
+5. Write mid-point progress report (due 21st June);
+6. Finish writing Cognitively Assisted Cross-Domain Information Sharing (CACDIS)
+quarterly progress report (for the Air Force).
+
+Books I have been reading this week:
+
+none (still on hold is Bock's book (1999) on methodology);
+
+TO DO:
+
+1. CACDIS report (tomorrow);
+2. First paper draft (over the weekend);
+3. Detailed plan for next 12 months (needed for following task);
+4. Mid-point progress report (due 21st June);
+5. Methodology chapter outline;
+6. Reading plan for going through my historical project records;
+7. Makefile is getting awfully hairy and needs rewriting;
+
+Upcoming deadlines and events:
+
+ - 21st June: HALF-WAY POINT (end of term 6);
+
+ - 21st June: GalaxyZoo meet-up at the Royal Oak;
+
+ - 23rd June: meeting with Dr Martin 12.15;
+
+ - 24th June: encaenia;
+
+ - 22nd-26th June: Requirements Engineering module (all week);
+
+ - 8th July: field trip to Station X;
+
+ - 28th July: moving day;
+
+ - 1st September 2009: plan to have first chapter peer-reviewed;
+
+ - 1st January 2010: plan to have second chapter peer-reviewed;
+
+ - 1st April 2010: plan to have third paper peer-reviewed;
+
+ - 15th June 2010: plan to have fourth paper peer-reviewed; Confirmation of
+Status report due.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

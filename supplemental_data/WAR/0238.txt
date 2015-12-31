@@ -1,0 +1,25 @@
+weekly activity report 238 (loughry)
+Joe Loughry
+Sent: 27 April 2012 03:55
+To: Joe Loughry
+
+Weekly activity report no. 20120426.1912 (GMT-7) sequence no. 0238, first week TT
+
+Data analysis of CS-1 and CS-2 event logs continues.  I received from
+Robert Glass a paper reprint of Craddock's 1999 article, needed for
+a citation tying CS-2 characteristics to similar events in the past.
+Coding in ATLAS turned up a connection between Backhouse and Dillon
+(1996) and Kletz's recommendations (1991, 1993, 1999b) that I had never
+noticed before.  I am going back through emails and logs from 2004 looking
+for all examples of a catalogue of behaviours that occurred during the
+CS-2 validation phase of the failed evaluation.  Some hypotheses for
+the reasons underlying the different evolution of the CS-1 certification
+are coming up.  Busted ones are kept in chronological order in the notes
+file and show the progression implicitly, but I want to document it in
+the tool somehow.  Status: working on two data analyses, nothing else.
+Estimated completion date of data analysis is fourth week of May.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

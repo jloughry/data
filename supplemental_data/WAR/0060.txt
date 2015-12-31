@@ -1,0 +1,14 @@
+Weekly activity report no. 20081120.2028 (GMT) sequence no. 0059, week 6 MT
+
+I am working on my slides and talk for the Friday afternoon seminar that happens
+on 5th December.  I heard from Dr Simpson; he wants to schedule my transfer viva
+in January.  I told him what my availability is.
+
+Reading this week: R.V. Jones's history of scientific intelligence in WWII,
+interviewing methods, and about Hadoop, a distributed computing framework that
+implements map-reduce.
+
+-- 
+Joe Loughry
+DPhil PRS, Computing Laboratory
+St Cross College, Oxford

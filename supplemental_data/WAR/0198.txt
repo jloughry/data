@@ -1,0 +1,72 @@
+weekly activity report 198 (loughry) 
+Joe Loughry 
+Sent: 22 July 2011 00:42 
+To: Niki.Trigoni@comlab.ox.ac.uk; Andrew Martin; Joanna Ashbourn 
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; hmbjuggler@yahoo.com;
+	tom.a.marso@lmco.com 
+
+Weekly activity report no. 20110721.1608 (GMT-7) sequence no. 0198, week 8+4 TT
+
+I met with Dr Martin last Friday.  We began talking about data retention
+and laws on personally identifiable information and the Trustworthy
+Systems call for research proposals from the ministry of defence.
+The deadline for proposals is 13th September; Dr Martin has an idea for
+one and I would like to work on it.  The Centre for Defence Enterprise
+people are keen for security accreditation of COTS systems, he says;
+this is a potential application area for my research.
+
+Currently planning to submit written work to the assessors 15th August
+for a viva a few weeks later.  I emailed Dr Jirotka and Dr Fléchais
+regarding a viva the first full week in September.  I have not heard
+back from either.  Three weeks or so are left to finish writing those
+chapters, and the UCDMO conference will eat some of the time.
+
+I made real progress on the results portion of Chapter 3 this week.
+Chapter 2 on methodology is still stuck; Dr Martin advised not to
+spin my wheels, just write the material out of order.  I have to break
+out my grounded theory coding and analytic memos for the assessors to
+view; presently all of that is embedded in a huge notes file, ordered
+chronologically and in context therein, it is true, but also cluttered
+with status reports.  I'll reformat the material by itself into an
+appendix; one coding manual recommends that for dissertations even
+though it would be left out of a published article.  I finalised the
+security model for accreditors I am using; it is the same as the one in
+Trusted Solaris 2.5.1 before they weakened it in TSOL 8, a generalisation
+of Bell--LaP with the strong star-property and an explicit controlled
+interface channel for non-hierarchical flows.
+
+Preparing for the UCDMO conference in about a week; I wrote a data sheet
+for the system to be demonstrated at the conference and got it approved by
+the funding sponsor and the government programme office.  I am preparing
+to talk at the conference, if required, on how we developed it and how
+it works; it is still a very researchy product.
+
+The R'' developer is once again---in 2011 yet!---suffering the same
+problem of hardware end-of-life dates mismatched with OS recertification
+cycles as they experienced in 1998, 2000, 2001, 2002, and 2004.
+The systems engineering manager is trying to predict availability of
+hardware that will run Oracle Solaris 10, the only certified version of
+the operating system, until a trade study can be done and the decision
+made (by the government programme office) whether to host version 6.0
+of the application on SE Linux or Solaris 11.  I may be tasked to help
+with the trade study on SE Linux.
+
+NIST released a draft for public comment of Special Publication
+800-53 Appendix J, their Privacy Controls Catalogue.  It is part of
+Revision 4, expected around December.  Revision 4 will address privacy,
+insider threat, mobile and application security, as well as gaps in
+access control, certification & accreditation, and security policies.
+It is relevant to the developer because Rev. 4 will be the certification
+criteria for version 6.0, since porting to a new operating system triggers
+a recertification.
+
+Next supervisor meeting tomorrow at 15.00 Oxford time.  There are 25
+weeks to submission; date not set for confirmation of status viva.
+Possible travel to UK during the first full week of September.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford
+

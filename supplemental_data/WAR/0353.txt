@@ -1,0 +1,20 @@
+weekly activity report 353 (loughry)
+Joe Loughry
+Sent: 11 July 2014 05:05
+To: Joe Loughry
+
+Weekly activity report no. 20140710.2155 (GMT-7) sequence no. 0353, week 8+3 TT
+
+I am still working on Chapter 5, not done with it last week as planned,
+but progress is being made. Some of the necessary associated updates
+in Chapters 1, 4, 6, and 7 (necessitated by the results in Chapter 5)
+are now done (though not all). I am behind schedule but trying to catch
+up before the deadline in twelve days. Remaining tasks: finish Ch.5,
+update the interpretations in Ch.6 to cover Ch.5l, update conclusions
+in Ch.7 only where necessary, then gather the necessary appendices to
+support the data used in Chapter 5.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

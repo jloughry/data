@@ -1,0 +1,21 @@
+weekly activity report 371 (loughry)
+Joe Loughry
+Sent: 14 November 2014 04:54
+To: Joe Loughry
+
+Weekly activity report no. 20141113.1936 (GMT-7) sequence no. 0371, week 5 MT
+
+I am working to finish the current chapter by the middle of next week;
+I told my supervisors the 19th. I have shifted from trying to understand
+all the behaviour of the developer's software engineers with respect
+to the certification authority's security testers to simply describing
+what actually occurred, in the hope that the explanation will come
+later. Tomorrow, reading group will discuss a paper on adding remote
+attestation for VPN access control without the necessity of changing the
+VPN implementation, from INTRUST 2010. I sent some notes on last week's
+reading group paper to Andrew Paverd.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

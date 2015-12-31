@@ -1,0 +1,42 @@
+weekly activity report 288 (loughry)
+Joe Loughry
+Sent: 12 April 2013 00:15
+To: Joe Loughry
+Weekly activity report no. 20130411.1537 (GMT-7) sequence no. 0288 week -1 TT
+
+The method described in last week's report is not working yet.  If I can
+get it working soon, preliminary results previously relegated to future
+work (the prediction functionality of the accreditor model) can go into
+the IEEE paper as the deadline for submissions has been moved back to May.
+
+My viva has been confirmed for 29th April at 2:00 PM local time.
+Travel arrangements made; arriving in Oxford probably Friday.  To conserve
+funding, I am planning to stay in the city for a while after to complete
+the necessary revisions instead of flying back again.
+
+Reading group met to discuss a recent paper on the Common Criteria.
+I dislike the author's argument.  The CC is struggling for
+extra-governmental acceptance, but the author's suggestion to further
+Balkanise the mutual recognition agreement would make the situation worse,
+and misses the real problem which is the de facto grading of evaluation
+quality that emerged from underfunding of national schemes combined with
+time-and-materials employment of commercial evaluation labs by developers.
+Ironically, the amount of security testing being done has grown but
+quality is down, and the evidence is visible in evaluator shopping.
+Evaluators have abrogated their responsibility and given it to the labs,
+who were happy to take it because they charge for validation by the hour.
+The solution, however, is not as the author proposes to formally recognise
+the differences in quality existing between supposedly equivalent EAL
+certificates at any given level, but to return the responsibility for
+evaluation---not merely validation---to the national schemes, and to
+enforce a consistency of quality within evaluation assurance levels,
+a function that the EU is demonstrably well equipped to perform.
+We discussed a follow-on paper in IEEE Security & Privacy.
+
+Beginning to prepare for viva.  I have a meeting booked with Dr Martin
+on 19th April at 1400 Oxford time.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

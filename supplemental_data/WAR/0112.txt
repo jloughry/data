@@ -1,0 +1,37 @@
+Weekly activity report no. 20091126.2207 (GMT-7) sequence no. 0112, week 7 MT
+
+I submitted my Graduate Supervision System (GSS) report.  I found three
+new articles relevant to my research and literature search: several
+people involved in the EAL 6+ validation of INTEGRITY-178B throwing
+barbs in interviews; even after NIAP issued the certificate there
+remains disagreement over what it signifies.  Differences in the wording
+between the Validated Products List (VPL) and what the CC certificate
+are providing fuel for a vitriolic exchange in the trade press.  It is
+relevant to my research because interpretation of the requirements of a
+new C&A standard in concrete terms is exactly what I want to develop a
+tool to control.  Considered in the right way, the sequel\ae of the
+first EAL 6+ validation even be a third case study.  I need to think
+about this.
+
+Funding took up a lot of my time this week; it was necessary to apply
+for one more increment of student loans to cover fees for MT, HT,
+and TT.  It is possible that the funding situation at Lockheed may have
+changed favourably; another person on the programme has announced that
+he is enrolling to work on a PhD at GWU, and he got funding from the
+corporation.  I will be looking into that on Monday when people get back.
+
+Status of writing: I am getting back to work today on the Alpha Testing
+report; I will finish it over the weekend.  As soon as that is done
+I will schedule an appointment with Dr Martin for another meeting.
+Next priority has to be the Crosstalk article so it can be sent to
+the editor before Christmas.  After that I want to finish writing the
+methodology chapter---which has changed all over the map anyway during
+the past few months---and update the master schedule before New Years
+with everything I need to accomplish between now and the end of Trinity
+2010 for confirmation of status.
+
+Next meeting not scheduled yet but will occur during the first week of December.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

@@ -1,0 +1,48 @@
+weekly activity report 193 (loughry) 
+Joe Loughry 
+Sent: 17 June 2011 03:08  
+To: Niki.Trigoni@comlab.ox.ac.uk; Andrew Martin; Joanna Ashbourn  
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; hmbjuggler@yahoo.com;
+	tom.a.marso@lmco.com  
+
+Weekly activity report no. 20110616.1918 (GMT-7) sequence no. 0193, week 7 TT
+
+I discussed chapter two with Dr Martin in our meeting Friday.  It was not
+as far along as the first chapter because the grounded theory methodology
+is not something I have spent years thinking about.  I received advice to
+clarify my rationale for the methodology and to improve the organisation
+of the chapter.  The methodology varies across cases because the type of
+evidence I have available is completely different for each.  I argue in
+my introduction to the methodology chapter that having three different
+perspectives on a single object of study is both necessary and sufficient
+for scientific justifiability of my thesis.  We further discussed LaTeX
+formatting, presentation, and how to estimate a good length for chapters.
+This week's meeting was particularly productive, judging from the length
+of the notes I typed up afterwards.
+
+Dr Martin gave me a pointer to a possible source for the GCHQ story
+related by Prof. Anderson in his seminar last week.  I will track
+that down.
+
+I submitted an invention disclosure on one aspect of the problem
+this week.  Not sure if the application will go anywhere, but it
+establishes priority.  I found a very interesting report from the
+director of operational test and evaluation in the Pentagon and the
+Under Secretary of Defence for Acquisition, Technology & Logistics.
+The summary of the report disputes the opinion of system developers
+that procurement delays are the direct result of testing requirements,
+and finds that delays are the result of problems identified by testing,
+not the testing itself.  I think the full report, if I can get a copy
+from DOT&E, will have some good quotes in it.
+
+We had another meeting scheduled this week when Dr Martin was in Germany,
+but network problems reduced our communication channel to email-only.
+I was asked where my chapter two draft was and I promised to get it back
+to him shortly.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford
+

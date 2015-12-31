@@ -1,0 +1,18 @@
+weekly activity report 227 (loughry) 
+Joe Loughry 
+Sent: 10 February 2012 02:30 
+To: Joe Loughry 
+
+Weekly activity report no. 20120209.1329 (GMT-7) sequence no. 0227, fourth week HT
+
+Continuing to code CS-1 evidence in ATLAS.ti.  The `merge codes' feature
+is helpful for fixing mistakes I made early on; the list of profiles
+is accumulating new roles and references to codes.  By this point, I
+am starting to encounter more analytical memos in the text; I am coding
+them to return to after I get to the end of the data.  No other progress
+to report until I get through the PDFs.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

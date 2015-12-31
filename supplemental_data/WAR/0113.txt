@@ -1,0 +1,40 @@
+Weekly activity report no. 20091203.2124 (GMT-7) sequence no. 0113, week 8 MT
+
+I have been working this week on a related research project at Lockheed,
+specifically on explaining to our sponsor about the theoretical
+justification for how we will measure the significance and accuracy
+of our results.  I have been spent some time reading on Type 1 and
+Type 2 errors and applying a method for computing the probability of
+error (accepting or rejecting the null hypothesis incorrectly) based
+on fault trees.  In the validation step, having this analysis done is
+extremely persuasive that you really have solved the right problem.
+I have to give a presentation to the sponsor on Monday and a 15 minute
+talk before the programme office on Tuesday.
+
+No progress to report on writing the RM 5.0 Alpha Testing report or
+Crosstalk article or methodology chapter this week.  After the sponsor
+meetings on Monday and Tuesday next I will be able to get back to work
+on research.
+
+Plan: still intending to have all three written before the end of the
+year.  Lockheed will quiet down a lot after the Programme Management
+Review 7--9 December when nearly everyone else (and the whole government)
+go on holiday through the end of the year.  I will lay out a more detailed
+plan with dates in my next weekly report.
+
+Reading Group was postponed this week.  I did not meet with Dr Martin
+(again) because of having no progress to report.  The Lockheed work I am
+doing at the moment is applicable to my research---it is teaching me how
+to measure and demonstrate statistical significance, show validation,
+and how to communicate very complicated technical information to sponsors.
+
+Community Involvement: I volunteered as a team mentor and technical judge
+at the Western Regional Qualifiers for the FIRST Lego robotics league
+at the Colorado School of Mines on 22nd November.  Fifty-eight teams of
+schoolchildren competed to build and programme autonomous robots out of
+Lego to perform a defined set of tasks in a tabletop maze.  The rules
+allowed a maximum of three motors, four sensors and one microcontroller.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

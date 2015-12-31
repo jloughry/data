@@ -1,0 +1,28 @@
+weekly activity report 343 (loughry)
+Joe Loughry
+Sent: 02 May 2014 04:54
+To: Joe Loughry
+ 
+Weekly activity report no. 20140501.1649 (GMT-7) sequence no. 0343, week 1 TT
+
+An old theme repeatedly implicated in project failures is the turnover of
+project managers on software projects [Brooks, 1986; Rost, 2005; Harland
+& Lorenz, 2005; National Audit Office, 2011]. In trying to quantify it,
+I found four to five times as much in the project that failed compared
+with one that didn't, consistent across both the developer and certifier
+sides; interestingly, both projects exhibited complementary mirror
+image behaviour on each side, prompting speculation that there might
+have been an intra-project interaction, though the sample size is too
+small to conclude it. It is the only theme that fails to tie into the
+overall theme of informal communication being more important than formal
+communication (i.e., standards) except in that discontinuities around
+changes in project manager necessarily disrupt implicit communication
+channels much more than formal ones, because formal channels are tied
+to deliverables, which itinerant project managers track. I did not
+finish the draft chapter this week as I wanted to, but expect to have
+uninterrupted time to work on it now.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

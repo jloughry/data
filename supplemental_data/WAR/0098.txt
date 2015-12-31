@@ -1,0 +1,33 @@
+Weekly activity report no. 20090820.2107 (GMT-7) sequence no. 0098, week 8+9 TT
+
+I have been invited to present a paper at next year's UCDMO Conference.  UCDMO
+is the U.S. government's Unified Cross Domain Security Office.  The audience of
+this conference are certifiers and principal accrediting authorities from NSA,
+DIA, ONI, NGA, CIA, NRO and DISA.  The topic of the presentation will be my
+research results.  The date is not set but it will be around Trinity term next
+year.  The reviewers at this conference are practitioners who will be looking
+for what works.
+
+Dr Martin and I did not meet again yesterday because of travel and network
+problems on my end.  The internet problem is fixed now and I will schedule the
+next regular meeting for Skype teleconference, probably Wednesday or Thursday
+27th August at the usual time.
+
+I have had email conversations with several new people I met last week in San
+Diego about current trends in effective (and cost effective) certification and
+accreditation of information security systems in the near future (the next five
+years).
+
+I am still un-boxing and trying to find things, but slowly getting back to work.
+
+To-Do List (abbreviated):
+
+1. Finish writing paper no.~1 and submit for security review.  By my schedule I
+am late on this;
+2. Prototyping in Scheme (I have not accomplished any work on this since last week);
+3. Write the methodology chapter.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

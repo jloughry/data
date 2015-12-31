@@ -1,0 +1,32 @@
+Weekly activity report no. 20080515.2200 sequence no. 0033 week 4 TT
+
+I introduced the new paper on malicious hardware from LEET'08 at Reading Group,
+which spurred discussion on attack, defence, practical aspects (including
+cost-effectiveness), governments, military use, organised crime, chip design,
+the difference between rumour and scientific evidence, and limits of theoretical
+computer science.  It was a great discussion, but I think I talked too much.
+
+Transfer of Status: I am mentally going over the Transfer of Status process and
+beginning to write a Transfer Report and work up a coherent presentation of the
+research plan.  The next concrete step is the formal outline.
+
+Extracurricular activities: I got to hear a couple of lectures this week from
+Professor Loane Skene on academic career development and research ethics.  In
+addition, two great names in computer science, Guy L. Steele and Richard P.
+Gabriel, both gave two lectures apiece at the comlab.  Their papers are classics
+in the field, and it was fantastic to see them in person.  I skipped OUSS's tour
+of the JET fusion reactor in Oxfordshire, which would have been cool, but there
+was another lecture that was more important: Professor Martyn Thomas on `Why
+Systems Fail' which is right in the middle of my thesis topic; I couldn't
+possibly miss it.
+
+Lockheed work: I was asked to provide estimates to write a couple of white
+papers for an Air Force proposal.  The topic has some overlap with my thesis
+problem, so the necessary background reading meshes pretty well.  I emailed a
+couple of people at University College London and Royal Holloway, University of
+London, asking for copies of their dissertations, and got it.
+
+-- 
+Joe Loughry
+DPhil PRS, Computing Laboratory
+St Cross College, Oxford

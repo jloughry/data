@@ -1,0 +1,21 @@
+Weekly activity report no. 20090129.2205 (GMT) sequence no. 0069, week 2 HT
+
+I am studying a book about US government certification and accreditation
+standards this week.  After that is done I plan to get back to working on
+prototype software.
+
+Upcoming presentations and calls-for-papers: (1) I agreed to give a talk at
+Lockheed Martin (via teleconference) about my research in March; (2) the
+submission deadline for NSPW 2009 is coming up in April; and Shamal is trying to
+get me to enter a paper in a PhD student requirements conference in March.
+
+Interesting outside lectures this week: Dr Scott Parazynski (space shuttle
+astronaut who flew five missions to Mir and the international space station)
+spoke at St Cross College about his experiences in spaceflight; Dr Clive King of
+Sun Microsystems, Inc. gave a talk at Keble last night that unexpectedly turned
+into a master class on OS internals---very interesting!
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

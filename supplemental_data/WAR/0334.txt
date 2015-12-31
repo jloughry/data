@@ -1,0 +1,27 @@
+weekly activity report 334 (loughry)
+Joe Loughry
+Sent: 28 February 2014 04:16
+To: Joe Loughry
+
+Weekly activity report no. 20140227.2038 (GMT-7) sequence no. 0334, week 6 HT
+
+This week I worked on Chapter 5 more and added a section to Chapter
+4 anticipating the part in the following chapter where I assert that
+the differences between the projects cannot be separated from the
+fact that many of the same participants worked on both (cf. tenure of
+engineers vs tenure of project managers). I put a few references back in
+(specifically referring to organisational document retention policy and
+how it can damage the informal communication channels that are the key
+to efficiency in the tasks the organisation wants to accomplish but at
+the same time causes other informal channels to come into existence as a
+result of it) because the references are needed now. I put the missing
+diagrams on hold while I do this. I still mean to finish Chapter 5 and
+submit it before the middle of March.
+
+I have another interview with Google coming up soon. I have a bad cold
+this week.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

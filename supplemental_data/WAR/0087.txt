@@ -1,0 +1,84 @@
+Weekly activity report no. 20090604.2246 (GMT+1) sequence no. 0087, week 6 TT
+
+Dr Martin and I met for our regular weekly meeting on Wednesday.  I received the
+course materials for the Requirements Engineering course.  I have been in
+contact by email with Ian Levy of CESG; he asked for additional information
+which I have sent.  I have identified one new person I want to interview in the UK.
+
+I am re-planning my methodology and schedule for the next 13 months around the
+specific goal of getting four papers published in high-quality conferences by
+the time of Confirmation of Status at the end of my ninth term.  DGS gave a talk
+last week at which she more or less told us second-years the formula for
+success: do that and your Confirmation of Status report can be brief, merely
+citing those papers.  Dr Martin advised me to plan each paper as a chapter, and
+concurred that assessors can't really argue with peer-reviewed chapters, so take
+advantage of that.  I listed what I thought would be the topics of each
+paper/chapter:
+
+1. Problem and motivation.  Why this is an interesting problem and needs to be
+solved.
+
+2. Proposed solution: what is my thesis?
+
+3. Results 1: case studies
+
+4. Results 2: tool and validation.
+
+The first one is based on a talk I have already given twice at seminars, so I
+should be able to write that paper quickly and get it submitted to a journal
+soon.  I have a journal in mind: Crosstalk (published by US Air Force; I think
+it's peer reviewed but I will check.  I also want to look at recent issues for
+length and style clues.  I think this journal is a good match because the
+readership is familiar with the software products that I am studying for one of
+my case studies and has a keen interest in certification and accreditation of
+related systems.
+
+Before writing the first paper, my current task is to finish outlining the
+research methodology---around the new schedule of four peer-reviewed chapters in
+13 months.  I will put the same schedule information into the mid-point progress
+report that I intend to write (mostly for myself, but also to remind my employer
+that I exist and why they should keep funding me).
+
+Later, in Security Reading Group, John, Cornelius, Dr Martin and I talked about
+upcoming topics for the summer.  We talked about what are the best conferences,
+and John described some new results.  We talked about whether Reading Group
+ought to examine an entire conference proceedings at once, observing the mix of
+papers and perhaps everybody taking one paper to introduce.  I proposed a field
+trip to visit the National Museum of Computing at Bletchley Park (25 miles NE of
+Oxford).  I am arranging the details and it looks likely to happen on Wednesday,
+8th July.
+
+Books I have been reading:
+
+Bock (1999) is all about methodology: specifically, how to ensure that by the
+end of the project you have significant, defensible, replicable results.  I am
+following the author's advice on laboratory notebooks.
+
+Dr Martin is on travel for the next two weeks, so I will report by email.
+
+TO-DO:
+
+1. Methodology chapter outline, schedule for research and 4 papers;
+2. Arrange interviews with 3 people in UK (Levy, Bowman, Cooper);
+3. Mid-point progress report;
+4. Cognitive Cross-Domain Information Sharing quarterly progress report (for
+Lockheed).
+
+Upcoming deadlines and events:
+
+15th June: quarterly progress report for Lockheed is due for internal review;
+21st June: HALF-WAY POINT (end of term 6);
+24th June: encaenia;
+22nd-26th June: Requirements Engineering software engineering module (all week);
+8th July: field trip to Station X;
+28th July: moving day;
+1st September 2009: plan to have first chapter peer-reviewed;
+1st January 2010: plan to have second chapter peer-reviewed;
+1st April 2010: plan to have third paper peer-reviewed;
+15th June 2010: plan to have fourth paper peer-reviewed; Confirmation of Status
+report due.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

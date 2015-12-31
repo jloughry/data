@@ -1,0 +1,32 @@
+weekly activity report 296 (loughry)
+Joe Loughry
+Sent: 07 June 2013 02:41
+To: Joe Loughry
+
+Weekly activity report no. 20130606.1848 (GMT-7) sequence no. 0296 week 7 TT
+
+Powell (1998) and Rao (2009), respectively, examine language used
+to construct informal communication channels between dissimilar
+groups forced by circumstances to collaborate across specialities and
+distinct meta-levels of communication used within and between subgroups.
+I referred to these this week, which point back to Whyte (1956) and Dalton
+(1959 and 1964) as well as more recently to Rivera (2010), for standard
+names to use for some types of informal communications seen in the data
+and also to ensure I have spotted all of them.  (Formal communications
+between developer and certifier are named according to CLINs.)  I have
+still not finished making the second-level network relation diagrams
+yet; I'll send the updated figures to Dr Fléchais soon, after I have
+had time to work on them more Friday.  I received email from the HST'13
+conference technical committee; they want final papers less than two
+weeks from now but the information is identical, so I can work on both
+at the same time.  Tresys called this week to see if I am done yet;
+I asked for a couple of weeks and we arranged another call for Monday,
+1st July.  Reading Group was postponed this week.  I have not received
+the examiners' report from MPLS division yet...proceeding on their last
+instructions to wrap up quickly but also to address every specific item
+in the examiners' draft report.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

@@ -1,0 +1,74 @@
+weekly activity report 179 (loughry) 
+Joe Loughry 
+Sent: 11 March 2011 13:21  
+To: Niki Trigoni; Andrew Martin; Joanna Ashbourn  
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; tom.a.marso@lmco.com  
+
+Weekly activity report no. 20110311.1126 (GMT) sequence no. 0179, week 8 HT
+
+Arrived in Oxford early this morning.  The flight over was uneventful.
+Lack of sleep is becoming a problem, however.
+
+I met with Dr Martin briefly this week to report on new information I
+received regarding inter-developer interactions in the CDS ecosystem
+and how it affects data owner perceptions of the accreditability of CDS
+alternatives when the data owners and DAAs specify their architectures.
+I received a very long letter this week from one of my correspondents
+containing a wealth of specific detail from the developer perspective.
+The letter is important, but I am not sure how it fits into the GT
+working hypothesis yet.  There is also a problem with confidentiality.
+It is clear how to code the information, and how to insert it into my
+growing issue network, but the problem is I do not know how much it
+would be correct to allow the information to more or less redirect
+the emerging direction of the grounded theory.  There is discussion
+relevant to the issue in two articles by Geer (1964) and Coleman (1961)
+both of which appear in the collection edited by Hammond (1964).  I have
+three other people to talk to in light of this new information: JP/F,
+TF and GS who were all additionally direct participants in the event.
+If I get positive results from two of the three, I will let the sub-graph
+have a non-zero weighting factor.  Including this new information accords
+well with the recommendations of the methodology; if the GT hypothesis
+does not change in light of the new data, then the theory is bolstered.
+I will talk with Dr Martin about it when we meet in his office.
+
+I have time booked with Dr Martin after the weekend, during which I
+have to go to another site.  I had hoped to meet with Dr Jirotka also
+next week to discuss low-level implementation of the GT, particularly
+the standard of presentation of evidence, but she is unavailable.
+Application for confirmation of status is due the first Tuesday after
+Easter; Dr Martin agreed with my intended plan to take all the time
+available for preparation of a good report.  There was no reading group
+meeting last week, but I will be there for the security reading group
+meeting on Wednesday in person.
+
+Monday's seminar with Rt. Hon. David Blunkett, MP reportedly went well.
+Dr Martin is going to send me the recording.
+
+The R'' developer in Colorado is deciding how to deal with a request from
+the new programme manager in Arizona for a copy of the CDS source code.
+On the face of it, he is the new programme manager and if he wants the
+source code, all he has to do is ask for it.  The software engineers,
+however, are reluctant to hand over their largest trade secret to their
+biggest competitor.  Someone suggested to print out the source code
+on paper.  Someone else suggested to fax it on the secure fax, which
+operates at 9600 baud.
+
+I am thinking of suggesting the paper by Wei, et al. on 'Reliably Erasing
+Data From Flash-Based Solid State Drives' from the 9th USENIX Conference
+on File and Storage Technologies (FAST'11) in San Jose a few weeks ago.
+It is an important topic and an emerging variation on a security concern
+that I encounter regularly.  Secure destruction of all sorts of storage
+devices becomes the only feasible alternative as the limit of transfer
+speed divided into capacity begins to approach the MTBF of physical
+devices.  I can talk about this in more detail at reading group if no
+one else suggests a paper for Wednesday.
+
+Next meeting with Dr Martin is scheduled for Tuesday, 15th March 2011
+at 10am.  I will update the task list afterwards.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory,
+St Cross College, Oxford
+

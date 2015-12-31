@@ -1,0 +1,34 @@
+weekly activity report 297 (loughry)
+Joe Loughry
+Sent: 14 June 2013 04:34
+To: Joe Loughry
+
+Weekly activity report no. 20130613.1656 (GMT-7) sequence no. 0297 week 8 TT
+
+Working from notes of my last meeting with Dr Fléchais, I have been
+pulling out coded activities that I can identify as decisions into a
+new layer on the network relation diagrams. That necessitated reworking
+the anonymisation code scheme and running the autocoder a bunch of times
+over the data again. I am trying another separate layer for forerunner
+communications and trailing communications to see if it makes it more
+understandable or not. Some of the participants in my case studies are
+in the middle of a wildfire that has destroyed 360 houses in Colorado
+so far and I don't know if they are all right.
+
+I requested a book chapter that I need to reference from interlibrary loan
+and got another via Amazon e-book for an out-of-print text (criticisms of
+Dalton's methodology and research ethics from later ethnomethodologists
+outside of the Chicago school).  In describing my research methodology
+I have to distinguish it from the currently perceived shortcomings
+of Dalton's methodology; specifically, I used no covert approaches to
+informants nor did I select participants on the basis of their likelihood
+of not jeopardising the study (Bell, 2010:124--5). However I did exchange
+problem-solving work for access, held to be a confounding practice by
+some authorities (Dalton, 1964:74--5).
+
+IEEE conference paper due in a week.  Reading Group next week.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

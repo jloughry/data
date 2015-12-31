@@ -1,0 +1,53 @@
+weekly activity report 317 (loughry)
+Joe Loughry
+Sent: 01 November 2013 05:49
+To: Joe Loughry
+ 
+Weekly activity report no. 20131031.2222 (GMT-6) sequence no. 0317, week 3 MT
+
+I have continued to stick to discipline of writing and checking into
+GitHub on my thesis every day for the past twelve days. I just finished
+checking all the references. Because of the conference presentation
+that is due in a few days, I have been working mostly in Chapter 6 this
+week. I have also been talking with Shamal about part of the certifier
+model. I am still keeping track of exactly how all my time is spent
+during the day in a log; sysadmin tasks (because of an email problem)
+were a large amount this week.
+
+Reading group met to discuss the paper 'Provenance, End-User Trust and
+Reuse: An Empirical Investigation' by Donaldson and Fear [3rd USENIX
+Workshop on the Theory and Practice of Provenance, 2011]. The second
+research question in the paper essentially asks, 'would you trust the
+data in this repository enough to use it for your own research?' which
+is akin to signing another's PGP key; by doing so you are attesting
+to it. I made a quick graph of the data in one table and held it up
+for the others in reading group to see; I'd have expected a Poisson
+distribution from a Likert scale, but this looks more like a power
+law. That was surprising and suggests problems with their data, or that
+there is another conclusion in there that the authors missed. Justin
+pointed out that 'it takes different information to say "yes" than to say
+"no"---this is the basic idea of security asymmetry.' Another interesting
+paper came out this week, from MIT: 'Towards Optimization-Safe Systems:
+Analyzing the Impact of Undefined Behavior' by Xi Wang, et al. (SOSP'13,
+to appear). It is relevant to cross domain system testing because it
+challenges the foundation of secure deployment; if the authors' idea
+of 'optimisation-unstable code' can be made to change behaviour with
+changes in environment, then this ties into a discussion I had this
+week with Shamal Faily about ethics of penetration testers and the
+tension they experience because of information flow that results in
+them having to replenish their stock of attacks via either purchase or
+original research. I asserted that the former explains two recent bits
+of evidence in Edward Snowden's disclosures: the purchases by NSA of
+0-days from France, and development effort by NSA of covert attack vectors
+(DEWSWEEPER) [Le Monde, 21st Oct 2013]. While not completely persuasive,
+it is at least a plausible explanation.
+
+I have to finish my conference presentation for Boston which is due in
+a week. Computer accounts for the Oxford University Scientific Society
+have been renewed for another year. I intend to have the thesis finished
+and submitted before end of term.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

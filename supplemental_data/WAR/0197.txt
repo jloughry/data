@@ -1,0 +1,44 @@
+weekly activity report 197 (loughry) 
+Joe Loughry
+Sent: 15 July 2011 05:44
+To: Niki.Trigoni@comlab.ox.ac.uk; Andrew Martin; Joanna Ashbourn
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; hmbjuggler@yahoo.com;
+	tom.a.marso@lmco.com
+
+Weekly activity report no. 20110707.1930 (GMT-7) sequence no. 0196, week 8+2 TT
+
+My house flooded after a week of heavy rain in Colorado.  Some time was
+lost to clean-up.  I had promised to have Chapter 2 done by Wednesday
+night but I did not.  I have a meeting with Dr Martin in the morning to
+explain that.
+
+I purchased admission to the UCDMO conference technical tracks for $600.
+I will be permitted to attend conference sessions when I am not running
+the demo for the Air Force.  I submitted the quarterly progress report
+on time to my Air Force funding sponsor.  That AFRL contract runs out at
+the end of the fiscal year in October; my funding will be at risk for
+the last three months of 2010.  Fortunately, I also heard from Oxford
+this week that a student loan was approved.
+
+This week I met with the systems engineering manager for my annual
+performance review.  He validated my recent analysis that the distribution
+of experience in the developer's engineering staff is skewed toward
+long tenure on the project.  They have a favourable turnover rate,
+something unusual, but are at risk of one person retiring in the area of
+systems engineering.  Without reinforcement, they are `one bad day away'
+from losing their systems engineering capability.  We talked about how
+to improve coverage in that area.
+
+I attended virtual seminars on cloud security and an IEEE/CS lecture
+on transforming legacy systems by Grady Booch.  I met on-line with the
+DPhil student conference committee and agreed to act as a referee.
+
+There are 26 weeks to submission; date not set for confirmation of
+status viva.  I am planning a trip to the UK mid to late August.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford
+

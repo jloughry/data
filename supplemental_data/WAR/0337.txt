@@ -1,0 +1,27 @@
+weekly activity report 337 (loughry)
+Joe Loughry
+Sent: 21 March 2014 00:58
+To: Joe Loughry
+
+Weekly activity report no. 20140320.1758 (GMT-6) sequence no. 0337, week 8+1 HT
+
+I moved data and analysis out of the appendices back into Chapter 5;
+the level of detail is pleasing, but the chapter is way too long (eighty
+pages currently). I am condensing the evidence into a time line of events
+in the CT&E and ST&E phases with discussion sections interspersed. Each
+discussion section follows the main evidence and separates data from
+interpretation. I did not get it done by the 15th of March but condensing
+is going very rapidly now. Progress: Alpha test phase is done; Beta I is
+currently up to the June 2010 decision at which regression testing was
+accelerated to force completion of penetration testing in order to get
+it to the Beta II site in July for completion in August; Beta II is yet
+to do. I should have the entire condensation done in three or four more
+days, then I will send a draft Chapter 5 (with all diagrams included)
+to my supervisors.
+
+Google tech interview in two weeks. I have not started studying for it yet.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

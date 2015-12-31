@@ -1,0 +1,70 @@
+Weekly activity report no. 20091210.1940 (GMT-7) sequence no. 0114, week 8+1 MT
+
+I gave two technical talks to government audiences this week.  The first
+talk was to the Air Force Research Laboratory (AFRL), and described
+progress since the last Summary Technical Report, risks and risk
+mitigation plans, and our proposed validation method.  I learnt a new
+(to me) technique for error rate prediction called Probabilistic Risk
+Assessment (PRA) and applied it successfully to the problem of minimising
+false acceptance (Type 2 error) and false reject (Type 1 error) as well
+as predicting the error rate.  That project has another two years to run,
+and I am finally getting some help to work on it in Phase II which is
+good because it has been taking up too much of my time and affecting my
+school work.
+
+The second talk was to the Navy Programme Office: sponsors, certifiers,
+and Independent Verification and Validation (IV&V).  The Radiant Mercury
+(RM) Programme Management Review (PMR) was this week, and I was assigned
+to brief the Navy Programme Office about the Air Force research project.
+That required explaining a research programme to an audience unfamiliar
+with it, in contrast to the sponsor who needed detailed information.
+Overall, both talks went well.
+
+From some of the meetings I did get information useful for my thesis
+research.  I learnt that the Navy sponsor has a history and some
+strong opinions that I was unaware of regarding the first case study
+in my dissertation.  I added him to the list of people to interview
+(that will happen in January some time).  He also has a strong opinion
+regarding one of the other people I had planned to interview already,
+which suggests some new questions to ask.  In summary, I got data related
+to both case studies from all the meetings I sat through this week,
+so the time was not entirely unproductive.
+
+The best news is that the sponsors have now all gone home and I can get
+back to work on research.  I was called into many more sponsor meetings
+this week than I thought would be the case, and they took up all my time.
+In the morning I can get back to writing.
+
+Currently in the pipeline:
+
+1. RM 5.0 Alpha Testing (CT&E) observation report: TOMORROW
+
+2. Crosstalk journal paper: NEXT, planned to be submitted before 31st
+	December.
+
+3. Methodology chapter: planned to be written before 31st December.
+
+Reading Group met on Wednesday to discuss Gutmann's conference
+presentation on security usability.  We missed having John and Shamal and
+Dr Martin, but it was a good discussion although we ended up disagreeing
+with most of the author's points, except for a few.  I have still not
+had a supervisor meeting for three weeks now, because of Lockheed work,
+but let me get some writing done and then I will make an appointment
+for one as soon as possible before Christmas.
+
+Other reading: I read the 2008 and 2010 Certification and Accreditation
+Professional (CAP) examination bulletins, which I am deciding whether
+to recommend to Lockheed for satisfying the DOD 8570.1 requirement that
+hits in September 2010.  I may decide to take the CAP exam to see how
+difficult it is.
+
+Other activities: I participated on 5th December 2009 as a spotter in
+the DARPA Network Challenge.  The problem was to locate ten red 2.5 metre
+tethered balloons in 3,000,000 square miles in one day.  The balloons were
+flown from 10 am Eastern Standard Time to 4 pm local time on Saturday.
+I submitted one sighting report (39.695472,-104.988216) with a photograph
+to the MIT team.  I did not win any of the $40,000 prize, though.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

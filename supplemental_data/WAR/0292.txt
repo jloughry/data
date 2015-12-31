@@ -1,0 +1,24 @@
+weekly activity report 292 (loughry)
+Joe Loughry
+Sent: 10 May 2013 02:33
+To: Joe Loughry
+
+Weekly activity report no. 20130509.1912 (GMT-7) sequence no. 0292 week 3 TT
+
+I have been coding previously marked-up evidence into the ATLAS.ti tool
+to take advantage of its automatic counting and reference checking.
+Status: currently almost through the certifier meetings at end of CT&E
+phase.  When done, I need to go over the entire data set again with
+the full list of codes to pick up missing entries in earlier entries.
+I have been reporting progress every couple of days.  I have not observed
+convergence of the coding process yet.  I am using the autocoding feature
+a lot with regexes.  Travel reservations have been made for collaboration
+meetings in Oxford the week of 20--24 May.  Model building in ATLAS.ti
+should be complete at the end of that week of travel.  Reading group
+meets next week; I have the paper for Tuesday and will participate if
+the re-coding task is close enough to finished.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

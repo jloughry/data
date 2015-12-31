@@ -1,0 +1,31 @@
+weekly activity report 281 (loughry)
+Joe Loughry
+Sent: 22 February 2013 07:21
+To: Joe Loughry
+
+Weekly activity report no. 20130221.1931 (GMT-7) sequence no. 0281 week 6 HT
+
+Upon consulting with Julie Sheppard, I applied for a 'student visitor
+(less than six months)' UK visa to cover the likely interval of viva
+with time for revisions.  GSS report for the term has been submitted.
+I have been helping the OU Scientific Society set up next week's
+debate at the Sheldonian.  I attended an ISACA meeting in Denver this
+week to meet people and hear the scheduled speaker, on 'Moving Towards
+Continuous Risk Assessment'.  The language used by auditors when talking
+about fraud detection is strikingly similar to the lone accreditor
+of a high-to-low (downgrader/sanitiser) cross domain system where the
+low-side is unclassified (an unusual configuration, admittedly, but they
+do sometimes exist).  The problem of determining the residual risk of
+that system reduces in that case to the problem of the malicious insider
+(which in the case of the IT auditor can be executives of the company)
+combined with external threats.  I am thinking that the similarities
+go deeper than terminology and some of the same approaches may work
+across application areas.  As in the paper I am currently working on,
+lessons learnt that are explicitly recorded in the form of policy and
+procedures 'are actually the hidden tales of past disaster' [cite].
+Another batch of job applications will be going out next week.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

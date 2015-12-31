@@ -1,0 +1,44 @@
+weekly activity report 254 (loughry)
+Joe Loughry
+Sent: 17 August 2012 02:51
+To: Joe Loughry
+  	 
+Weekly activity report no. 20120816.1851 (GMT-7) sequence no. 0254, week 8+9 TT
+
+I finished writing the first chapter this week on schedule.  Dr Fléchais
+looked over my outline from last week and suggested that I make the
+literature review a chapter to itself; I have done that.  The revised
+schedule includes one more chapter:
+
+Milestone 1: Chapter 1 (Introduction) due 14th August [done]
+Milestone 2: Chapter 2 (Literature Review) due 19th August.
+Milestone 3: Chapter 3 (Methodology) due 23rd August.
+Milestone 4: Chapter 4 (Case Study of a Successful DIACAP CT&E) due 27th August.
+Milestone 5: Chapter 5 (An Unsuccessful Common Criteria Evaluation) due 31st August.
+Milestone 6: Chapter 6 (Interpretation of Results) due 4th September.
+Milestone 7: Chapter 7 (Summary and Conclusion) due 8th September
+Milestone 8: edit, rewrite, review by supervisors: last three weeks of September.
+Milestone 9: CESAR 2012 camera ready paper due 17th Sept.
+Milestone 10: submit dissertation Monday, 1st October.
+
+I slipped the schedule as little as possible to accommodate another
+chapter.  The end date does not change; the time available for editing
+and rewriting is shorter by only two days.  The outline is unchanged
+except for Chapter 2 which is now the literature review.
+
+I owe Dr Fléchais a diagram of the complete theory.  It is not done yet
+because I wanted to stick to my schedule and finish the first milestone
+on schedule.  I will have the theory diagram done and delivered soon.
+
+RCS ate itself around midnight Sunday and started truncating files to 64
+K bytes on check-in.  All I lost was the bibliography file (598 K bytes)
+and I recovered it from a backup, but RCS could no longer be trusted,
+and I lost a few hours moving all files over to a different version
+control system.
+
+Status: writing Chapter 2 and I will draw the requested diagram.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

@@ -1,0 +1,27 @@
+weekly activity report 269 (loughry)
+Joe Loughry
+Sent: 29 November 2012 23:38
+To: Joe Loughry
+
+Weekly activity report no. 20121129.1512 (GMT-7) sequence no. 0269 week 8 MT
+
+I returned from travel late on Sunday night.  From the conference
+I brought back several more contacts that I made on the last day of
+sessions and got feedback on my results.  I was asked for more details
+on the software developer--certifier control channel and the expected
+gradients in the 'SCI-like' accreditor model that explain the forcing of
+some undesirable information flows and inhibition of other desirable ones.
+I am writing a new section to explain those areas more clearly.  I got
+an email from a person at Google who wants to collaborate on a project;
+I replied that I have to submit my thesis first, but have arranged a
+time to meet in January to talk with him about it.
+
+Currently working on a more clear written explanation of the two weak
+spots identified by questioners at the conference, drawing of figures, and
+getting ready for the next meeting with my supervisors, which is not yet
+scheduled.  I need to request a meeting, early in the week if possible.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

@@ -1,0 +1,40 @@
+weekly activity report 311 (loughry)
+Joe Loughry
+Sent: 20 September 2013 02:14
+To: Joe Loughry
+
+Weekly activity report no. 20130919.1812 (GMT-7) sequence no. 0311 week 8+14 TT
+
+I made less progress on thesis corrections this week than I had intended
+to, because I took time to write up a side issue (below). I got a small
+amount of work done on Chapters 1 and 3, wrote some new material that
+will go in Chapter 4, but am way behind schedule and need to catch up
+and deliver finished chapters to my supervisors. With the conference
+paper and job interview out of the way, I can focus again.
+
+Reading group introduced the paper 'Socio-Technical Study on the
+Effect of Trust and Context When Choosing WiFi Names' by Ferreira, et
+al. (LNCS 8203, 2013). The discussion progressed to conceptual attacks
+against mobile devices in particular areas to defeat VPN. Afterwards I
+had a brief meeting with Dr Martin. We talked about the next day's job
+interview and an idea I came up with for improving the attack resistance
+of cross domain systems, based on my observation of professional security
+testers' behaviour during certification and accreditation. Before I met
+with this company, I wrote-up the design principles to protect them;
+provisional patent application 61/879,059 has been filed on it.
+
+I had a telephone interview with Tresys Technology for a job;
+they are looking for someone with lots of cross domain experience,
+low-level software development in C, certification & accreditation,
+proposal experience, familiarity with open source, and willing to
+work remotely. The only qualification on their list that I do not have
+is experience directing other people. I gave them my availability as
+approximately this October. I stressed that have to finish my thesis
+beforehand.
+
+Michaelmas term begins in three weeks.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

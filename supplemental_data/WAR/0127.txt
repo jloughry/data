@@ -1,0 +1,121 @@
+Weekly activity report no. 20100311.2036 (GMT-7) sequence no. 0127, week 8 HT
+
+I met with Dr Martin by video teleconference today at 7:15 a.m.  I had
+a large number of small items I wanted to talk about.  I reported that
+I did not have the 2nd International Conference on Advances in System
+Testing and Validation Life-cycle (VALID 2010) conference paper written
+yet; I wanted to have that for today's meeting but I did not get it
+done in time.  I am working on it urgently; the submission deadline is
+20th March.  Dr Martin offered to look the paper over before submission,
+an opportunity I will definitely take advantage of.  I hope to have the
+first complete draft with figures in EPS done tomorrow (Friday).
+
+Next I reported that the GSO.17 form would probably come to him for
+signature.  Dr Martin replied that he had already seen it and signed it.
+Julie Sheppard is efficient; I need to thank her for that.  Update:
+after today's meeting I heard from Julie that the retroactive suspension
+of status for last Michaelmas term was approved and is done.  Now, I
+need to send in a GSO.17a form right away to acknowledge and un-suspend
+status for the current term.  Fortunately the new form does not require
+so many signatures.  I am waiting for an email from Julie Sheppard first,
+but I will get the GSO.17a form transmitted tomorrow.
+
+Back to research.  I reported on a series of conversations I have been
+conducting with people at Lockheed regarding the certification progress
+of Radiant Mercury (RM) version 5.0.  The programme manager and systems
+engineering lead are in Washington, D.C. this week negotiating yet another
+part of the certification.  Interestingly, there are two people in the
+certification agency who are working at cross purposes; one lady has
+been blocking it on <unspecified technical issue>; another gentleman
+is championing the product and advocating from within for approval.
+This interaction will definitely appear in my write-up when I write
+my dissertation.  I reported to Dr Martin that I have been listening
+in to telecons and doing informal interviews with people, watching the
+certification process without participating in it.  The programme manager,
+systems engineering lead, and IV&V lead have been my best sources so far,
+in addition to a former project manager whom I consult with regularly
+and another former project manager whom I respect highly.  I have
+been saving emails and sitting in on a few in-person meetings as well.
+Mostly, I learn from listening to conference calls.  I have been taking
+good notes and beginning to map the roles that various people are taking,
+in contrast to the roles that they ostensibly are supposed to be doing.
+
+I talked to Dr Martin about a possibly unrelated series of events that
+have been happening lately on programme: the DOD 8570.1 certification
+requirement.  I explained that 8570.1 is a DOD policy that all persons
+(be they government, military, or contractor) with privileged access
+to defence computer systems (ie root) must hold one of a short list of
+commercial security certifications, CISSP being preferred.  Interestingly
+from my perspective, Lockheed seem to be dragging their feet on this
+requirement; the government itself reports that their own compliance
+rate is somewhat behind schedule---and they recently postponed the
+deadline for full compliance from end of Fiscal Year (FY) 2010 to end
+of Calendar Year (CY) 2010---but the corporation does not appear to be
+doing a sufficient amount to achieve full compliance with 8570.1 by the
+end of December 2010.  I estimate 40--60 people on programme who need
+certifications, only ten or so have it now, and the cost to certify this
+many people will approach US$100,000.00.  The programme has recently
+experienced funding difficulties for <details not included> reasons.
+Where are they going to get that much money?  Worse, what if a scenario
+I fear may happen actually does happen and the Contracting Officer (COTR)
+writes 8570.1 compliance into the contract at contract renegotiation time.
+The department could suddenly find itself in the position of needing
+to get all 50 of those people certified before the end of CY 2010 and
+only three months to do it.  Again, this interaction between government
+programme office and contractor is relevant to my dissertation and will
+be included in the writing up.  Funding problems directly affect the
+progress of the RM 5.0 certification effort; already they are going to
+miss the 15th April target date.  What could they be thinking?  (Update:
+after this morning's meeting with Dr Martin I learnt that funding was
+restored last night and is now assured through end of FY 2010.)  I have
+a call into a trusted source for another opinion on the issue.
+
+Finally, I asked Dr Martin a few questions about the mechanics of
+submitting a paper to a journal or conference: is it normal to submit
+in double space?  I thought that was no longer done, but I ran across a
+submitted paper in double-space format the other day and began to worry.
+Dr Martin said he has never seen a submission double spaced, and if
+they don't ask for it, don't do it.  The CFP said maximum six pages, and
+that implies normal spacing. He pointed out that IEEE and LNCS formats
+vary by a factor of two in how many words they can fit on a page, so
+I should measure the previous year's conference proceedings and mimic
+their preferred style for my submission.
+
+I reported that Lockheed has asked me to give four more talks in coming
+months.  They must like my talks.  Dr Martin seemed pleased at that
+and told me to go ahead and do those talks.  They provide a beneficial
+imposition of structure and deadlines and thereby encourage progress,
+as long as the talks are all different (and they are).  Dr Martin told
+me to try to make each talk correspond with a chapter or section, as a
+way of getting leverage from the extra work.
+
+Finally, I have been corresponding with Tracey Wells in the Careers
+Service, helping them out with an article about international students.
+
+Reading group yesterday discussed Chapter 1 of a book Shamal found on
+cyber warfare.  I told people of an article in Comm. ACM about experiences
+using the static analysis tool Coverity in real-world programming shops;
+apparently programmers in the wild commonly disbelieve the language
+specification, and managers hate it when a new, improved version of the
+bug detector shows more bugs in the code even after they fixed all the
+ones the older version of the tool found.
+
+Next meeting not scheduled yet.  I am introducing a paper at next week's
+reading group, so I will definitely talk to Dr Martin then, but probably
+earlier, as soon as I finish this conference paper which is due in about
+a week.
+
+Current list of tasks in order of priority, highest priority first:
+
+1. VALID 2010 paper (based on preliminary results from first case study)
+due 20th March 2. Methodology chapter to be finished by 31st March.
+3. Crosstalk journal paper (based on methodology chapter and my talk
+in Oxford) to be submitted by 15th April.  4. Dissertation outline
+(needed for confirmation of status).  5. Begin writing progress report for
+confirmation of status.  6. CT&E practitioner survey (I need to have data
+and preliminary interpretation by end of summer).  7. Update the schedule.
+8. Apply for confirmation of status.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

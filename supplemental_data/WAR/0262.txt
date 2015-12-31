@@ -1,0 +1,39 @@
+weekly activity report 262 (loughry)
+Joe Loughry
+Sent: 12 October 2012 02:29
+To: Ivan Flechais; Niki Trigoni; Andrew Martin; Joanna Ashbourn
+
+Weekly activity report no. 20121011.1842 (GMT-7) sequence no. 0262 first week MT
+
+I found an ambiguous case in the proof of the security properties of
+the accreditor model that occurs when two non-collateral accreditors
+disagree on which security controls can be implemented because each
+has knowledge of a different classified threat with an associated but
+unpublished mitigation.  This is actually a situation that comes up
+not infrequently between agencies of the same government when multiple
+agencies perform original CNA research, which several do.  I am working on
+finding a way out of it.  On the question of whether a third accreditor
+contributes any essential utility beyond two, I am still thinking about
+that.  I have found no counterexample where it leads to deadlock or an
+unexplainable blocking of information flow.  Regarding that, I found
+an interesting interpretation of gradients across the Venn diagram that
+intuitively shows the direction of flow of information.  I have requested
+a supervisor meeting a few days from now to get feedback on the idea.
+I will draw some clearer figures before Monday to show it working.
+
+Also this week I have been emailing back and forth with the OUCS help
+desk and my college office about enrolment registration and my computer
+accounts expiring.  OUCS registration services have kindly extended
+the expiration of my network accounts once already, and as soon as the
+form arrives in the MPLS graduate division office, their database will
+be updated and I can complete student registration.  I heard from Julie
+Sheppard and Dr Martin yesterday that the GSO.15 form was approved and
+processed through the department.  I have started writing a presentation
+for the C&ESAR 2012 conference next month, and got travel reservations
+done.  Next task is to deliver a complete Chapter 6 to my supervisors
+this upcoming week, followed by chapter 4 and 5.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

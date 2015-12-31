@@ -1,0 +1,38 @@
+weekly activity report 271 (loughry)
+Joe Loughry
+Sent: 14 December 2012 03:47
+To: Joe Loughry
+
+Weekly activity report no. 20121213.2009 (GMT-7) sequence no. 0271 week 8+2 MT
+
+I decided that a sub-optimal method was good enough for the selection
+problem at this time and stopped trying to find a more efficient one;
+I got back on the writing-up task last Sunday night with the goal of
+having my thesis feature-complete by the end of this week.  As of tonight
+I am still working on that.  I wrote some notes on the plan of attack for
+the optimal solution to be worked on later including a lower bound on the
+number of operations for (n,k) accreditors.  Briefly, the method generates
+a directed graph containing all of the allowable transitions from the
+null set for a given n, then searches it exhaustively for any solutions
+satisfying the guarantee.  If any are found, they must be optimal.
+
+Writing status: the theory is in two parts, certification and
+accreditation, although there are 'interesting observations' about all
+kinds of related things attached all over.  The certifier part is done.
+I am working on the accreditor part now, which is more difficult.
+I hope to have it feature-complete by Sunday, and then go to work
+on polishing the writing.  Today I had to spend some time responding
+to an inquiry about a possible job from someone I know at Lockheed,
+not for a job at Lockheed but another agency.  I made a few updates
+to my CV, wrote a letter describing my research, and sent it along.
+I was warned it was likely I would not hear anything until January,
+but I was requested to get it to them today.
+
+I am aware of the calendar and deadlines approaching at the end of
+December.  I want to give my supervisors clean chapters to review.  I will
+have some chapters for Dr Martin and Dr Fléchais in a few more days.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

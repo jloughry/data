@@ -1,0 +1,37 @@
+weekly activity report 220 (loughry) 
+Joe Loughry 
+Sent: 23 December 2011 01:09 
+To: Joe Loughry 
+
+Weekly activity report no. 20111222.1701 (GMT-7) sequence no. 0220, week 8+3 MT
+
+I met with Dr Martin by Skype to discuss the accelerated schedule.
+Afterwards I sent a long letter to Dr Fléchais bringing him up to date
+on recent changes and asking advice on how to get the work done in time.
+I sent the new schedule to Dr Ashbourn at my college and received an
+acknowledgement.  The revised schedule requires submission by 20th April;
+that compresses the amount of time allocated to coding and analysis of
+case studies, but I came up with a new way of tracking progress in coding.
+The rate needs to be consistently above 50 items/day; it is well below
+that presently because I am still working on proficiency with ATLAS.ti,
+but I expect the trend line to merge with plan soon.  I am reporting
+the new metric.
+
+Sticking to the plan from last week, I have been reading NIST reports and
+implementation guides on S-CAP.  I am certain now that S-CAP holds the
+key to streamlining the certification and accreditation problem for cross
+domain systems.  Validation of the solution, however, is going to slip
+out of the schedule under the revised due date.  Dr Martin has suggested
+that the way to handle it is by publishing a separate article on that
+aspect of the problem immediately after completing the dissertation,
+and Dr Ashbourn concurs.  I am planning to do it that way now, to make
+the 20th April deadline.
+
+I think it would be a good idea to write Chapter 6 immediately whilst
+I have that information in my head.  Part of the schedule will slip but
+not the final date.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

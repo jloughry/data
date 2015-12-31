@@ -1,0 +1,74 @@
+Weekly activity report no. 20100204.1527 (GMT-7) sequence no. 0122, week 3 HT
+
+I met with Dr Martin on Monday by video teleconference.  I have begun
+shifting work towards the software engineering talk I am giving on the
+19th because the deadline is approaching.  Starting to work on slides
+in Beamer.  I sent the title and abstract to the meeting organiser as
+requested two weeks before the date.  Here is the abstract:
+
+> Why does information security Certification Test and Evaluation
+> (CT&E) presently cost so much?  What are the attributes of a good
+> security CT&E programme?  Conversely, what are the signs of a poor
+> one?  This talk will explore the landscape of certification and accreditation
+> with the aim of developing a methodology leading to a fix.
+
+I think it's concise and interesting.  By leaving the meaning of
+'landscape' unspecified, I can include both safety-critical and
+security-critical Certification and Accreditation (C&A) in order to
+compare and contrast, although I will focus on the more constrained
+arena of classified systems where my interest lies.  I have concrete
+examples of good and poor certification efforts to illustrate points.
+In this talk, I will go through my methodology in some detail.  The idea
+is to demonstrate at each step that the part contributes to a whole
+that is both necessary and sufficient to support my thesis.  This talk
+is a follow-on to a previous talk last year in which I described the
+background to one of my case studies as motivation for the research.
+
+I asked about dry-running the talk next week at reading group; Dr Martin
+said OK but not to let that distract me from progress. If getting ready
+for a dry run next week puts too much pressure on, then don't do that.
+Instead, concentrate on maintaining forward progress.  At this time I
+think I won't, to avoid the distraction.
+
+I talked a little bit about a paper I wrote back in November but never
+showed to Dr Martin at the time.  It was a proposal for funding to the
+Air Force that didn't get a response.  I was thinking about pulling out
+that draft and revising it for a conference in the spring.  I think it
+could be a quick publication.  It is different from the Crosstalk journal
+article; it would serve the purpose of announcing to other researchers in
+other institutions that I am working on this particular problem.  I can't
+work on it right now because I have other more pressing deadlines first,
+but I would like to do this one soon after.  It is a natural segue into
+the prototyping phase of the research.
+
+Looking at the schedule, Dr Martin asked me about confirmation of status,
+and whether the phrase `by the end of the term' means before the end of
+week 8 of Hilary, or before the beginning of week 1 of Trinity.  I need
+to get this clarified and find out when the confirmation of status report
+is due.  I will talk to Julie Sheppard when I am in Oxford in a couple
+of weeks.  I also found out that student visa rules have changed, so I
+need to go to the International Office whilst I am in Oxford.
+
+We went over my list of prioritised tasks.  I have a tonne of work to
+do and I know what I need to do first.
+
+Reading Group met early this week to go through Jun's new paper on banking
+systems used in South Korea.  I thought it was a good paper and should
+be published.  We gave Jun many suggestions and comments.
+
+Next meeting scheduled for Wednesday, 10th February 2010 after reading
+group.
+
+Current list of tasks in order of priority, highest priority first:
+
+1. Methodology chapter 2. Software engineering slides (19th Feb) 3. Visit
+international office to renew student visa; meet with Julie Sheppard
+4. Review dissertations in the comlab library 5. CT&E practitioner survey
+(prototype a set of questions; run them by Dr Jirotka for an opinion)
+6. nihil obstat conference paper 7. Crosstalk journal article 8. Update
+schedule 9. Apply for confirmation of status this term 10. Conformation
+of status report with sample chapters
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

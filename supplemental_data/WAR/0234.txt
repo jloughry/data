@@ -1,0 +1,30 @@
+weekly activity report 234 (loughry)
+Joe Loughry
+You forwarded this message on 30/03/2012 03:26.
+Sent: 30 March 2012 03:24
+To: Ivan Flechais; Niki Trigoni; Andrew Martin; Joanna Ashbourn
+
+Weekly activity report no. 20120329.1951 (GMT-7) sequence no. 0234, week 8+3 HT
+
+I met with Dr Fléchais by Skype video early this morning to talk
+about my specific plan for finishing in a few weeks.  It followed a
+long email exchange in the past few days where I asked for advice from
+my supervisors about how to proceed.  Dr Martin and Dr Fléchais both
+responded quickly and helped.  In the meeting this morning, Dr Fléchais
+asked questions about the HAZOP application idea that I spent time on
+recently instead of the intended analysis activity using grounded theory.
+I explained why I thought the HAZOP angle was useful, but also said I
+thought I had insufficient time to develop it properly, and probably
+should drop it.  Dr Fléchais and Dr Martin have been talking, and asked
+to see my dissertation in its current form right now, without cleaning it
+up first.  Having anticipated the request, I had it ready and emailed the
+file to Dr Fléchais after the Skype call along with the meeting minutes.
+Dr Fléchais asked for estimates to finish coding of the the CS-1 and CS-2
+case studies; I estimated 2.5 weeks and 4 weeks respectively, although
+I have higher confidence in the first estimate.  Status: back to coding
+for the CS-1 (and CS-2) analysis in ATLAS.ti and writing my dissertation.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

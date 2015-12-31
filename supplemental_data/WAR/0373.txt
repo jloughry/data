@@ -1,0 +1,29 @@
+weekly activity report 373 (loughry)
+Joe Loughry
+Sent: 27 November 2014 22:47
+To: Joe Loughry
+
+Weekly activity report no. 20141127.1445 (GMT-7) sequence no. 0373, week 7 MT
+
+I was able to work effectively on my thesis nearly all this week and made
+significantly more progress on Chapter 5, primarily in tying events that
+happened during the certification phase, quotations from participants,
+and repeated occurrences to similar patterns found in the literature. The
+grounded theory in my thesis connects to numerous other theories by
+researchers who studied manufacturing plants, research scientists,
+spacecraft engineers, safety critical systems, illicit projects,
+government contracts, software project failures, specialised law firms,
+and consultancies. All are needed to understand the behaviour of cross
+domain software developers with respect to government security testers. I
+was disrupted by writing reports, but will be back to writing the thesis
+tomorrow morning. GSS report has been submitted.
+
+There was no Reading Group last week; tomorrow, the group will meet to
+discuss a paper from SPIE Electronic Imaging (2009) on digital image
+sensor noise forensics by Goljan, et al., and Professor Fridrich at SUNY
+Binghamton.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

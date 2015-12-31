@@ -1,0 +1,29 @@
+weekly activity report 330 (loughry)
+Joe Loughry
+Sent: 31 January 2014 02:33
+To: Joe Loughry
+
+Weekly activity report no. 20140130.1851 (GMT-7) sequence no. 0330, week 2 HT
+
+I made good progress on Chapter 5 with a new network diagram showing
+associations amongst all participants from the point of view of the
+developer only. After lots of moving boxes around I was able to partition
+off three distinct groups that can be shown to have had zero effect on the
+outcome. There are a couple of surprising new links that never appeared
+before. This new diagram is colour-coded and uses a whole page to show
+relations than are not able to be shown clearly in two dimensions. For
+one of those, I have not figured out yet what it means; I have to go
+back to my notes to double-check that this person was actually in the
+chain of approvals between BETA 1 and BETA 2 because he seems to have
+been working for two different organisations. Partitioning the ST&E
+activity and Charleston IV&V away from the central problem helped.
+
+Other activity: the proposal that my co-authors and I wrote made it after
+all onto the agenda for the technical committee's (TC) meeting Monday
+in California; I can dial-in to listen. I have to work on the taxes;
+2013 return is due next week.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

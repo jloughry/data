@@ -1,0 +1,50 @@
+Weekly activity report no. 20090423.2151 (GMT+1) sequence no. 0081, nought week TT
+
+I met with Dr Martin yesterday and we looked at my TODO list.  I have several
+ideas for different papers that are all in the outline stage now, but I am not
+making enough progress toward implementation of the central idea of my thesis.
+Dr Martin suggested two things: firstly, that I ought to write papers that are
+actually thesis chapters; and secondly, that to our next meeting I should bring
+the Table of Contents of my dissertation, where we'll set a specific goal for
+which chapter (i.e. paper) to work on first.  The next meeting is scheduled in
+one week.
+
+I also reported on extensive email correspondence with Mr Kleidermacher of Green
+Hills Software, in which I secured assurance of research access and a long list
+of people to contact regarding the successful Common Criteria security
+evaluation of INTEGRITY.
+
+The ISSEP examination is the day after tomorrow.
+
+Upcoming deadlines and events:
+
+24th April: St Cross College tour of Stonehenge
+25th April: ISSEP exam, London
+26th April: Trinity term begins
+28--30 April: Radiant Mercury User's Group (RMUG) meeting
+29th April: meeting with Dr Martin; have table of contents ready
+30th April: Infosec Europe 2009, Earls Court, London
+22-26 June: Requirements Engineering (REN) software engineering module
+
+TO-DO:
+
+1. ISSEP examination (London)
+2. Table of Contents for meeting on Wednesday
+3. Reading:
+  (a) Hansche (2006)
+  (b) IATF (2003)
+  (c) MacKenzie and Pottinger (1997)
+  (d) Pottinger (1994)
+4. Ping Dr Ian Levy again.
+5. Paper ideas:
+  (a) Look at the correlation between CVE or CERT alerts and Common Criteria
+evaluated products.
+  (b) Changes over time in the approval process for Protection Pro files
+6. Taxonomy of C&A standards
+7. Infosec Europe 2009 (London)
+8. Verify that I am enrolled in the REN module.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

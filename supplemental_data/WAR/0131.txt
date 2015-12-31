@@ -1,0 +1,85 @@
+Weekly activity report no. 20100408.2013 (GMT-7) sequence no. 0131, week -2 TT
+
+I did not meet with Dr Martin this week because of Easter.  Next meeting
+is scheduled for Wednesday, 14th April at 2pm Oxford time.
+
+I gave a talk this morning to engineers at Lockheed on the subject of
+certification and accreditation of cross-domain systems.  The talk was
+multicast to other LM sites; 148 people connected to the multicast in
+addition to the audience.  The multicast was recorded so I can watch
+my performance later and use it to improve public speaking skills.
+I had 21 slides and talked for 50 minutes exactly, followed by questions
+that lasted another twenty minutes.  Part 2 of this talk will happen
+in about a week, followed by another talk in a couple of weeks in
+which I can describe my research methodology and preliminary results.
+I seem to have volunteered also to lecture on emissions security (RF,
+optical, and acoustic) on 5th May to a different audience of engineers
+at Lockheed.  I have got feedback this morning from the organiser of the
+multicast series about how I did and what can be improved in speaking
+(along with an invitation to do more talks!).
+
+On another topic, I got an email from Baasit Saijid of the PEOC4I
+office in SPAWARSYSCEN-PACIFIC (US Navy) wanting to work with me on
+a reimplementation using formal methods of high-assurance portions
+of Radiant Mercury.  It is still early days but this might be my next
+project.  It ties in with my research as a follow-on, and could lead to
+work for the next five years.
+
+Progress this week:
+
+I have been digging email addresses out of historical project records
+for the practitioner survey.  It is up to three surveys now: first,
+participants in the failed Common Criteria evaluation; second, a survey
+of practitioners---being the government certifiers and accreditors
+themselves; and thirdly I decided to add another survey of people who need
+certification and accreditation services---and hence are forced to work
+with government accreditors to obtain the required Approval to Operate
+(ATO).  One of the reasons I agreed to do this lecture today was because
+the audience (engineers who have been told by their Programme Office
+that they need to design-in an approved Cross Domain Transfer solution)
+might be willing to fill out my survey.  I will give the survey to
+the audience when I do Part 2 of the C&A talk on 20th April.  I have
+registered for an account with a web-based survey software provider;
+now I am working on writing the survey questions.
+
+Distractions this week:
+
+I had to finish my US federal and Colorado state taxes.  That took
+up two days.  I also had to write a quarterly progress report for
+the Probabilistic Redaction project for the Air Force sponsor, and
+select hardware for a server to run the development environment and
+proof-of-concept prototype on.  I modelled the size of the working set
+in virtual memory that will result from inverting the entire Web 1T
+5-gram corpus (plus decorations at the leaves) and it almost exactly
+fits in an even 32 GB of physical memory.  That seems like a good omen.
+We are supposed to demonstrate a working prototype this summer (text only)
+processing an archive of newspaper articles.  Right now the software is
+just a bunch of Perl scripts but we are working on getting a MapReduce
+implementation working using Hadoop.
+
+Upcoming deadlines:
+
+The notification date for VALID 2010 has been delayed to 30th April.
+I am trying to get information from the UCDMO Conference organisers
+(Unified Cross Domain Management Office) in Ft Meade about when they
+need paper submissions for their conference in July.
+
+Current list of tasks in order of priority, highest priority first:
+
+1. Email addresses for practitioner survey, participant survey, and
+user survey; enter in SurveyMonkey and test.  2. Methodology chapter.
+3. Finish preparing Part 2 of C&A talk.  4. Survey questions, list of
+participants extracted from methodology chapter: to be ready now for
+20th April.  5. Journal article (based on methodology chapter, VALID 2010
+paper and recent talks) now to be submitted before 30th April.  6. Write
+and submit UCDMO paper for July conference.  7. Update dissertation
+Table of Contents.  8. Begin writing progress report for confirmation
+of status.  9. Fill out paperwork for UK student visa extension in
+April for June deadline.  10. Update the schedule.  11. Apply for
+confirmation of status---I want to submit the forms with written work in
+June for August or September.  12. Development of accreditor information
+coordination tool.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

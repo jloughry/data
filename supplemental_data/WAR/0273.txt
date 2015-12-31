@@ -1,0 +1,35 @@
+weekly activity report 273 (loughry)
+Joe Loughry
+Sent: 28 December 2012 00:19
+To: Joe Loughry
+
+Weekly activity report no. 20121227.1610 (GMT-7) sequence no. 0273 week -2 HT
+
+I am working on chapters 3 to 5 and 7 currently.  What was observed in
+CS-1 and CS-2 is not, as first believed, due to the cross domain system
+developer being misdirected by a progressive mismatch at each stage
+between the intent of certification and accreditation authorities as
+expressed through standards documents, operationalised by a process,
+and then scored against steps in a procedure.  The slowdown emerges
+instead from cues derived from the programme office, of all places,
+interpreted as technical direction by people at the engineering level in
+the developer's organisation and resulting in activity that is underdamped
+by the developer's managers who at the time had too many projects to
+oversee and whose attention was monopolised by a combination of programme
+office and site demands.  This is a new interpretation of some data that
+previously were tried to attribute to programme office's responsibilities,
+but did not really fit there; the current interpretation explains the
+observations without need of a hidden level of developer engineering
+policy, which was problematic to stipulate without any evidence of such in
+the developer's policy, process, and procedures.  The certification side
+of the argument is sorted; I am struggling to explain the accreditation
+side of the argument with reference to observations in the PDF files
+making up Appendix B and not just to the model, and to tie down loose
+ends in the methodology chapter.  The risk market idea has been dropped
+for lack of time.  I owe chapters to my supervisors to review in advance
+of the beginning of January.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

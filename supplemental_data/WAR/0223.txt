@@ -1,0 +1,47 @@
+weekly activity report 223 (loughry) 
+Joe Loughry 
+Sent: 13 January 2012 02:22 
+To: Joe Loughry 
+
+Weekly activity report no. 20120112.1909 (GMT-7) sequence no. 0223, noughth week HT
+
+I am having problems with the expiration date on my University card and
+OUCS accounts.  A trouble ticket is open.
+
+I met with Dr Martin this week.  I am contractually obligated to finish
+a white paper for Lockheed on SCAP compliance for the automated guard,
+but after next week I will be 100 percent on the coding task for Chapters
+3 and 4.  I wrote the patent application for digital signatures in Radiant
+Mercury this week; it will be filed before my last day with the company.
+I met with the VP of Engineering and with HR last week and secured enough
+funding to last through April; the only remaining detail is whether
+I will have any health insurance.  Security debriefing is scheduled
+for next week.  I am making good progress on describing my solution in
+Chapter 6 and will be done with that part in a week.
+
+Reading Group met to discuss the paper `Looking Back at the Bell--LaPadula
+Model' by David E. Bell, from 2005.  It explains the reasons for several
+apparently mystifying decisions in the TCSEC and Trusted Solaris 2.5.1,
+such as the `compatibility' of ordered security levels in the file system,
+something I always thought was backwards.  I gave the group an overview
+of multi-level file systems and the software developer's perspective
+on privileged processes.  The mystery of why Information Labels (IL)
+disappeared between Trusted Solaris 2.5.1 and TSOL 8 was finally
+cleared up by this paper.  It contains still-trenchant observations
+on the practical difficulty of certification and accreditation and the
+opportunity to place high-assurance gateways in the narrow lines between
+almost-isolated networks.  In 2012, there is no meaningful distinction
+between the intelligence community, Twitter, and Facebook; one decade's
+optimisation is the next's performance bottleneck.
+
+I discussed CybOX and IF-MAP protocols for security situational awareness
+with Dr Martin this week; one of these protocols might be an extension
+that I could report through the SCAP interface later on.  We talked about
+covert channels in high assurance and multi-level operating systems.
+Dr Fléchais is concerned about my lack of progress on coding; I need
+to talk to him soon as soon as I finish my current obligation.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

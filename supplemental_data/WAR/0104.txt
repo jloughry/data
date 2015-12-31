@@ -1,0 +1,89 @@
+Weekly activity report no. 20091001.2040 (GMT-7) sequence no. 0104, week -1 MT
+
+Dr Martin and I met by video teleconference on Thursday.  We discussed the Air
+Force request for information (RFI) number EVSC1000.  This RFI, published early
+last week, contains a list of requirements for a new certification and
+accreditation (C&A) tracking system for DIACAP---itself a newly adopted C&A
+standard within DoD.  I have been in discussions all week with managers at
+Lockheed over writing a response to this RFI that might lead to funding for my
+research.  The deadline for responses is 16th October, although effectively the
+deadline is 10th October because of the time needed for internal review.  I am
+writing the response now.
+
+I am excited about this RFI for at least three reasons.  Firstly, regardless of
+what happens, it is a published document of the U.S. government that I can cite
+as validation of a real set of requirements for a C&A support tool, written by
+experienced users of such a system.  This forms a solid basis for my second case
+study.  The new case study is significantly different (in a useful way) from the
+first case study in that the new case study applies to DIACAP, not Common
+Criteria.  DIACAP is an entire C&A programme and software development life
+cycle, unlike the CC which is only a set of assurance criteria.  The RFI lists
+86 requirements, including comprehensive reporting events that I would not
+otherwise have discovered without more experience.  These are requirements of
+practising accreditors who need to be able to handle 200 simultaneous
+accreditations and want to keep track of previous ones.  It validates my thesis
+and is going to be extremely useful no matter what else happens.  The second
+reason I am excited about this is that a successful RFI response could lead to a
+formal Request for Proposal (RFP), and if that in turn provoked the offer of a
+contract (between the U.S. government and Lockheed), it would constitute
+guaranteed funding for long enough to finish my research.  The potential gain is
+worth the risk of a minor detour in my research plans.  Finally, if a contract
+were to be let, it would mean that a Lockheed project manager would be assigned
+to...encourage...me to finish deliveries in a timely manner.  That would
+directly contribute to finishing my dissertation as well.
+
+Dr Martin and I discussed the Crosstalk journal article.  Because of the short
+deadline for RFI responses, I have put off the Crosstalk article until at least
+10th October---only a week and a half.  I am trying to write the RFI response in
+such a way that I will be able to submit essentially the same words as a journal
+article, minimising any necessary rework.  There is a potential risk that
+managers at Lockheed will object to having the RFI response published, although
+I assess that risk as low for two reasons: first, the RFI process is public;
+secondly, my managers are already aware of my plan to submit the Crosstalk
+article soon, and they encouraged me to write it.  The difference is that before
+now I was planning a CC-centric article; now I am writing a DIACAP-centric one.
+ It matters little to Lockheed, who have to work within both of these C&A
+programmes---in addition to others---regardless.
+
+Lockheed managers are all tied up in ISO audits this week, so I am working on my
+own without much support from there.
+
+Participant interviews for the first case study remain eager to talk to me about
+it, but that is on hold whilst I write the RFI response, because the deadline
+(which is not much time at all, but entirely typical for these sorts of things)
+is more urgent.
+
+I have had some success with writing this type of response in the past, and some
+experience with the branch of the government that is asking for it.  Last time
+they responded extremely positively to a research-heavy proposal, and that is
+what I plan to do again this time.
+
+Dr Martin says there is plenty of cross-fertilisation here with Common Criteria
+and it will add to my thesis.  He asked, though, if this increases the scope too
+much, making the thesis problem too large.  I said no, I don't think so.  I
+think it goes back neatly to my original proposal for scoping this to C&A
+programmes in general, not just the CC.  DIACAP is new, the AFI 33-210 is
+extremely new, and DoD is still getting used to DIACAP.  People in the field
+need this tool very much.  As long as it's not commercially focussed, the DoD
+internal process aspect seems not to be a problem.
+
+Dr Martin says I need to show the Air Force that I have a head start on other
+people, in my response to the RFI.
+
+I am going to try reading David Allen's (2002) book on Getting Things Done and
+try using a set of folders to organise every piece of paper related to each
+project.  I have enough unrelated papers on my desk, and enough commitments (two
+Comlab Student Conference submissions to review, a paper on subset maths, the
+RFI response due soon, a quarterly progress report for my primary work
+assignment---another Air Force research project, annual performance reviews at
+Lockheed, my thesis interviews, and so on) to make it worth while spending the
+time to investigate it.
+
+I feel I am making good progress towards my dissertation this week.
+
+Next scheduled meeting is after Reading Group on 8th October at 0630 local time.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

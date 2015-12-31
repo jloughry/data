@@ -1,0 +1,67 @@
+weekly activity report 204 (loughry) 
+Joe Loughry 
+Sent: 02 September 2011 00:37 
+To: Niki.Trigoni@comlab.ox.ac.uk; Andrew Martin; Joanna Ashbourn 
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; hmbjuggler@yahoo.com;
+	tom.a.marso@lmco.com 
+ 
+Weekly activity report no. 20110901.1633 (GMT-7) sequence no. 0204, week 8+10 TT
+
+I met with Dr Martin last Friday to discuss arrangements for the conf. of
+status viva next week.  The purpose is to convince Dr Jirotka and Dr
+Fléchais that I have followed their guidance, that I am on track to
+finish the research and writing in the specified amount of time, and
+that they should confirm my status and keep moving forward.  It gets me
+off their plate, moves in the direction of another successful finish,
+doesn't waste anybody's time, and allows them to extract a solemn promise
+from me that I'll finish in time.  To that end, I am polishing my most
+effective argument: written chapters.  I gave those to Dr Martin on the
+29th, as agreed.  Dr Martin kindly offered to print the chapters for me,
+saving the expense of Fedex, which I deeply appreciate.  He asked for
+some changes which I am doing now.  I will send updated PDFs to the
+assessors as soon as I can manage it---tonight, with luck.
+
+When I talk to the assessors I will ask them to set a new final submission
+date two terms hence.  The 13th January 2012 date is unreasonably soon,
+I assert, because that date never moved despite the confirmation of
+status being delayed.  I will ask for the conventional amount of time to
+elapse between confirmation of status and submission.  I do not expect
+to need all that time, but I shall ask for it.  I received automatically
+generated emails this week about my University Card and email accounts
+all expiring at the end of next term; I cannot risk that happening in
+the middle of writing up.  The assessors should recommend a new finishing
+date, and then my library card will keep working.
+
+More data continues to arrive on two of the three case studies.
+In several conversations this week with developer engineering managers,
+it developed that the government programme office has underfunded the
+developer by a large amount, over a million dollars this fiscal year.
+The developer must transition eighty or ninety task orders from the old
+BOE to the new one, causing a severe overhead gap lasting 2--3 months with
+the full transition taking a year.  Together with a product on the GSA
+schedule now, the developer has more than one incentive to write direct
+contracts in future.  When the developer does that, the Navy can't tax
+the funding.  This has significant effects on engineering decisions in
+a way that Grounded Theory is actually pretty well suited to explain.
+
+I also unexpectedly obtained new data on the third case study, shedding
+more light on the relationship between the developer and the systems
+integrator from 2004--6.  Details omitted because I haven't had time to
+anonymise it.
+
+Miscellaneous: work continues on the OXFORD-CS-2011 student conference
+committee.  At Lockheed, five evaluations came in from technical reviewers
+on the MG-03529 disclosure; I need to write a response for the IPRB
+in advance of their ordering a search for prior art, which costs lots
+of money.  I owe a first draft of the poster to the funding sponsor for
+probabilistic redaction next week; also travel to New York is confirmed
+for 26th September to give a final report to the funding sponsor.
+My highest priority at the moment is to send the revised chapters with
+change bars to the assessors in PDF.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford
+

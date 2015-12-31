@@ -1,0 +1,23 @@
+Weekly activity report no. 20090305.2130 (GMT) sequence no. 0074, week 7 HT
+
+I am preparing for a talk tomorrow about my research to an audience of security
+engineers at Lockheed Martin (via teleconference).  Continuing to read Hansche
+(2006a) for background on security certification and accreditation programmes
+and how it relates to security engineering.  Working on some coding exercises to
+develop proficiency with Scheme, which I want to use for XML manipulation in
+building my eventual thesis tool.  Still working on improving time management.
+
+Upcoming deadlines and events:
+
+tomorrow: giving a talk at work
+7th March: Open Day (lectures)
+14th March: Hilary term ends
+6th--7th April: TRUST 2009 in Oxford
+17th April: submission deadline for 2009 NSPW
+23rd April: review deadline for Dr Jirotka's paper
+25th April: ISSEP exam in London
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

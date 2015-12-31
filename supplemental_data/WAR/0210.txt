@@ -1,0 +1,71 @@
+weekly activity report 210 (loughry) 
+Joe Loughry 
+Sent: 14 October 2011 07:48 
+To: Joe Loughry 
+
+Weekly activity report no. 20111013.2336 (GMT-7) sequence no. 0210, week 1 MT
+
+Security reading group met this week for the paper `Automating Security
+Mediation Placement' by King, et al. (2010), suggested by Cornelius.
+There was a good discussion part-way through about implicit vs explicit
+information flows.  I met with Dr Martin briefly after reading group,
+reporting that I have been reading a number of papers on declassification.
+This is at the heart of the release decision made by cross domain systems
+and it is ultimately the mechanism of the release decision that must be
+approved by accreditors.  I thought of comparing the academic view of
+the question to a working accreditor's understanding of the problem,
+and to look for overlaps and gaps.  I will send something new written
+on the new model for the grounded theory in Chapter 3 tomorrow; several
+unexpected requests from the funding sponsor took all my time for the
+last day and a half.
+
+Still worrying about funding; I talked over contingency plans with
+Dr Martin the other day.  I am still looking for a new job; the JAGUAR
+group in Boulder, Colorado is still a possibility, but I remain concerned
+about starting a new job because of the distraction from dissertation
+work that might entail.  If faced with a choice, I might just turn down
+the job and focus everything on my thesis work.  I am not sure if I have
+enough money to be able to do that.
+
+I reported making steady progress on Chapter 3; I updated the percent
+complete on that task to 60 percent.  I need to meet with Dr Fléchais,
+and I haven't.  Outside school, I must finish the contract final report
+for Probabilistic Redaction due 30 October, a few minor updates to
+the user's guide, and prepare a presentation for the IPRB review in
+November.  I did some IT work this week for the Scientific Society and
+the OXFORD-CS-2011 student conference committee.
+
+The CS1 developer is hopeful of getting a decision from the government
+programme office next week on which operating system to take a chance on
+in version 6.0.  They have significantly increased the planned scope of
+the 5.1 patch version to carry the cross domain system through December
+2014 when Solaris 10 goes out of vendor support.  When that happens,
+the certified version drops off the UCDMO baseline list of approved
+solutions, so 6.0 is crucial.  The systems engineering and engineering
+staff organisations will meet formally with the programme office in
+Colorado next week.
+
+Next meeting: 18th October 2011 at 1600 BST.
+
+Table of progress report on analyses and interpretations:
+
+Chapters 1 and 2 need the specific work as described in viva.
+Chapter 3 on CS1 current status: 60% done (needs model linking coding
+	to grounded theory).  Reading on declassification.  Estimated
+	completion date: 30th October.
+Chapter 4 on CS2 current status: 5% done, waiting until CS1 is properly
+	completed.  Estimated time to complete: 2 months.
+Chapter 5 on CS3 current status: 0% done, waiting until CS2 is done.
+	Estimated time to complete: 1 month.
+Chapter 6 and 7: current status: 5% done, waiting until end of January
+	to work on.
+
+I have some new material written on the declassification operation as
+it drives accreditor risk tolerability.  I want to try it out on the
+student conference but the deadline for abstracts is tomorrow evening.
+I will show you what wrote tomorrow.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

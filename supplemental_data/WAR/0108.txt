@@ -1,0 +1,41 @@
+Weekly activity report no. 20091029.2111 (GMT-6) sequence no. 0108, week 3 MT
+
+Denver is buried under blizzard conditions this week, but I met with
+Dr Martin by video teleconference yesterday.  Before our meeting, at
+Security Reading Group, I introduced the paper by Johnson, et al. on
+`Security through Information Risk Management' (2009), which resulted in
+some good discussion.  It would be interesting to compare that paper,
+which is mostly a collection of opinions from practitioners at the CIO
+level in commercial organisations, with the article by Parnas and Curtis
+(2009) on `Empirical Research in Software Engineering' and the paper
+by Kitchenham, et al. (2002) or the presentation by Greg Wilson about
+the `low standards for proof' in empirical computer science research.
+I put it on the wiki and sent a query to the reading group mailing list
+to see if there is interest.
+
+Dr Martin and I discussed progress last week which was small.  I had to
+rewrite a Lockheed report that was sent back for insufficient technical
+detail.  The manager was satisfied with the revised report, but writing
+it took all my time.  I did not get the Crosstalk article written and
+sent to Dr Martin last Friday as I had promised because of it.
+
+Not getting enough sleep.  I am working on the Crosstalk paper again
+and will have that written by 4th November.  Next week the US government
+certifier will be in town for the kick-off of `alpha' testing of a major
+revision of a software system at Lockheed.  I have obtained permission to
+be involved in that from the beginning and consequently able to observe
+the application of a new C&A process (NIST Special Publication 800-53)
+where both the certifier (Defence Intelligence Agency [DIA]) and the
+developer (Lockheed) are unfamiliar with the process.  The opportunity
+only appeared on 16th October, and I got permission on 26th October,
+so I am now planning to use it as another validation example for the
+tool I am developing for C&A of existing systems.
+
+Primary concern: maintaining progress
+
+Next meeting planned for: Wednesday, 4th November after Reading Group.
+I will have the Crosstalk article written.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

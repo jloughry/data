@@ -1,0 +1,22 @@
+weekly activity report 325 (loughry)
+Joe Loughry
+Sent: 27 December 2013 04:06
+To: Ivan Flechais; Niki Trigoni; Andrew Martin; Joanna Ashbourn
+
+Weekly activity report no. 20131226.2051 (GMT-7) sequence no. 0325, week 8+3 MT
+
+I am still working on chapter 5 and have not sent it out yet, but I made
+progress on writing and also drawing some new figures this week. To
+explain the network diagrams, especially the overview and the second
+case study, I am writing a description of every edge in the graph, and
+in certain important cases explaining why edges do not appear in the
+graph and why it differs from corresponding graphs in the other case
+studies. Christmas has been busy, but I have been working too. I plan
+to email this chapter to my supervisors before New Years Day.
+
+Other activity: student visa forms waiting until after I finish Chapter 5.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

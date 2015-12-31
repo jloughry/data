@@ -1,0 +1,26 @@
+Weekly activity report no. 20080214.2227 sequence no. 0020 week 5 HT
+
+Continuing to read, this week I have been looking at tips on conducting
+research and planning a thesis proposal.  I am thinking of suggesting Richard
+W. Hamming's essay "You and Your Research" for the Security Reading Group.  The
+paper talks about choosing what problems to work on, and then asks, "Why aren't
+you working on it?"  I am also continuing to BibTex all my old files.
+
+At work, I've just been tasked with updating the design document that contains
+the three-axis threat space model that I showed to Dr Martin last week.  I have
+a chance to update it with new information.
+
+There was an interesting colloquium at St Cross College with presentations on
+particle physics and Transmission Electron Microscopy.  Gemma Tinti talked
+about the MINOS experiment, which is getting data suggesting that the standard
+model of physics is incomplete (meaning there is probably more left to
+discover).  She showed how they shoot a neutrino beam right through the earth. 
+When the curvature of the horizon gets in the way, so they just aim in a
+straight line at a detector on the other side.  Rebecca Nicholls gave a talk on
+TEM that showed pretty clear imaging of individual atoms in a quantum
+computer.  Neat stuff.
+
+-- 
+Joe Loughry
+DPhil PRS, Computing Laboratory
+St Cross College, Oxford

@@ -1,0 +1,31 @@
+weekly activity report 344 (loughry)
+Joe Loughry
+Sent: 09 May 2014 03:29
+To: Joe Loughry
+
+Weekly activity report no. 20140508.1948 (GMT-7) sequence no. 0344, week 2 TT
+
+I have been reviewing previous research on PM replacements for any mention
+of its effect on existing projects, particularly with respect to the
+'arrival effects' of Parker, et al., which I think are the primary source
+of effect on implicit/informal channels in the CT&E phase of C&A. I am
+trying to do two or three finished pages a day on these themes. I show
+what has been written about each theme before, what was observed in my
+case study (quantitatively when possible), discuss briefly whether it
+agrees qualitatively with those other researchers, and how it ties into
+the new grounded theory. I have support for the idea now that informal
+channels are disrupted more than formal channels by PM changes, explaining
+the larger than expected effect in my observations. I am proceeding to
+treat the other themes similarly. Forerunner communication is the most
+important information transferred over implicit channels. I am trying
+to decide if there is any real difference between implicit and informal
+channels.
+
+Reading group meets Monday to discuss a paper about a proposed instruction
+set extension for CPUs that does not require secure on-chip non-volatile
+memory.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

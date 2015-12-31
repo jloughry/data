@@ -1,0 +1,130 @@
+weekly activity report 253 (loughry)
+Joe Loughry
+Sent: 10 August 2012 03:26
+To: Ivan Flechais; Niki Trigoni; Andrew Martin; Joanna Ashbourn
+  	 
+Weekly activity report no. 20120809.1755 (GMT-7) sequence no. 0253, week 8+8 TT
+
+Consider what went wrong in RTG 1.0 from the perspective of Conway's
+thesis: `organizations which design systems are constrained to
+produce systems which are copies of the communication structures
+of these organizations' (Brooks, 1975; Conway, 1968).  Often-times
+oversimplified when separated from the original paper to `if you
+have four groups working on a compiler, you'll get a 4-pass compiler'
+(Raymond1996), it is no bon mot; Conway demonstrated convincingly that
+the homomorphism between system designs and organisational structures
+arises necessarily from communication channels in every organisation
+that follow administrative reporting relationships, themselves set
+resulting from empirical experience (Whyte, 1956).  I am thinking of the
+organisational structure of RTG 1.0 of Programme Manager-->PM-->engineer
+with an intermittent cross connection from the engineer to the CCTL.
+What was intended to be designed was an ST, HLD, and LLD without benefit
+of a PP.  What got designed was a too-large ST and an interesting design
+extraction tool that produced an LLD and part of an HLD.  In contrast,
+in the RM 5.0 certification it was turnover rates in the developer's
+organisation, the IV&V contractor organisation, the installation site's
+organisation, the government programme office organisation, and the
+certification authority's organisation that should have been the most
+significant factor.  DAAs, in contrast, don't change often.
+
+Comparing the organisational structures set up at project initiation of
+RTG 1.0 and RM 5.0, it is clear that the successful outcome of the later
+case study resulted directly from the different organisational structure
+of the certification team, but it is not possible straightforwardly
+to conclude that the difference was caused by lessons learnt from the
+earlier evaluation effort because participants with planning authority
+in the case studies were completely non-overlapping.  It is tempting to
+believe that thoughtful consideration of prior events led directly to
+an ideal design of the certification team in RM 5.0, but the data do not
+support it (nor contradict it).  In the case of RTG 1.0, the validator,
+CSC, was a gatekeeper across which the evaluation evidence had to pass
+successfully before the evaluator, NIAP CCEVS, ever saw it.  Turnover in
+the developer organisation meant that the only common participant was the
+researcher, who in the participant-observer role during the second case
+study carried no planning authority.  The government programme office
+was uninvolved in the RTG 1.0 evaluation, it being a developer-initiated
+effort intended to leverage the RTG 1.0 project requirement for Common
+Criteria security evaluation; RTG 1.0 was a contract funded through the
+developer, not the government programme office.  The RTG 1.0 evaluation
+built upon the earlier AEHF MCS work to produce `evaluatable' evidence.
+Conway (1968) makes this explicit: `...the very act of organizing a
+design team means that certain design decisions have already been made,
+explicitly or otherwise.  Given any design team organization, there is a
+class of design alternatives which cannot be effectively pursued by such
+an organization because the necessary communication paths do not exist.'
+
+I have set these milestones firmly.  A complete rough draft of all
+chapters with all points covered adequately will be written by the end
+of August.  I will review and rewrite chapters as necessary in September.
+The order of events is set as follows:
+
+Milestone 1: Chapter 2 must be written by 14th August.
+Milestone 2: Chapter 3 must be done by 18th August.
+Milestone 3: Chapter 4 must be done by 22nd August.
+Milestone 4: Chapter 5 must be done by 26th August.
+Milestone 5: Chapter 6 must be done by 30th August.
+Milestone 6: Chapter 1 must be done by 6th September.
+Milestone 7: edit, rewrite, review by supervisors: the month of September.
+Milestone 8: CESAR 2012 camera ready paper due 17th Sept.
+Milestone 9: submit dissertation Monday, 1st October.
+
+Outline of the dissertation and description of each milestone:
+
+Chapter 1, Introduction: introduction and motivation related to cross
+domain systems specifically (peer-reviewed; to appear), brief overview
+of the case studies, literature review of government security standards;
+description of the research question; statement of thesis; brief overview
+of the results. (Due 6th Sept)
+
+Chapter 2, Methodology: a more detailed description of the circumstances
+of each case study, participants, anonymisation, limits placed on the
+research due to classified information; argument that analysis of this
+data is suited to answering the research question; overview of grounded
+theory methodology; grounded theory literature survey. (Due 14th Aug)
+
+Chapter 3, Case Study of a Successful Certification: detailed description
+of the circumstances, participants, organisational structure, sequence of
+events, reports, and results of the case study; but without interpretation
+of why the certification succeeded. (Due 18th Aug)
+
+Chapter 4, Case Study of an Unsuccessful Common Criteria Evaluation:
+detailed description of the circumstances, participants, organisational
+structure and how it differed from the previous chapter, the funding
+structure, involvement of the developer, government programme office,
+system integrator, validator, evaluator, Other Government Department,
+and NIAP CCEVS (material previously published in 2010).  Beginning to
+hint at descriptions of warning signs to be found in the literature that
+might have headed off disaster; results of the abandoned evaluation effort
+and anticipated fallout on the Evaluated Products List (but events at
+NIAP CCEVS occurred that partially mitigated the damage). (Due 22nd Aug)
+
+Chapter 5, Interpretation: my theory, in several parts that emerged from
+the data; the accreditor model, induction from certifier and accreditor
+behaviour observed in these and earlier certification and accreditation
+projects; how accreditor behaviour follows the predictions of Akerlof and
+Spence (peer-reviewed, to appear); differences in organisational maturity
+at different levels in the same developer organisation and how it predicts
+effectiveness of use of policy, process, and procedures; similar behaviour
+seen in the government programme office, and the certification authority;
+more examples of how observed behaviours good and bad were predicted in
+the literature as far back as Conway's thesis (1968) and Fred Brooks
+in 1975; discussion of how each part of the grounded theory came from
+a specified place or places in the data and how every observation is
+explained by the theory.  Description of proposed solution, nihil obstat,
+and how it will solve all the problems named above. (Due 26th Aug)
+
+Chapter 6, Conclusion: beginning with a summary of the cross domain
+milieu, research problem, thesis, very brief methodology and recap of
+the commonalities and differences between the case studies, and the
+abstract results derived from them.  Recommendation to develop the
+proposed solution using the Security Content Automation Protocol.
+Argument that the thesis is true and the research problem has been
+solved. (Due 30th Aug)
+
+Appendix: selected pieces of anonymised evidence that can be published
+and are referred to in the text. (Due in September)
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

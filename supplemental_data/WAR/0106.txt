@@ -1,0 +1,43 @@
+Weekly activity report no. 20091015.1808 (GMT-7) sequence no. 0106, week 1 MT
+
+I wrote a response to the U.S. Air Force request-for-information (RFI) for
+a tool to manage DIACAP C&A.  It is being reviewed by Lockheed managers
+before I can send it off.  Responses are due tomorrow, 16th October 2009
+before 10:16 p.m. US/Eastern Daylight Time.  The reviewers saw it tonight
+and I have started getting back some positive responses.  It is a risk,
+because the response does not directly answer all the questions in the
+RFI but instead questions their basic assumptions and then proposes
+something different.  It is an approach that has worked well in the
+past---when I tried it last year it yielded a positive response and a
+contract for funding.  If it works again, I will have assured funding
+for the rest of my research.  If it doesn't, maybe it still makes us
+look forward-thinking and innovative.  The number of risks I have been
+taking lately is high, but I feel it is a good thing to learn.
+
+Reading group met yesterday; I listened in via Skype through Cornelius's
+laptop.  The battery failed after an hour but I heard all but the last few
+minutes of the discussion.  Shamal is going to try recording tomorrow's
+Software Engineering Friday seminar and I look forward to seeing the
+video of Dr Martin's talk.  We have set aside some server space for the
+MP4 files that the camera produces.
+
+Besides the Air Force RFI response going out tomorrow, I am waiting
+for notification this weekend from the ACSAC conference about my poster
+and I am modifying the RFI response into a paper for submission to the
+journal Crosstalk.
+
+Plan for this week: I owe the Air Force a summary progress report, due
+30th October.  Concurrently I will be working on the Crosstalk paper.
+If the funding agency takes the bait, things will get very busy very fast.
+I told them I would do it in a year; that is right on my planned schedule
+but enforces a certain pace of progress.
+
+I have volunteered to help with a virtual study group at Lockheed for
+candidates wanting to sit the CISSP-ISSEP exam.  That will run for 10
+weeks and starts next week.
+
+Next meeting: Monday, 19th October at 2:00 p.m. Oxford time.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

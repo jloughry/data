@@ -1,0 +1,63 @@
+Weekly activity report no. 20071018.01 sequence no. 0004 week 2 MT
+
+All of these reports are archived and will be available on my status
+website, which is not set up yet.  (It does exist in prototype, though!)
+Hours on task this week (scaffolding): none
+
+Lectures: I am keeping up with Functional Programming (FP) and Computer-
+Aided Formal Verification (CAFV) lectures.  I missed the first practical
+though, because of having to take my daughter to hospital unexpectedly.
+I plan to have the work caught up before Monday, however.  Hours on task
+this week: 3.
+
+I have scheduled time to attend Comlab seminars every Friday afternoon;
+also, I am planning to attend the Donald Knuth lecture next week (of
+course!) and Rod Chapman's lecture from Praxis.  Hours spent on task so
+far: 1.5.
+
+Regular Weekly Meetings: I need to start having regular weekly meetings
+with Dr. Martin.  This week was scheduled, but I had to cancel.  This
+will start next week now.  The primary topics for the upcoming meeting
+will be:
+
+  1. Reading plan to get ready for Software Engineering Maths in Nov.
+
+  2. Initial planning for my Transfer Report, to happen in 2008.
+
+Dr. Martin has started a software engineering Security Reading Group,
+which I will start participating in next week.
+
+HOLD-OVER FROM LAST WEEK: Registration: I need to provide to the
+Secretary for Graduate Studies a plan for courses I intend to take for
+the rest of the terms this year.  I need to talk with Dr. Martin about
+exactly which courses I should take in Hilary and Trinity terms.
+
+Completed Meetings: I met with Dr. Trigoni and introduced myself this
+week.  I also met with Drs. Tiffany and Savage-Smith at lunch and we
+talked about the heraldry of St. Cross.  Two planned meetings with Dr.
+Martin yesterday were postponed by me.  Hours spent on task: about 3.
+
+Upcoming Events: I am scheduled to have dinner with the Master of St.
+Cross College on Friday evening.  I have a required library induction
+seminar on Friday, and the regular weekly Comlab lecture also.
+
+Tuition and Fees: paid for this term today.
+
+Reading: Still reading Barnes's book on SPARK (2006).  Also reading
+Tufte ("The Visual Display of Quantitative Information"), Bird
+("Introduction to Functional Programming using Haskell"), and Lightfoot
+("Formal Specification Using Z").  Hours spent on task: about 4.
+
+Seminars: I attended the regular weekly Comlab talk last Friday, and
+also participated by telephone in a three-hour seminar on "Threat
+Management" which featured four speakers, primarily oriented toward
+defending against targeted malware attack.
+
+Outside work: Lockheed Martin hours billed this week: 19.5 hours.
+
+Joe Loughry
+DPhil PRS, dept. of Computer Science
+
+CC: Andrew Martin <Andrew.Martin@comlab.ox.ac.uk> (supervisor)
+   Niki Trigoni <Niki.Trigoni@comlab.ox.ac.uk> (advisor)
+   Joanna Ashbourn <joanna.ashbourn@stx.ox.ac.uk> (senior mentor)

@@ -1,0 +1,24 @@
+weekly activity report 360 (loughry)
+Joe Loughry
+Sent: 29 August 2014 02:44
+To: Ivan Flechais; Niki Trigoni; Andrew Martin; Joanna Ashbourn
+
+Weekly activity report no. 20140828.1927 (GMT-7) sequence no. 0360, week 8+10 TT
+
+I worked on cutting down a large number of irrelevant events of 2009--12
+in the case study (including some repeats) that were in the evidence but
+no longer contribute to the theory. It was not clear before now that those
+few events, transcripts of conversations, and observations---some of which
+seemed highly significant at the time and comprise reams of data---ended
+up being misleading, redundant, or later overcome by events. I spent
+most of my time removing paragraphs, not writing new ones, all week (and
+also fixing a technical problem with my LaTeX setup). I need another
+week to finish Chapter 5. Plan for finishing: I still need to wrap up
+the section on implicit channels and stop changing it, then tie it into
+the grounded theory, then re-read the chapter as a whole.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+
+

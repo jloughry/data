@@ -1,0 +1,36 @@
+Weekly activity report no. 20080207.1610 sequence no. 0019 week 4 HT
+
+I have started to work on systematically collecting information for my
+literature review.  Even before I have a thesis, this is something that needs to
+be done, and can be started now.  To that end, I've been entering all of my
+books and papers into \BibTeX\ so they will be there when I need them.
+
+Interesting books and papers read this week: 'Merging Paradigms of Survivability
+and Security: Stochastic Faults and Designed Faults' by McDermott et al.,
+'Computer Science Education: Where are the Software Engineers of Tomorrow?' by
+Dewar and Schonberg, _Managing Projects with GNU Make, 3d ed._ by Mecklenberg,
+the _Z Reference Manual_ by Spivey; and a couple of recorded Google Tech Talks
+about the Fortress language by Steele.
+
+-- 
+Joe Loughry
+DPhil PRS, Computing Laboratory
+St Cross College, Oxford
+
+addendum to weekly activity report (loughry)
+Robert Loughry [robert.loughry@stx.ox.ac.uk]
+Sent: 	07 February 2008 16:51
+To: 	
+Andrew Martin [sabbatical@andrewmartin.name]; Niki Trigoni; Joanna Ashbourn
+Cc: 	
+Joe Loughry [joe.loughry@comlab.ox.ac.uk]
+Attachments: 	
+Addendum: getting to hear the lecture by Fred Brooks on Tuesday at the comlab
+was wonderful.  The guy has been everywhere and done everything.  He knew
+Seymour Cray, Gordon Bell, and Gene Amdahl personally, and said he could always
+tell when he was working on one of 'their' computers.
+
+-- 
+Joe Loughry
+DPhil PRS, Computing Laboratory
+St Cross College, Oxford

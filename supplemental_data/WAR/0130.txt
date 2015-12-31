@@ -1,0 +1,134 @@
+Weekly activity report no. 20100401.2343 (GMT-7) sequence no. 0130, week -2 TT
+
+I submitted my paper to the VALID 2010 conference in advance of the
+deadline.  The conference organisers keep making changes to the CFP
+at the last minute, most recently extending the deadline to 5th April
+because of Easter.  On 28th March a new set of Instructions to Authors
+was posted with requirements for the formatting of references, number
+of columns (IEEE style) and rules for use of abbreviations in the text.
+I followed their specifications exactly.  Dr Martin read the paper
+and made suggestions including that I should submit the paper in the
+work-in-progress category.  The organisers encourage submission of
+work-in-progress papers and said they will be peer-reviewed, will be
+published in the proceedings, and will require an oral presentation at
+the conference.  Notification is scheduled for 25th April; the conference
+is in August.
+
+I think the discussion of G's part (anonymised) in the first case study
+is too abbreviated in what I just wrote.  I need to make it more clear
+that their report of `not fit for purpose' that scuttled the project was
+not capricious, it was based on careful analysis with tools that no one
+else had.  They considered the larger system that S was a part of---and
+the security of that larger system directly impacted the safety of their
+own armed forces.  If my paper gets accepted I will make that change in
+the final revision, as long as the referees don't mind.  I need to ask
+Dr Martin and Dr Ashbourn for advice: is it ethical to make significant
+changes to the camera-ready copy of a paper after it has been accepted?
+The change in this case would be the addition of a sentence or two.
+The change in meaning is slight, but important.
+
+I met with Dr Martin by video teleconference on Wednesday morning.
+DIACAP certification of RM 5.0 (my second case study) is proceeding
+normally.  I have talked with three people who have been in Washington,
+D.C. over the past couple of weeks supporting the Beta 2 testing.  NSA is
+running two labs concurrently: a penetration testing lab at Ft Meade,
+Maryland and an outsourced IV&V lab in Charleston, South Carolina.
+CT&E is proceeding exactly as described in my paper.
+
+The government sponsor is reluctant to pay for having a developer
+representative present on-site the whole time during testing, so
+Lockheed has flown three different people in and out during this time.
+The IV&V contractors in Charleston are effectively re-running the Factory
+Acceptance Tests.  They have failed a lot of test procedures (all minor
+to moderate, nothing to worry about) because they keep attempting to test
+features of the software that weren't installed.  Both testing sites are
+expressing frustration that they can't test a fully configured system; the
+developer responded that they never asked for a fully configured system
+in the first place.  The developer is sending another person to D.C. next
+week to configure the Ft Meade system to be identical to Charleston.
+NMSO (the Navy funding source in San Diego, California) always waits
+until the last minute of the last day to provide funds to continue.
+All of this is the normal way that the relationship between government
+sponsor, developer, and certifiers on the programme always operates.
+
+I mentioned an interesting paper I found in PLoS Biol. last week.  It used
+a couple of statistical techniques called Egger's regression and Funnel
+Plots to look for missing data in published studies.  The researchers
+looked at the size of the error bars on published plots of data in 525
+studies and compared that to the size of the effects found.  The funnel
+plot (relating variation on the y-axis with effect size on the x-axis)
+is a cloud of points that ideally ought to have a triangular shape, since
+as variation decreases along one axis, it is expected that the size of
+the effect, whether positive or negative, nevertheless converges on the
+true value along the other axis.
+
+In some of the published studies, however, the entire left side of the
+triangle is missing.  This indicates that more data were collected than
+were published.  The authors predict the existence of 214 experiments
+that must have been performed but were never reported, because the results
+were negative or inconclusive, in addition to the 1,359 experiments that
+were reported.
+
+I am not sure if I can use this method because studies in my field
+are so primitive statistically that they almost never put error bars
+on their plots.  It is a neat analysis to read about, though, and the
+authors were very thorough with their statistics.  Source: [E.S. Sena,
+H.B. van der Worp, P.M.W. Bath, D.W. Howells, and M.R. Macleod.
+Publication bias in reports of animal stroke studies leads to major
+overstatement of efficacy.  PLoS Biol., 8(3):e1000344, March 2010.
+DOI: 10.1371/journal.pbio.1000344.].
+
+There was an interesting discussion on 31st March 2010 in Bruce Schneier's
+blog about government software assurance.
+
+I asked Dr Martin for advice on what to concentrate on next, the
+journal article for Crosstalk or methodology chapter.  He said to
+get the methodology chapter filled-in but not to spend time polishing
+it now.  Then take the material from that chapter and use it to finish
+the journal article.  For the confirmation of status I don't need an
+absolutely polished chapter, just a preliminary one, but it should be
+essentially complete.  It is more desirable to have a published paper.
+The journal article will be a longer version of the paper I just finished
+with new material derived from details in the methodology chapter.
+
+As part of the methodology, I am finalising two lists of people I
+need to send surveys to: certification & accreditation practitioners,
+and participants in the first case study.  The first thing I need to
+do now is the practitioner survey questions.  That forms part of the
+methodology chapter so it will give me a pre-written section.  I hate
+talking to people but I have to do it.  If I have any doubts about the
+design of the survey I will run it past Dr Jirotka.  I will test the
+survey on a few tame participants (I have them in mind already) before
+spamming the entire list.
+
+I have confirmed speaking slots for three talks on consecutive weeks at
+Lockheed: 9th, 13th, and 20th April on the topics of Cross Domain Systems,
+DIACAP certification, and my research.  I sent an abstract for the first
+talk to the meeting organiser yesterday.
+
+Regarding the level of language in the paper just finished, Dr Martin
+said the tone was just about right for this type of contribution.
+In a dissertation, I want to be a bit more detached.  But the writing
+style calibration process is coming along nicely.  I am approaching the
+right tone.
+
+I am on a roll and not stopping for Easter vacation.  Next meeting
+scheduled for Wednesday, 14th April 2010 at 1400 Oxford time (0700 my
+time) after Easter.
+
+Current list of tasks in order of priority, highest priority first:
+
+1. Email addresses for practitioner survey and participant survey;
+enter in SurveyMonkey.  2. Methodology chapter.  3. Survey questions,
+list of participants extracted from methodology chapter: send out before
+15th April.  4. Journal article (based on methodology chapter, VALID
+2010 paper and recent talks) to be submitted by 21st April.  5. Update
+dissertation outline.  6. Begin writing progress report for confirmation
+of status.  7. Fill out paperwork for UK student visa extension in April
+for June deadline.  8. Update the schedule.  9. Apply for confirmation
+of status---I want to submit the forms with written work in June.
+10. Development of accreditor information coordination tool.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

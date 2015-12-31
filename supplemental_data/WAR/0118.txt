@@ -1,0 +1,40 @@
+Weekly activity report no. 20100107.1835 (GMT-7) sequence no. 0118, week -1 HT
+
+I met with Dr Martin yesterday to go over progress and planning.
+We decided that my immediate task is to finish the methodology chapter,
+followed by the Crosstalk journal paper and get that submitted soon.
+Anticipating the Confirmation of Status report and viva is my primary
+concern at this point.  Two good publications (with results in them)
+between now and July would make for a good case at Confirmation of Status.
+We decided it would be a good idea if I gave a seminar explaining my
+methodology in Oxford as soon as possible.  I bought the plane tickets
+tonight.
+
+I will be there 18th through 21st February.  I hope that Dr Martin and Dr
+Ashbourn will be able to meet with me Thursday or Friday of that week.
+It is a very short trip but just enough time to see all the people I
+need to see without taking too much time away from research or getting
+distracted.  I have already asked for the Friday software engineering
+seminar slot on 19th February.  If it's not already taken, I want to
+give a talk that day to explain my methodology chapter.
+
+I am working on a new outline of the methodology chapter now.  I think
+I can give an interesting talk on the problems of certification test &
+evaluation and site accreditation and how I intend to solve it.  Having a
+seminar deadline in front of me will guarantee that it gets done on time.
+
+To-Do: (1) finish outline of methodology chapter; (2) update my schedule
+and put it in front of Dr Martin for next week's regular meeting; (3)
+finish the Crosstalk paper and get it reviewed by a couple of people,
+then send to editor; (4) attack the problem of getting some measurable
+results before end of this term.
+
+Next week's meeting is not scheduled yet because I forgot to do it at
+the end of yesterday's meeting.  I will email to schedule the next one
+(to look at my schedule) right now.
+
+Status: back on track and working hard.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

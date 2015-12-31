@@ -1,0 +1,46 @@
+weekly activity report 263 (loughry)
+Joe Loughry
+Sent: 19 October 2012 03:26
+To: joe.loughry@stx.ox.ac.uk
+Bcc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	carmenmoyer@hotmail.com; chip.auten@comcast.net; edloughry@aol.com;
+	diane@dldrncs.com; joe.loughry@stx.ox.ac.uk; mmcauliffesl@comcast.net;
+	hmbjuggler@yahoo.com; tom.a.marso@lmco.com
+
+Weekly activity report no. 20121018.1924 (GMT-7) sequence no. 0263 week 2 MT
+
+I saw some notes from the ISPAB meeting in Washington, D.C. last
+week about medical device security patch compliance.  Manufacturers of
+therapeutic and diagnostic systems, the ISPAB were told, balance liability
+risk against the cost of recertification and typically come down on the
+side of prohibiting sites from updating COTS operating system software
+for fear of triggering decertification of the device---mirroring similar
+restrictions on cross domain devices rooted in analogous reasoning.
+In both instances the root cause is the cost of certification, and the
+result is the presence of more vulnerabilities in operational sites,
+thereby adding to the amount of residual risk that is hidden from
+certifiers in both the healthcare and cross domain areas and from some
+(but not necessarily all) of the accreditors in the cross domain area.
+I added it to the list of accreditor behaviour prediction scenarios and
+I am trying to figure out where it fits.  It does not exactly fit the
+mould but it might work to replace the low side accreditor in a cross
+domain system accreditation with an attacker in the health care scenario.
+
+This week I had a discussion with a cross domain solutions programme
+manager at one vendor about remote system security assessment tools.
+I proposed a SCAP-compliant common interface for reporting C&A evidence
+that would work like SNMP but would return an fMRI.  We talked about
+authentication requirements on that console and NSA's RSSA project that
+uses Python.
+
+My remote access and email accounts have been renewed by OUCS for the
+duration and I am registered.  I worked on the methodology chapter that
+has been hanging fire while I concentrated on the accreditor security
+argument.  I have a meeting with Dr Fléchais booked Monday.  I am
+thinking about my schedule for finishing.  I need to complete chapters
+3 and 6 with the new information before going back to finish 4 and 5.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

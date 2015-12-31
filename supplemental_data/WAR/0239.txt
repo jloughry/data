@@ -1,0 +1,27 @@
+weekly activity report 239 (loughry)
+Joe Loughry
+Sent: 04 May 2012 03:10
+To: Joe Loughry
+
+Weekly activity report no. 20120503.1941 (GMT-7) sequence no. 0239, week 2 TT
+
+Intently concentrating on CS-1 data for the data analysis this week.
+I have 2,438 more files to examine on CS-1, most of them not relevant
+to the project; after throwing out duplicates, 4 percent are found to be
+relevant, although I expect that rate to increase greatly as I get closer
+to the present.  Coding of items in ATLAS is done during breaks from
+looking at evidence files, or any time thoughts about events seen in the
+evidence occur.  Robert L. Glass sent me another reprint, this one from
+1993, and referred me to a parallel situation in chapter 2 of a recent
+book.  I have thinking forward to the model building stage of the GTM.
+That will not occur until after coding and network relations are done,
+but I am thinking about it as I go along.  Must finish coding items first.
+I am still listing behaviour patterns in the CS-1 event log that match
+or are absent from the sequence of CS-2 events.  Status: working on two
+data analyses and avoiding distractions as much as possible.  Estimated
+completion date of data analysis is still the fourth week of May.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+ 

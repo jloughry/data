@@ -1,0 +1,70 @@
+Weekly activity report no. 20071115.1419 sequence no. 0008 week 6 MT
+
+Primary activity this week: attending Safety Critical Systems (SCS) course all
+week.  The instructor was outstanding and I thoroughly enjoyed the course.  I am
+looking forward to completing the assessment.
+
+Planned activity next week: attending the Specification and Design (SDE) course
+all week.  I have been reviewing Z and predicate logic prior to the course.
+
+Upcoming activity: Design for Security (DES) course in December.  I have got the
+reading materials to review before the course starts.
+
+Meetings:
+
+1. I met with Dr. Martin yesterday and asked for some advice.  The problem with
+advice is that you don't really know you need it until you've had some
+experience.  My experience is that I was getting highly stressed about exams
+coming up---particularly about Computer Aided Formal Verification---and feeling
+like I don't understand how the University works.  Dr. Martin gave me some good
+advice and explained a few things:
+
+  a. I ought to stress less about exams; concentrate on learning the knowledge I
+need for the DPhil and for writing a transfer report.
+
+  b. It's all right to sit in on lots of different taught courses; it is not
+necessary to take the final exam unless you want it for credit.
+
+  c. My programme does not have required core courses.  I am required to
+complete approximately four MSc-level courses during the first year (before I
+can write the transfer report), but it is not necessary to do them all at once.
+ Dr. Martin recommended that I focus on Software Engineering courses, and not to
+stress out too much about CAFV.  If I am learning some useful new predicate
+logic skills from it, great.  I should continue attending lectures and keep up.
+ But if it's stressing me out and I don't feel like I've 'got' the course well
+enough to take the final exam, then don't.  I can sit in on the taught course
+again next term, or the term after that.  The Software Engineering courses (such
+as the Safety Critical Systems course that I am in this week) are sufficient to
+satisfy the requirement (once I have enough of them, obviously).  In summary, I
+am still on track to satisfy the coursework requirement, and I don't need to be
+under quite so much stress in what is only Week 6 of my first term.
+
+  d. No one completely understands how the University works.  This is normal.
+
+  e. Final projects for Software Engineering courses are due in approximately
+six weeks, not immediately after the end of the course.
+
+  f. Plan for next term: I should spend time on SPARK.  I am looking forward to
+this very much.
+
+Summary: I am going to continue attending the two other taught courses that
+started, but relax a bit and drop the exams.  It is more important to focus on
+acquiring knowledge at this point.  Keep learning, but concentrate on the three
+Software Engineering modules, at least for Michaelmas Term.
+
+2. I met with Dr. Ashbourn at St Cross, and promised to read the information
+about funding sources that she provided.  I am planning to apply for student
+loans and Dr. Ashbourn wants me to find and use non-repayment-required funding
+sources first, which seems quite reasonable.
+
+Books I am reading: _Generating_Software_From_Specifications_ (Kastens, Sloane,
+and Waite: Jones and Bartlett, 2007); and _Programming_in_Haskell_ (Hutton:
+Cambridge Univ. Press, 2007).
+
+All: Thanks for your time reading this long and rambling status report.  I feel
+better now.
+
+-- 
+Joe Loughry
+DPhil PRS, Computer Science
+St. Cross College

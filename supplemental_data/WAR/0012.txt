@@ -1,0 +1,22 @@
+Weekly activity report no. 20071213.1335 sequence no. 0012 week 10 MT
+
+I have been attending the Design for Security (DES) course all week.  It is an
+interesting course, and I have picked up a few new techniques.  Note: I am not
+planning to do the assignment for this course, however (I need to concentrate on
+assignments already received for SCS and SDE).  This is in accordance with the
+previously agreed plan.  Based on what I have learned in DES, I think I would
+like to take PAS (People and Security) when it is offered next time (it sounds
+interesting).
+
+No regular meeting with Dr. Martin this Wednesday, due to being in class all week.
+
+Upcoming Tasks: I need to schedule an in-depth meeting with Dr. Martin to go
+over plans for next term, probably right around the first of the year.
+
+Current Activity: I am working on assignments for the SCS and SDE courses, due
+in a couple of weeks.
+
+-- 
+Joe Loughry
+DPhil PRS, Computer Science
+St Cross College

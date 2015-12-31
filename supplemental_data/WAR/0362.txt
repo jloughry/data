@@ -1,0 +1,22 @@
+weekly activity report 362 (loughry)
+Joe Loughry [joe.loughry@stx.ox.ac.uk]
+Sent: 12 September 2014 05:06
+To: joe.loughry@gmail.com
+
+Weekly activity report no. 20140911.1943 (GMT-7) sequence no. 0362, week 8+12 TT
+
+I had an interesting discussion with the manager of a pen test firm that
+serves mainly commercial enterprises. This person corroborated previous
+observations in the second case study about the behaviour of and controls
+applying to government security testers, viz., their operating limits, a
+range of goals across commercial vs government customers, and pen tester
+skill level. It seems to be a universal. I added this report to the
+evidence. Current activity: reading through and cutting out words that
+contribute no meaning to the argument. Still trying to work while ill;
+it has got worse and I have an appointment to see the doctor tomorrow.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+
+

@@ -1,0 +1,43 @@
+weekly activity report 324 (loughry)
+Joe Loughry
+Sent: 20 December 2013 02:44
+To: Joe Loughry
+
+Weekly activity report no. 20131219.1909 (GMT-7) sequence no. 0324, week 8+2 MT
+
+Chapter 5 is where the main application of grounded theory methodology
+is in the thesis. As it was the first time DIACAP had been applied to
+certification testing of a CDS, the selection of ICD 503 principles
+and SP 800-53 security controls was pivotal. The developer and the
+IV&V contractor collaborated on this portion at first---at the request
+of the certifier---which on the surface appears to be a conflict of
+interest but was probably justified by the location of subject matter
+expertise. At any rate, it yielded results good enough to be used; the
+resulting collection of security controls and risk management framework,
+having been validated by the first certification and accreditation by
+DISA, are de facto the new criteria and expected to be codified in the
+next update of the instruction.
+
+In claiming that the accreditor model is flexible enough to be applied to
+health care problems, consider that insurance companies act a bit like
+foreign intelligence agencies. It is not far off the mark, if you take
+into account all of their motivations. The problem reduces to an SCI-like
+or international cross domain system accreditation with non-cooperating
+data owners.
+
+I am still working on Ch. 5 including new figures where needed to show
+important relationships and justify identification of implicit information
+flows. I will email this last difficult chapter to my supervisors before
+Christmas. I went back and updated some details in Chapter 3 after I
+found comments I had left in the source of Chapter 5 on the examiners'
+criticism. I have a list of thesis components remaining to be updated,
+including CS-2, interpretation, conclusion, Appendix A, Appendix B,
+and index.
+
+Other activity: student visa paperwork delayed by other
+priorities. Working on Chapter 5 to send next week.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

@@ -1,0 +1,40 @@
+weekly activity report 328 (loughry)
+Joe Loughry
+Sent: 17 January 2014 03:20
+To: Joe Loughry
+
+Weekly activity report no. 20140116.1942 (GMT-7) sequence no. 0328, noughth week HT
+
+I got tipped to a job posting at Lockheed, a year-long contract beginning
+soon; they need two people with network security experience to travel to
+Europe in March. I have built up similar black box systems in the past;
+I called the manager but he said it has to be posted internally. If they
+decide, however, to let a short-term contract to get the project done,
+he has my contact info.
+
+I sent a proposal to the technical committee meeting at IBM in San Jose
+for the first week in February. I wrote the paper with two co-authors:
+Terence Eden and Bruce Nordman (Lawrence Berkeley National Laboratory). I
+should know by next week if the proposal is on the agenda for the first
+quarter's Technical Committee meeting; we have received a document number,
+L2/14-009. I heard back from the reviewer today that I do not need to
+travel to California for the meeting, fortunately. We wrote the proposal
+in a rush since the call for agenda items on Saturday but it received good
+reviews from the technical reviewers. I am hopeful of getting funding,
+but it will not be for a while.
+
+Back to working on Chapter 5, tonight I have been making progress on
+a new section about validating hypotheses leading to grounded theory;
+more work is needed on cleaning up network diagrams so they are readable
+when printed in the page size, and explaining relationships in the CT&E
+phase understandably. I am dropping the ST&E phase because all of it
+took place at SPAWARSYSCENLANT and I was not there; all I have is what
+people who travelled there said about it. Because of the proposal, I am
+four days behind, but I will catch up in the morning. I still plan to
+have all chapters finished before the end of the month.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+
+

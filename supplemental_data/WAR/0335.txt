@@ -1,0 +1,30 @@
+weekly activity report 335 (loughry)
+Joe Loughry
+Sent: 07 March 2014 02:31
+To: Joe Loughry
+
+Weekly activity report no. 20140306.1902 (GMT-7) sequence no. 0335, week 7 HT
+
+I will send Chapter 5 to my supervisors next week; currently I am writing
+more about formal and informal communications in the second case study
+and in earlier observations at the same facility. As soon as this chapter
+is finished and some clean-up work in the following chapters is done I
+plan to submit my thesis at the end of March. The remaining pieces are:
+
+- This chapter.
+
+- Update the interpretation in Chapter 6 (to a limited extent) to match
+the paper I presented at IEEE HST'13 in November.
+
+- Update conclusions in Chapter 7 to match Chapter 5.
+
+- Assemble the Appendices B and D, which contain the raw data needed
+for replication.
+
+The GSS report for Hilary term is done. I have an interview on 31 March
+with Google. Working to finish this chapter by the 15th.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

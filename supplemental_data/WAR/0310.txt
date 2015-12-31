@@ -1,0 +1,32 @@
+weekly activity report 310 (loughry)
+Joe Loughry
+Sent: 13 September 2013 02:15
+To: Joe Loughry
+
+Weekly activity report no. 20130912.1843 (GMT-7) sequence no. 0310 week 8+13 TT
+
+I finished making changes to the IEEE HST'13 conference paper in
+response to the anonymous referees' comments and sent a final PDF to the
+organisers this week. I had some problems getting ATLAS.ti to embed only
+Type 1 fonts in the figures I was generating with the tool, but finally
+got it to work. I spent a fair amount of time this week in ATLAS.ti,
+improving network diagrams and some of the relations and codes. This
+was prompted by rewriting that section of the conference paper where
+the referees had had questions and comments on the grounded theory. The
+theory description is much improved now, I think, and all of it is going
+straight back into the thesis. With that paper done, I am back to work
+now on post-viva corrections.
+
+I have a job interview early next week with a company that wants to
+design a new cross domain product. I can't start any new job until
+after submission, so the pressure is on. I need to work on the first
+three chapters tomorrow and finish them to give to my supervisors, then
+arrange some time with Dr Fléchais to go through the grounded theory
+complete description looking for holes.
+
+Michaelmas term (the earliest I can re-submit) begins in four weeks.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

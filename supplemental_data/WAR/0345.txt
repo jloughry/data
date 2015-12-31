@@ -1,0 +1,47 @@
+weekly activity report 345 (loughry)
+Joe Loughry
+Sent: 16 May 2014 02:29
+To: joe.loughry@stx.ox.ac.uk
+Bcc: otaschner@aol.com; anniecruz13@gmail.com; carmenmoyer@hotmail.com;
+chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com;
+mmcauliffesl@comcast.net; hmbjuggler@yahoo.com; andrea.loughry@gmail.com
+
+Weekly activity report no. 20140515.1811 (GMT-7) sequence no. 0345, week 3 TT
+
+An unexpected question arose regarding the difference between the failed
+certification and the successful one: did the large number of project
+manager (PM) changes that were observed (at least six) cause the failure
+of the first project, or were they caused by it? I initially thought
+the former, but it fails to explain why almost the same incidence of PM
+changes was seen on both sides of the certification, in two different
+organisations, with no direct connection between them. Grusky tried
+to argue something similar in 1963 but Gamson showed his postulated
+effect to be ambiguous. If I assume instead that PM turnover was an
+effect, then I could argue that it was caused---strongly related to
+the themes (1) that knowledge is a combination of belief and fact,
+(2) informal communications, even (3) forerunner communication---by (1)
+poor support of the failed project by the developer's organisation, (2)
+lack of prior experience (on the developer's side) with the activity, and
+(3) indifferent reasons on the validator's side (contracted on a cost
+plus basis), which led to repeated PM changes because the PM is always
+in possession of the best information. So PM tenure is an indicator,
+not a cause, of failures. Roles, which I spent a lot of time on, seem
+unimportant now, but informal communication channels keep turning up to
+be at least as important, if not more, than planned communication. All
+of the different themes are converging well; the explanation of why one
+project failed and the other succeeded is getting watertight.
+
+Reading group this week discussed 'OASIS: On Achieving a Sanctuary for
+Integrity and Secrecy on Untrusted Platforms' by Owusu, et al. (Berlin:
+ACM CCS, 2013). It uses a three-stage attestation protocol that is
+resistant to supply-chain attack but requires instruction set support. It
+uses cache for an isolated execution environment, requires no secure
+non-volatile memory in the CPU (avoiding process complication), but
+depends on a linear combination of manufacturing variations for its PUF,
+a risky assumption. OASIS shrinks the TCB to the CPU without requiring
+a coprocessor, but does require trusting the CPU.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

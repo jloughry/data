@@ -1,0 +1,66 @@
+weekly activity report 246 (loughry)
+Joe Loughry
+Sent: 22 June 2012 00:33
+To: Joe Loughry
+
+Weekly activity report no. 20120621.1622 (GMT-7) sequence no. 0246, week 8+1 TT
+
+I met with Dr Fléchais this week and described new progress on figuring
+out what happened on the older case study.  I reported gaps in the data of
+the R-prime project records around 2006, and trouble I have been having
+reconstructing org charts of the developer's structure with regard to
+project manager tenure during the critical time.  In contrast with black
+and white pictures we have of classified projects in the nineteen-forties,
+recent projects risk ending up obscurely undocumented.  Declassification
+of sensitive archives later on is impossible where photographs were never
+taken in the first place.  Even a few photographs showing key people,
+details of work areas and environment---procedures exist for covering
+classified materials or putting a Post-It over the ID badges hung on a
+chain around someone's neck, but the fact that everyone wore badges on
+chains around their necks will be of interest to future researchers---this
+record is completely lacking in every classified development organisation
+I am aware of.  The few existing photographs, unclassified, are group
+shots invariably done outside the closed area in front of scenic but
+insignificant backgrounds.  Photographs showing cars parked outside a
+building on a particular date, participants at a weekly staff meeting,
+storage arrangements, or the inside of a software engineer's cubicle
+are what is needed; these can be reviewed for release or stored with a
+declassify-on date agreed to by the responsible authority.
+
+We discussed for a while the compartmentalisation effects I have been
+finding in the data.  I described what I found and what I thought it
+signified and Dr Fléchais pointed out where I was confusing certain
+qualitative differences between compartments.  I described the example
+of Clark (1972) in the 1950s and 60s in which he acted as an information
+switch---in a government office, but not as the programme office---among
+multiple contractors who were prohibited by the usual corporate and
+government security rules from communicating with each other directly
+although they could communicate freely with Clark.  On several occasions
+he made connections by telling one or another that a different researcher
+had already solved one of their blocking problems.  In contrast, Dequasie,
+writing in 1991, described compartmentalisation from the other side of the
+communication channel; Dequasie was worked for one of the Navy contractors
+at about the same time as Clark, though neither is mentioned by name
+in the other book.  In my own data, the issue of the single evidence
+developer on R-prime not communicating with his project manager because
+of small team granularity of communication is not a compartmentalisation
+issue of the same kind, in Dr Fléchais' opinion.  In a larger sense, it
+seems to me the PMO in both case studies communicates with the developer
+no more than the minimum possible, but it is not clear yet whether the
+bandwidth constraint originates in security or availability of upstream
+resources.  Evidence points to the contractor being conscientious and
+effective in following NISPOM and national security regulations.  Do FARs
+and company-specific export control penalties have anything to do with it?
+I have made notes to investigate.
+
+Skype video and audio quality on these calls continue to be very poor,
+probably because of my network connection.  We switched briefly to
+a Google+ hangout and that worked better.  I need to investigate
+whether Hangout can do screen sharing which capability I need for our
+next meeting.  I have a meeting booked for 11th July at 1400 BST, for
+a couple of hours.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

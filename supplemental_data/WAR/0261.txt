@@ -1,0 +1,46 @@
+weekly activity report 261 (loughry)
+Joe Loughry
+Sent: 05 October 2012 01:05
+To: Joe Loughry
+
+Weekly activity report no. 20121004.1512 (GMT-7) sequence no. 0261 noughth week MT
+
+I have a proof (by cases) that the accreditor model identifies a
+meaningful value for residual risk in every combination of exactly
+two accreditors each having a collateral or SCI security clearance.
+Two is the minimum number required for a cross domain system and more
+than two does not add any interesting complications (although I need
+to prove that).  International and uncleared accreditors, and sensitive
+but unclassified information are handled as special kinds of SCI.  The
+elaborated model has the advantage of encompassing Controlled Unclassified
+Information (CUI); therefore it can be used for cross domain systems that
+interface to healthcare, financial, or law enforcement domains in addition
+to classified.  In accordance with the University's policy on Intellectual
+Property (IP), I am completing forms IP1 and IP2.  Because the proof of
+the security properties of the accreditor model was needed anyway for
+Chapter 6, and all of the justification could simply be copied and pasted
+from Chapter 4, not much extra time was spent to complete the forms.
+I was provided several contact names of people I need to consult with
+before the forms are sent in.  The GSO.15 form with new final submission
+date was completed and sent to my supervisors last week.  I talked with
+OUCS about my network access expiring this week; they deferred it to
+give the college time to receive the extension notification from MPLS
+and renew my card, so I will not be without access to the library.
+
+New schedule for finishing: Chapters 4 and 5 are in outline and will be
+finished during the month of October 2012.  A more detailed schedule
+will be provided.  Chapter 7 has not been written yet but will be
+completed in early November. The appendix consists of cross references
+automatically generated into a directory of PDF files already generated
+and waiting.  The proof I am writing now is the substance of Chapter 6.
+Expected submission date of the final thesis is in the middle of November.
+Draft copies of each unfinished chapter will be provided to my supervisors
+for their review incrementally as the writing is completed.  The first
+such draft, of the new Chapter 3, will be delivered 10th October 2012.
+Current status: putting the proof into mathematical form and then to
+look for holes in my argument and make the writing as watertight as I can.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

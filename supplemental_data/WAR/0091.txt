@@ -1,0 +1,75 @@
+Weekly activity report no. 20090702.2212 (GMT+1) sequence no. 0091, week 8+2 TT
+
+I met with Dr Martin on Wednesday for our regular weekly meeting.  We looked at
+sample issues of the journal \emph{Crosstalk} and I asked some questions about
+editorial boards and peer review.  Dr Martin advised me to write the editor of
+the journal and request information about length and format requirements, then
+send the editor my abstract.
+
+The requirements engineering course last week was unlike any other requirements
+training I have seen before.  In that it dovetailed well with previous training
+because it did not repeat anything.  I got several useful new techniques out of
+the course that I can put to work immediately.  It was a worthwhile course to take.
+
+We talked about the most recent email from Dr Ian Levy of CESG.  I want to infer
+from it that official activity is still going on, although Dr Levy won't say.
+Dr Martin is less inclined to infer that.  I believe I can find out some more by
+asking other people I am in contact with, specifically whether they have heard
+about or suspect anything official still going on.
+
+Field trip is still on for next week; I managed to secure a guided tour for our
+group from the former director of the museum.  Maps and drivers are being
+arranged for next Wednesday.  So far, seven people have said they are going.
+
+I went over my task list with Dr Martin to prioritise things.  I promised to
+have a draft of the first journal paper ready for him to read in one week.  He
+mentioned my moving house and cautioned me not to let the methodology chapter
+get lost in the shuffle and not get done.  I promised to have a draft of that
+chapter written before moving day (28th July).  Dr Martin showed me a new
+feature of Google Calendar: how to use a task list with the calendar.  I am
+going to try that right away.  Since starting to use it a few weeks ago on my
+supervisor's advice I am totally dependent on Google Calendar now.  Next meeting
+scheduled for Thursday, 9th July at 11:00 a.m.
+
+Task List:
+
+1. Finish draft of first paper (currently 16 pages, needs to be shortened to 5)
+in one week.
+
+2. Contact journal editor; request submissions guidelines; send abstract.
+
+3. Methodology chapter next (due before 28th July).
+
+4. Write mid-point progress report.
+
+5. Make schedule for interviews, questionnaire, reading plan, research plan,
+writing plan.
+
+6. Write questions for interviews and questionnaire.
+
+7. Lockheed work: programme manager wants a detailed schedule for third quarter
+2009 (must be done by Monday 6th July).  I will do that on the weekend.
+
+Reading is currently on hold while I catch up on writing.
+
+Upcoming deadlines and events:
+
+ - 8th July: field trip to Station X;
+
+ - 9th July: first paper draft to Dr Martin.
+
+ - 28th July: moving day; methodology chapter draft to Dr Martin.
+
+ - 1st September 2009: plan to have first chapter peer-reviewed;
+
+ - 1st January 2010: plan to have second chapter peer-reviewed;
+
+ - 1st April 2010: plan to have third paper peer-reviewed;
+
+ - 15th June 2010: plan to have fourth paper peer-reviewed; Confirmation of
+Status report due.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

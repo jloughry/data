@@ -1,0 +1,23 @@
+Weekly activity report no. 20090108.1850 (GMT) sequence no. 0066, week -1 HT
+
+I am reviewing for my transfer viva on 16th January.  I met with Dr Martin on
+7th January during which we discussed viva procedures, preparation, strategy,
+and plans for the upcoming term.
+
+I am working on a short introductory talk for the beginning of the viva.  We
+also discussed the New Security Paradigms Workshop 2009, being held in Oxford
+this year, with regard to my submitting a paper to the workshop.
+
+I am planning to write a letter to the president of Green Hills Software, Inc.
+regarding their recent successful evaluation of INTEGRITY-178B at EAL6+.
+
+I have registered to attend an event in London next month about requirements
+changes for existing systems.  It looks like something that might be relevant to
+my research.  I heard about it from Marina Jirotka.
+
+I have Dr Martin's copy of PRG-126.
+
+-- 
+Joe Loughry
+DPhil PRS, Computing Laboratory
+St Cross College, Oxford

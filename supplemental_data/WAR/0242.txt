@@ -1,0 +1,43 @@
+weekly activity report 242 (loughry)
+Joe Loughry
+Sent: 25 May 2012 02:34
+To:
+
+Weekly activity report no. 20120524.1624 (GMT-7) sequence no. 0242, week 5 TT
+
+Misconceptions held by the CDS developer and the programme office both
+with regard to the certifier's process and procedures are evident in the
+evidence between October 2009 and approximately May 2010.  ST&E processes
+and procedures are much better understood by the developer and GPO because
+of the close working relationship among installers, IV&V, site, and the
+DAA representative during accreditation trips (physical proximity cannot
+be ruled out as a contributing factor).  Communication among developer,
+programme office, and the two independent groups comprising the certifier
+is limited to fewer and higher-level people , leading to a communication
+thermocline that always isolates a small group of people at the developer
+who are actively working on CT&E inside a bubble along with the programme
+office on one side of a barrier separating that group from the certifier.
+Communication across the barrier is both formal and informal through
+three channels: government-to-government, regularly scheduled telecons,
+and draft reports.  It is this part of the evidence I am coding in
+Atlas.ti at this time.  At the end of reading through all of the files
+from CS-1 and C-2, 26 percent, in all, were found to be relevant.  I need
+another week to work on coding.  Possibly relevant side issues that crop
+up repeatedly include the developer's information retention policy, the
+programme office's attitude toward contractor compliance with DoD 8570.01
+and the effect that had on CT&E misconceptions, longevity of experienced
+people on-programme, project manager turnover, and undependable funding;
+some of these appear in the literature.
+
+A new book on the history of defence acquisition was recently published
+by the office of historical research (Converse, 2012); I had a talk
+with the author and obtained a PDF of the whole book.  I need to have
+a meeting with my supervisors to update them on progress to plan.
+Estimated completion date of this phase of the data analysis is still
+end of May.  GSS report due in two weeks.  I will have results to report
+on the coding task in a few days.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

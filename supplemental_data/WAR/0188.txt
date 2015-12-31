@@ -1,0 +1,57 @@
+weekly activity report 188 (loughry) 
+Joe Loughry 
+Sent: 13 May 2011 02:15  
+To: Niki Trigoni; Andrew Martin; Joanna Ashbourn  
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; hmbjuggler@yahoo.com;
+	tom.a.marso@lmco.com  
+
+Weekly activity report no. 20110512.1520 (GMT-7) sequence no. 0188, week 2 TT
+
+Presently adding new material from earlier papers into chapters 1, 2
+and 7.  The inter-accreditor communication model is separable from the
+risk market concept and fits well into the motivating example section near
+the beginning of the dissertation.  Further, it presents a supporting
+contribution in evidence of the main thesis early on to the reader.
+In contrast, the `overlapping domains of responsibility and authority'
+example from VALID 2010 is more descriptive in nature and is explained
+in a later chapter, although it may be shown briefly in the first chapter
+in support of the main argument.
+
+When I got `stuck' at one point in writing this week, I went back to
+coding and categorising more of the R'' case study evidence.  I have to
+get chapters 1--3 written as soon as possible but also I need to show
+progress on the analysis in Chapter 4 for the assessors this summer.
+I owe chapters to Dr Martin more urgently.  I will work on those.
+
+Other activity: the MPLS division graduate office notified me Thursday
+that paperwork for confirmation of status had not yet been received in
+their office and I was in danger of missing the deadline; I made some
+calls and a few hours later the lost forms were found and sent onward
+with signatures intact.  All necessary approvals are in place now.
+
+I wrote some web pages for Cory Doctorow for a talk he will be giving
+in Oxford next week.
+
+In my field research, the R'' developer, to encourage uptake of DoD
+8570.01-M amongst software engineers and installers on the programme,
+has begun giving gifts to those passing the IAT or IAM Level II exams.
+This seems to be an initiative at the level of the site engineering
+manager; it not happening at the business unit level or higher in the
+building.  I recommended again to the systems engineering manager that
+the department, because it is a CDS software developer with customers
+in the defence department and IC, needs at least one more IASAE III
+certification on programme, and preferably two, to meet the minimum
+requirement.  The developer, however, is pressing for IAT Level II certs
+everywhere in hopes of claiming those are sufficient later.
+
+I will be attending the 5th UCDMO Conference, 1st to 4th August 2011 in
+Chicago, demonstrating the Air Force redaction project.
+
+Status: writing and rewriting on Ch. 1--3.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory,
+St Cross College, Oxford
+

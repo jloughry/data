@@ -1,0 +1,53 @@
+Weekly activity report no. 20100304.1832 (GMT-7) sequence no. 0126, week 7 HT
+
+I sent the GSO.17 form for retroactive suspension of status in Michaelmas
+term 2009 to Julie Sheppard.  DGS indicated that she would approve it.
+Julie offered to send the form over to St Cross College for signature,
+and I thank her for that.  Fedex reports that it got to the comlab.
+
+Reading group yesterday discussed part of a defence contractor
+report on Chinese military development of Computer Network
+Operations/Exploitation/Attack (CNO, CNE and CNA, respectively)
+capability.  Their method of using CNE together with data exfiltration
+staged across multiple servers is disciplined and corroborated by multiple
+sources.  My interpretation of the report is that it's interesting
+that the US government (1) is gathering enough detailed log files to
+permit effective forensic investigation, (2) has some very skilled people
+reading those log files, but (3) their computer networks are inadequately
+protected against intrusion, collection and data exfiltration.  Accessible
+machines are vulnerable to malware and the interior of the network is
+'soft'.  The apparent level of detail available in audit log records
+and the amount of forensic analysis going on is interesting, though.
+
+I submitted the GSS report for Hilary term today.  I reported that I
+am once again making progress, after being stuck a few months ago.
+I want to achieve confirmation of status before the end of summer.
+If I can get the VALID 2010 conference paper and Crosstalk journal
+paper accepted by then, together with a finished methodology chapter,
+introduction and literature survey chapters, plus the preliminary results
+from participants in my first two case studies, then I think I will be in
+good shape for talking to assessors in the confirmation of status viva.
+Things are coming together finally.
+
+I almost have my paper ready for VALID 2010.  The deadline for that
+is in approximately two weeks.  The second call for papers came out
+today and clarified some of the topic descriptions from the first CFP.
+I think my paper fits in the Software Testing and Validation track.  I did
+not formally meet with my supervisor yesterday (beyond a few minutes of
+informal conversation) because I want to finish writing the paper first
+in order to have concrete writing to look at, not just the outline.
+
+Current list of tasks in order of priority, highest priority first:
+
+1. VALID 2010 paper (based on preliminary results from first case
+study) due 20th March 2. Methodology chapter finished by 31st March.
+3. Crosstalk journal paper (based on methodology chapter and last week's
+seminar in Oxford) submitted by 15th April.  4. Dissertation outline
+(needed for confirmation of status).  5. Begin writing progress report for
+confirmation of status.  6. CT&E practitioner survey (need to have data
+and preliminary interpretation by end of summer) 7. Update the schedule.
+8. Apply for confirmation of status.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

@@ -1,0 +1,34 @@
+weekly activity report 358 (loughry)
+Joe Loughry
+Sent: 15 August 2014 03:50
+To: Joe Loughry
+
+Weekly activity report no. 20140814.1908 (GMT-7) sequence no. 0358, week 8+8 TT
+
+Precisely defining the characteristics of formal and implicit channels,
+so that examples of each can be justified to exist in the data. I
+compared it to the preference for two-person conversations, for when
+legal discovery is undesirable, in situations where some kinds of email
+or putting anything in writing is discouraged (Zawinsky). The total
+information exchanged through implicit channels (developer-to-developer,
+developer-to-tester, tester-to-developer, certifier-to-developer;
+and accreditor-to-accreditor, in the case of SCI-like ST&E) is much
+more important to a successful outcome than formal channels (which are
+necessary but not sufficient); I can show the lack of implicit channels
+in R-prime, now, in contrast to the formal channels, which were nearly
+perfect. The argument is really coming together.
+
+I was contacted by a manager at Booz Allen about a job in Colorado
+Springs they are trying to fill; they are looking for someone with close
+to my experience and qualifications. I gave the manager a résumé and
+described in outline my research results. They declined to name the
+specific programme but wanted to know if I had ever worked on certain
+USAF Space Command programmes (I have) and could support research on
+emerging technologies, and be the primary author of reports.
+
+Status: I need one more week on Chapter 5 and it will be ready.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

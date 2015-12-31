@@ -1,0 +1,113 @@
+Weekly activity report no. 20100114.2300 (GMT-7) sequence no. 0119, noughth week HT
+
+I met with Dr Martin yesterday to discuss my thesis statement and
+methodology.  It was a good meeting that accomplished a lot.  I will
+describe in this report what we talked about.
+
+Background: last week GSS reports came out, and this term's report had the
+`with concerns' box ticked---as it should have.  Lockheed took up way
+too much of my time in Michaelmas term, and this affected my progress.
+The result was that I got stuck throughout the holidays and didn't make
+any progress.  I'm concerned too about my lack of progress last term,
+so I was relieved to see it when Dr Martin ticked that box, even though
+it probably raises a flag to the Director of Graduate Studies (DGS).
+
+I started off by asking about the GSS report, and whether
+Prof. Kwiatkowska [note: DGS] had read it, and whether I should plan
+on having a talk with her when I am back in Oxford in a few weeks.
+Dr Martin said she probably has not read it yet, but I should definitely
+have two things with me if and when I meet with her: some real progress
+to show off and a definite roadmap.  I appreciate that; I will follow
+Dr Martin's advice and have them both ready.  It shouldn't be a problem
+now that I have got back on track and moving forward again.
+
+Next we looked at my methodology outline, which I attached to the meeting
+agenda I sent out beforehand.  I showed my current thesis statement and
+asked for some help.  Dr Martin did an interesting thing then: he asked me
+to state, in five or six sentences, what problem I was trying to solve.
+Just state it.  I gaped for a bit on the video teleconference, then just
+said it.  Five or six carefully phrased sentences just came out:
+
+    It is widely acknowledged that information security Certification
+    Test and Evaluation (CT&E) is expensive in terms of time, number of
+    people required, and duplicated effort.  That high cost makes CT&E a
+    special event that is not done often, either because fewer systems
+    requiring CT&E are made, or because not all of them are tested, or
+    because the ones that are made are tested less often.  Defence in
+    depth is a well-established principle of infosec engineering,
+    but people confuse the duplication of effort in CT&E with defence
+    in depth.  The massive overexpediture of time and effort does not
+    yield an attendant increase in security.
+
+That's a pretty good thesis statement, said Dr Martin.  (I was surprised
+and very pleased to hear him say that, because I've been struggling with
+getting to a good thesis statement all this time.)  I protested that
+it lacks a theoretical component, and we talked about that for a while.
+Dr Martin gave me some good concrete suggestions of places I can look to
+maybe find a theory that can be adapted to fit.  He suggested that I look
+for criticisms of the Common Criteria, at the safety critical literature,
+and at ISO 9000.  I have more detailed notes of this conversation in
+my lab notebook and I am starting to track all those down.  Dr Martin
+further advised that I go look at old DPhil dissertations in the Comlab
+for their thesis statements.  Many aren't any more concise than mine is.
+I have a thesis!
+
+Next we looked over the outline of my methodology in detail.  Dr Martin
+asked me to change it around a bit to make explicit the objective of
+the steps in the methodology.  Tell the reader up front why I am doing
+these particular high level steps in my methodology.  Look at how it
+recursively decomposes and present the information in a logical sequence
+without burying the important information at the end.  It's interesting
+what you are doing here---show the reader how interesting it is.
+
+I am remembering again why I was so excited in the first place, about
+what a cool technical problem this really is.  I want to know what the
+answer is.  I can communicate that sense to the reader in the way I
+write the methodology chapter.
+
+Once the methodology chapter is written, which I need first because I
+already volunteered to give a talk in Oxford on 19th February about it,
+that will also be most of the Crosstalk journal article written right
+there.  The remainder of the journal article is already written in the
+guise of the poster I wrote last term.  Once the methodology chapter
+is written, which will be in another week or two, I can complete the
+journal article quickly thereafter.
+
+For the rest of this week I am searching around for a theory (or at
+least an axiom or two) that I can adapt to my thesis.  I am continually
+expanding the level of detail in my methodology outline and getting ready
+to sit down and write it.  My deadline for writing the methodology chapter
+is the middle of February when I will be in Oxford and I volunteered to
+give a talk on it to the software engineering department.  (I will have
+to leave some time to make slides and write a presentation before then
+as well.)  I am on a roll so I am not going to spend any time updating
+the schedule until I have the chapter written.
+
+Next meeting: Monday 18th January 2010 at 1400 Oxford time.
+
+Status: feeling pretty good and making progress.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford
+
+weekly activity report 119 (loughry)---addendum
+Joe Loughry
+Sent: 15 January 2010 08:46
+To: Niki.Trigoni@comlab.ox.ac.uk; Andrew Martin; Joanna Ashbourn
+Cc: andrea@hpwtdogmom.org; Joe Loughry; mmcauliffesl@comcast.net
+Attachments:
+
+I should explain (it's very late and I wasn't being clear) why I am
+looking for a controlling theory.  It is not just because I think my
+thesis needs a theoretical aspect.
+
+I think there is a controlling theory, a thread that runs through the
+whole gamut of certification test and evaluation, something that I
+haven't found yet.
+
+That's what I meant I'm looking for.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

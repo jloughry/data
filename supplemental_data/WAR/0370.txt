@@ -1,0 +1,24 @@
+weekly activity report 370 (loughry)
+Joe Loughry
+Sent: 07 November 2014 04:49
+To: Joe Loughry
+ 
+Weekly activity report no. 20141106.1945 (GMT-7) sequence no. 0370, week 4 MT
+
+I had to go back to the raw data looking for quotations that indicate
+developers and certifiers' tolerance for residual risk and/or suggesting
+the lengths they are likely to go to in order to address threats or
+vulnerabilities. Examples of several different types have been found,
+although there are not really enough instances of each to call them
+classes. I do compare most to a previous example in the literature. I am
+working in the library every day. If not pulled away from this, I expect
+to have it done by 19th November. Reading Group meets tomorrow to discuss
+a paper from Newcastle describing a method for uncovering gaps in protocols
+and a vulnerability they discovered in VISA contactless cards (ACM CCS'14,
+to appear).
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+
+

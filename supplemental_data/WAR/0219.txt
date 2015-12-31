@@ -1,0 +1,78 @@
+weekly activity report 219 (loughry) 
+Joe Loughry 
+Sent: 15 December 2011 22:02 
+To: Joe Loughry 
+ 
+Weekly activity report no. 20111215.1433 (GMT-7) sequence no. 0219, week 8+2 MT
+
+I have a provisional solution to the problem at the core of my thesis.
+The SCAP protocol (NIST Special Publication 800-117) that I have been
+researching for the R'' developer has some applications to certification
+testing.  CDS developers and evaluators haven't figured it out yet,
+but a SCAP-compliant CDS is capable of reporting SP 800-53 security
+controls in such a form as to facilitate Beta 1 and Beta 2 (IV&V)
+type testing.  I ran the idea past Dr Martin in a meeting Thursday.
+In the same meeting, I drew an analogy to one of the findings in
+the third Interim Report of the Air France 447 mishap investigation
+board; I speculated that in the literature of Crew Resource Management
+(CRM), principally developed in response to Eastern Air 401 in 1972,
+I might find a useful model for explaining the events of CS-2, which
+not unlike AF 447 flew a structurally sound and perfectly functioning
+system into the ground.  The developer and validators in CS-2 similarly
+had a reliable and well-tested system, but failed.  Dr Martin encouraged
+me to follow the SCAP insight, because it is a solution to the problem,
+but not to spend more time on the CRM idea, which is just an analogy.
+I reported that I have been continuing to work through familiarisation
+with the ATLAS.ti software, interrupted by some necessary paperwork for
+health care insurance, but I should be proficient with ATLAS.ti after
+this weekend.  I need to checkpoint the SCAP idea in enough detail that
+I can pick it up later, after I finish coding CS-1--3.
+
+I reported that the Air Force has put forth 6.3 funding for a follow-on
+to probabilistic redaction, to take the system to accreditation; I felt
+responsibility to help write a report for the PM who is going after that
+proposal.  My college called to say they've received the GSO.15 form for
+extension of time, but requested more detail on my schedule for finishing.
+I sent the requested information to the academic affairs office in time
+to get it processed before my Bodleian card expires.
+
+Of seven chapters (plus appendices) in the Table of Contents, my current
+task, under way now, is coding of Case Study 1 (CS-1) observations
+into the ATLAS.ti software.  Size of task: 1195 events, 163 meetings,
+involving 48 individuals.  Status of task: some entered, but I am still
+learning what are the important connections to make.  I estimate that
+completion of this task and the writing and approval of Chapter 3 will
+be done by 15th February.  The second largest task is the coding of
+CS-2 and writing of Chapter 4; this is expected to go more quickly and
+it is a smaller data set, so I plan to finish Chapter 4 by 10th March.
+CS-3 will commence 11th March and finish 30th March with a completed
+Chapter 5 by 1st April.  Chapter 6, describing a solution to the problem
+based on SCAP, will be completed before the beginning of week 1 of Trinity
+term, 22nd April.  Chapters 1 and 2 are already written. I plan to write
+the Conclusions chapter and assemble the appendices for submission and
+examination in Trinity term.
+
+The GSO.15 form instructions do stress that only one term of extension
+should be applied for at a time, and I am following that recommendation.
+
+Schedule:
+
+15 Dec--15 Feb: coding of first case study in ATLAS.ti; write Chapter 3.
+
+16 Feb--10 Mar: coding of second case study; write Chapter 4.
+
+11 Mar--1st Apr: coding of third case study, analysis of all three case
+studies; write Chapter 5.
+
+2nd--22nd Apr: Chapter 6: A Solution to the Accreditation Problem
+Using SCAP.
+
+23rd Apr--6th Jun: Chapter 7 and appendices; submission of thesis to
+the examiners.
+
+I have another supervisor meeting scheduled for 21st December.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

@@ -1,0 +1,88 @@
+Weekly activity report no. 20071011.01 sequence no. 0003 week 1 MT
+
+All of these reports are archived and will be available on my status
+website, which is not running yet.  The website, when I get it going,
+will display up-to-date status indications (green/yellow/red) of my
+state in several key areas: coursework, schedule, funding, deliverables,
+exams, and resources.  If anything goes yellow or red, you'll see it
+quickly.  Deliverables I have promised by a particular date, as well as
+resources that I'm waiting on or can't find, will be listed, and you can
+drill down for historical information.  Think of it as your dashboard
+instruments for keeping an eye on my operation.  I will provide a URI
+soon along with a digital certificate so you can connect.  Hours on task
+this week (scaffolding): 4 or 5.
+
+Lectures: I am attending lectures on Functional Programming (Bird) and
+Computer-Assisted Formal Verification (Melham).  I picked these courses
+in consultation with Dr. Martin because the first one covers Haskell,
+which I wanted to learn, and the second one covers SAT and model
+checking, which I need to learn.  Both lectures are going fine.  Classes
+and practicals will be starting up next week.  Hours on task this week:
+about 6.
+
+I attended the required Learning and Teaching seminar in the comlab this
+week.  Hours on task: 2.5.
+
+Independent Study: I want to take the Software Engineering department's
+course in Specification and Design (SDE) which doesn't start until
+November 19.  The prerequisite is Software Engineering Maths, which
+isn't offered this term, but I discussed the content of Software
+Engineering Maths with Dr. Martin and I think I can self-study the
+material (Z notation) well-enough between now and November to
+compensate.  I have bought a couple of books on Z (Blackwell's is an
+awesome bookstore), and am starting to read.  I have the exam from last
+term's Software Engineering Maths to figure my progress against.  Hours
+on task this week: only about 2.
+
+Plans: As I discussed with Dr. Martin early in the week, I want to try
+for Transfer of Status early in 2008.
+
+Registration: I need to provide to the Secretary for Graduate Studies a
+plan for courses I intend to take for the rest of the terms this year.
+I need to talk with Dr. Martin about exactly which courses I should take
+in Hilary and Trinity terms.
+
+Tuition and Fees: paid for this term today.
+
+Upcoming Meetings: I have a meeting scheduled with Dr. Niki Trigoni on
+Monday, to say hi.  Matriculation is the day after tomorrow.  I have
+dinner with the Master of St. Cross next Friday.  I have a library
+seminar to attend next Friday also.
+
+Reading: Still reading Barnes's book on SPARK (2006).  Also reading
+Tufte ("The Visual Display of Quantitative Information") which I found
+at St. Cross library, and "At the Abyss: An Insider's History of the
+Cold War" by Thomas C. Reed.  Hours spent on task: about 10.
+
+St. Cross College: I went to Hall for the first time last night, and met
+my Senior Mentor and St. Cross, Dr. Joanna Ashbourn.  After last night's
+conversation, I am going to copy her also on these weekly status emails.
+
+Other Projects: I have been asked to lunch with the St. Cross College
+Archivist, and Dr. John Tiffany, about a question I had about the St.
+Cross shield (heraldry).  There is actually a formal specification
+aspect to all this---I'll tell you about it later.  Meanwhile, I need to
+get access to the archives, which requires a letter from my supervisor,
+so I will get that to Dr. Martin to sign.  Hours spent on task: 0 so far.
+
+Office and Computer in the Comlab: I met John, my officemate, and found
+out that I am in Room 426.  I will get a key for it tomorrow.
+
+Outside work: I have joined two working groups of the Trusted Computing
+Initiative organization (Authentication Working Group, and
+Virtualization Platform Working Group) in order to participate and to
+get access to TPM (Trusted Platform Module) chip specs and information.
+ This is actually part of my day job.  Lockheed Martin hours billed this
+week: 18 hours.
+
+Upcoming Travel: I have to be out of the U.K. on business for a few days
+during the first week of December.  I hope this won't interfere with
+exams, but if it looks likely, I will start talking to people early
+enough to schedule around it.
+
+Joe Loughry
+D.Phil PRS, dept. of Computer Science
+
+CC: Andrew Martin <Andrew.Martin@comlab.ox.ac.uk> (supervisor)
+    Niki Trigoni <Niki.Trigoni@comlab.ox.ac.uk> (advisor)
+    Joanna Ashbourn <joanna.ashbourn@stx.ox.ac.uk> (senior mentor)

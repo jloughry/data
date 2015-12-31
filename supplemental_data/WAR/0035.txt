@@ -1,0 +1,15 @@
+Weekly activity report no. 20080529.2336 sequence no. 0035 week 6 TT
+
+Working on first draft of Transfer Report according to the agreed-upon outline.
+
+I have been cited!  In Ross Anderson's new book on Security Engineering, on page
+543.  I got a whole paragraph, and my name in the index (for work that I did a
+few years ago at Seattle University).
+
+I attended several outside lectures; always looking for useful techniques of
+research, maths, or presentation.
+
+-- 
+Joe Loughry
+DPhil PRS, Computing Laboratory
+St Cross College, Oxford

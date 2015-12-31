@@ -1,0 +1,29 @@
+weekly activity report 225 (loughry) 
+Joe Loughry 
+Sent: 27 January 2012 04:04 
+To: Joe Loughry 
+
+Weekly activity report no. 20120126.2025 (GMT-7) sequence no. 0225, second week HT
+
+I am working on a draft of the entire dissertation from beginning to
+end.  I need to see where everything is and where all the pieces fit.
+Activity this week should have been entirely devoted to coding in
+ATLAS.ti, but I got distracted.  I will catch up for the lost time.
+
+Reading Group this week was to go over the paper by Stefan Viehböck,
+titled `Brute forcing Wi-Fi Protected Setup', but due to wide interest
+and many people being out of town it was postponed.  Dr Martin and I were
+both on the line, however, so we had an unscheduled meeting.  There are
+unanswered questions in Viehböcks's paper; I bought a copy of the Wi-Fi
+Simple Configuration Technical Specification Version 2.0.0.  I can verify
+details of the WPS protocol for members of reading group next week.
+
+Google+ Hangout is a superior video conferencing tool, more reliable
+than Skype.
+
+I will meet with Dr Fléchais tomorrow morning.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

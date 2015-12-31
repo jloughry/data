@@ -1,0 +1,29 @@
+weekly activity report 338 (loughry)
+Joe Loughry
+Sent: 28 March 2014 03:11
+To: Joe Loughry
+
+Weekly activity report no. 20140327.2036 (GMT-6) sequence no. 0338, week 8+2 HT
+
+I am still working on condensing the time line in Chapter 5 to fit in 30
+or 40 pages. Status: CT&E phase (Beta I) is done up to the point of the
+second funding crisis in which the government programme office started
+cutting travel hours for the developer's software engineers; this was
+coincidentally at the same time as the government security testers got
+into a spat with the developer over pen test findings, but the focus at
+the time was all on progress of regression testing in Charleston and the
+significance of that report was not recognised yet by either the developer
+or the certifier. ST&E (Beta II) at STRATCOM was much shorter and will go
+quickly once I finish this part, but I have lots more data related to Beta
+I (as well as interpretations) and want to include it all. Interleaving
+of interpretation as discussion near the point of data is working well; I
+am making good progress on the condensation task and should be done soon.
+
+I have an interview Monday with Google; I have been preparing for it
+with some review of data structures & algorithms and CS 101 exercises,
+as recommended.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

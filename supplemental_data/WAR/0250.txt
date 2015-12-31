@@ -1,0 +1,47 @@
+weekly activity report 250 (loughry)
+Joe Loughry
+Sent: 20 July 2012 00:25
+To: Joe Loughry
+
+Weekly activity report no. 20120719.1549 (GMT-7) sequence no. 0250, week 8+5 TT
+
+In a discussion this week, someone mentioned an old proverb related
+to negotiation suggesting a plausible explanation for something I've
+observed in the data in a number of places.  In certification testing
+during the Beta 1 phase, both regression testers and pen testers
+issue a series of finding reports; as described before, the range of
+regression testing is circumscribed by functional requirements and
+test procedures resulting in an upper bound on the number of findings.
+Pen testers, however, are not constrained by functional requirements
+and indeed properly extend the system under test to include connected
+endpoints during Beta 2 phase.  Combined with the previously offered
+isomorphism to covert channel analysis, the qualitative differences
+between contractor regression testers and professional security testers,
+the positive feedback mechanism identified in the accreditor model,
+and negative feedback control from funding, the number of finding
+reports issued by the pen testers is potentially unlimited but observed
+to stop.  It was thought until now that the number of finding reports
+issued was controlled solely by funding, but a supplemental hypothesis
+suggested itself---one that is easily tested.  I have been looking at the
+sequence of preliminary and final finding reports and the developer's
+formal responses to those reports, during Beta 1 and Beta 2 phase, to
+determine if it is true that a response always prompts a new report.
+The proverb suggests it will happen (I have been unable so far to locate
+a published source to cite for the rule) and it fits the accreditor model
+of benign oversight by the DAA of the process of building up assurance
+in the security of the system to the level where the DAA is willing to
+formally accept responsibility better than purely funding control does.
+Pulling data to test the hypothesis now.
+
+Putting ALL the threads of the grounded theory that I have so far onto
+a single page that shows how all interconnect is tricky.  I'll report
+success when I have the process of transforming my HTML theme file
+networks into Dot files working fully.  I am making continual small
+changes to the format as needed to represent all the data in CS-1
+and CS-2.  Meanwhile I helped out Mingqiu Song and Shamal Faily this
+week with some things they needed.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

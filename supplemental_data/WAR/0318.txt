@@ -1,0 +1,30 @@
+weekly activity report 318 (loughry)
+Joe Loughry
+Sent: 08 November 2013 06:53
+To: Joe Loughry
+
+Weekly activity report no. 20131107.2328 (GMT-7) sequence no. 0318, week 4 MT
+
+I made good progress this week on writing, adhering to the discipline of
+committing changes to GitHub every day. I improved the description of my
+thesis and tied each point to a specific contribution and then that to
+a specific page or section where the assertion is justified. I am still
+keeping track in a time log of exactly how every hour of the day is used.
+
+I want to suggest a long paper for the next Reading Group. `Decentralized
+Anonymous Credentials' by Christina Garman, Matthew Green, and Ian Miers
+(IACR eprint 622, October 15, 2013) proposes trusted-authority--less
+anonymity or pseudonymity using a Bitcoin-like distributed ledger. I
+think it might be as important as fully homomorphic encryption, but I
+haven't finished understanding the authors' argument. The paper might
+have to be split over a few weeks because of its size. I have been
+concentrating on thesis work instead of reading the article.
+
+I will be on travel next week 11--15th November in Boston presenting at
+the IEEE HST'13 conference. I will be working all week and still intend
+to have the thesis finished and submitted before end of term.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

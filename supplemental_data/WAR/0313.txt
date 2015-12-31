@@ -1,0 +1,24 @@
+weekly activity report 313 (loughry)
+Joe Loughry
+Sent: 04 October 2013 01:41
+To: Joe Loughry
+
+Weekly activity report no. 20131003.1814 (GMT-7) sequence no. 0313, week -1 MT
+
+Continuing to work on the same list of tasks as last week, I am not done
+removing extraneous PDF files from the evidence directory yet but hope
+to have that done Friday. I proposed an article for the next Reading
+Group on the topic of performing computations in between instructions on
+x86 processors by means of crafting only well-formed page table entries
+and then alternating between single and double fault traps (Bangert, et
+al., WOOT'13). The technique employs a disused hardware task switching
+mechanism that is nevertheless still present and demonstrates that shadow
+computation is possible below the instruction dispatch layer. I spent
+some time this week on student loan and visa issues that are catching
+up with me; I am working as hard as I can to finish my thesis during
+the beginning of this term. Michaelmas term begins in about ten days.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

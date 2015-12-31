@@ -1,0 +1,31 @@
+weekly activity report 226 (loughry) 
+Joe Loughry 
+Sent: 03 February 2012 01:30 
+To: Joe Loughry 
+
+Weekly activity report no. 20120202.1752 (GMT-7) sequence no. 0226, third week HT
+
+I met with Dr Fléchais via Skype on Friday and Monday this week.  We did
+a shared session, coding several pieces of my CS-1 evidence through screen
+sharing.  Dr Fléchais gave me advice on how best to use the tool, what
+features to ignore.  I tried different ways of loading the whole corpus
+into ATLAS.ti; the software doesn't like it at all when Primary Documents
+change---it can cause codes to become misplaced.  Loading everything as
+a single file did not work either when I tried it because of too much
+unrelated information.  Instead, I spent the last few days running sed
+scripts over the corpus and generating many small PDF files.  The PDF
+files will never change, making them suitable for coding and archiving.
+Because the files are individually tagged, it makes sifting out the
+chaff much easier.  Besides making them processable in ATLAS.ti, the
+work generating them will pay off when I have to defend the analysis
+in the viva.  I am now coding each item.  After a complete pass through
+the CS-1 data, I will share a copy of the HU with Dr Fléchais.
+
+Miscellaneous: I did not attend Reading Group this week but sent ahead
+some notes on the WPS specification.  The UCDMO has a new Director,
+and DoD 8570.01-M Change 3 was finally released.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

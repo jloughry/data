@@ -1,0 +1,37 @@
+weekly activity report 255 (loughry)
+Joe Loughry
+Sent: 24 August 2012 06:45
+To: Joe Loughry
+
+Weekly activity report no. 20120823.2313 (GMT-7) sequence no. 0255, week 8+10 TT
+
+I am slightly behind schedule because I kept going back over earlier
+chapters and improving parts of it every time I edited the file.
+I identified the behaviour and stopped doing it.  I am satisfied with
+Chapter 1 and can leave it alone now.  Chapter 2 is very long but almost
+done; the first two-thirds of the chapter are polished and the last third
+will be finished and delivered tomorrow.  Chapter 3 is expected to be
+not so large and I will be back on schedule by the end of this weekend.
+I sent the first chapter to Dr Fléchais; the literature review and
+methodology chapters will follow shortly.  The complete theory diagram
+I still owe to Dr Fléchais is not done, but the time I spent revising
+Chapter 1 helped formulate what needs to be shown on the diagram.
+I will get that figure drawn soon but I am trying to keep to schedule.
+
+Milestone 1: Chapter 1 (Introduction) due 14th August [done]
+Milestone 2: Chapter 2 (Literature Review) due 19th August [late but nearly done]
+Milestone 3: Chapter 3 (Methodology) [late but started]
+Milestone 4: Chapter 4 (Case Study of a Successful DIACAP CT&E) due 27th August.
+Milestone 5: Chapter 5 (An Unsuccessful Common Criteria Evaluation) due 31st August.
+Milestone 6: Chapter 6 (Interpretation of Results) due 4th September.
+Milestone 7: Chapter 7 (Summary and Conclusion) due 8th September
+Milestone 8: edit, rewrite, review by supervisors: last three weeks of September.
+Milestone 9: CESAR 2012 camera ready paper due 17th Sept.
+Milestone 10: submit dissertation Monday, 1st October.
+
+Status: finishing the literature review in Chapter 2.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

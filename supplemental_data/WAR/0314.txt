@@ -1,0 +1,46 @@
+weekly activity report 314 (loughry)
+Joe Loughry
+Sent: 11 October 2013 02:06
+To: Joe Loughry
+
+Weekly activity report no. 20131010.1829 (GMT-7) sequence no. 0314, noughth week MT
+
+I am done removing unneeded PDF files from the evidence directory and
+correcting the tables in ATLAS.ti. I still have to re-generate network
+diagrams and lay out the graph structure to avoid overlaps. Today I
+started going through the thesis from beginning to end, entering notes
+and changes from previous reading. If I don't run into problems in
+Chapters 3--4, I should be done writing in a few days. Michaelmas term
+begins Sunday.
+
+Reading group met and discussed 'The Page-Fault Weird Machine: Lessons
+in Instruction-less Computation' by J. Bangert, et al., from the 7th
+USENIX Workshop on Offensive Technologies (WOOT'13) in Washington,
+D.C. The consensus of those at reading group was that it would have
+won Best Paper at SOSP or USENIX and should have been published in one
+of those conferences. In the context of high assurance or multi-level
+operating systems, I raised the spectre of shadow computation, something
+nowhere discussed in the paper but which might be useful as either a
+sort of meta--reference-monitor (white hat) or for bitcoin mining. I
+verified that the disused task descriptor table exists in IA-64 processors
+but Justin pointed out that it may not in fact be usable in that mode;
+besides, some high-assurance OS somewhere (INTEGRITY-178?) might actually
+use the task-switching hardware, which would take up some of the sixteen
+available table slots but might not preclude use of the method for shadow
+computation. It is not usual to think of network packets as byte-coded
+programmes running on the TCP virtual machine, but the perspective of this
+paper forces us to think about other mechanisms that might be exploited
+in a similar way: state tables in deep packet inspection firewalls,
+or fault-recovery procedures in electric power transmission networks,
+or reference monitors in multi-level operating systems. Out-of-order
+execution logic already accounts for more transistors than multipliers
+do in recent Intel CPUs; the likelihood that exploitable weird machines
+exist ought to be enough to cause cross domain and multi-level developers
+to avoid them. With suitable controls, however, it might form the basis
+of an invisible inter-partition communication system, audit daemon,
+or reference monitor.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

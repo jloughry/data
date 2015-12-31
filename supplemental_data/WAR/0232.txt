@@ -1,0 +1,38 @@
+weekly activity report 232 (loughry) 
+Joe Loughry 
+Sent: 16 March 2012 00:55 
+To: Joe Loughry 
+Attachments:  
+ 
+Weekly activity report no. 20120315.1701 (GMT-6) sequence no. 0232, week 8+1 HT
+
+In the process of explaining the reason for them, I set down a new
+classification scheme for cross domain systems, a division not currently
+in the literature. Dividing operations around three axes of functionality,
+which I am presently unable to collapse to fewer, it helps structure
+the description of why some cross domain systems are more difficult
+to develop, test, and accredit than others.  With five weeks before
+submission, I am writing material as fast as I can for the examiners to
+read, justifying the amount of detail needed to cover the whole territory.
+I have sketched some figures to be redrawn later.
+
+Reading this week on the causes of human error, which leads to trouble
+in the certification process, and related thereto, R.V. Jones on the
+delegation of information gathering by decision makers to subordinates,
+leading to a mismatch in the understanding of the project at the highest
+levels, where the direction was being steered.  I have got to get this
+part of the dissertation right, because I'm not doing this research
+for myself; I am doing it for the cross domain system developers
+and accreditors who are depending on me to solve this problem.
+A half-solution will not be enough; they are depending on me and I
+have to get this right.  It is a major source of delay in operational
+accreditations that has got to be fixed before long.  Status: I still have
+to review remaining UCDMO presentation slides for the mandate promoting
+SCAP; I have fallen way behind on coding artefacts in ATLAS.ti because
+of wanting to write down ideas, and I need to improve entire sections
+from outline to prose.  Working on it.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+ 

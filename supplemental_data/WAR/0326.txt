@@ -1,0 +1,26 @@
+weekly activity report 326 (loughry)
+Joe Loughry
+Sent: 03 January 2014 00:07
+To: Ivan Flechais; Niki Trigoni; Andrew Martin; Joanna Ashbourn
+
+Weekly activity report no. 20140102.1528 (GMT-7) sequence no. 0326, week -2 HT
+
+The first part of chapter 5 and conclusion are done. Dissatisfied with
+the default edge labels in the network diagrams made with ATLAS.ti, I
+have been going through some of them and updating relations to have more
+meaningful labels; it makes it much easier when referring to a particular
+edge in the text. One network diagram I made without anonymised names
+is becoming a problem and needs re-making, but it contains important
+relations, and if I do it right, they should all automatically update in
+the other diagrams. Now that the holidays are over I hope to have the
+rest of Chapter 5 done in a few more days. I am working down the list
+of implicit communication channels that can be argued from interactions
+observed in the data, on validation of hypotheses, and I added two new
+context diagrams to place the developer's and certifiers' experience
+with C&A processes to show where the R'' case study happened in the
+progression from DCID 6/3 to DIACAP.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

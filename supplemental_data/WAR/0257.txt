@@ -1,0 +1,67 @@
+weekly activity report 257 (loughry)
+Joe Loughry
+Sent: 07 September 2012 02:28
+To: joe.loughry@stx.ox.ac.uk
+Bcc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	carmenmoyer@hotmail.com; chip.auten@comcast.net; edloughry@aol.com;
+	diane@dldrncs.com; joe.loughry@stx.ox.ac.uk; mmcauliffesl@comcast.net;
+	hmbjuggler@yahoo.com; tom.a.marso@lmco.com
+
+Weekly activity report no. 20120906.1616 (GMT-7) sequence no. 0257 week 8+12 TT
+
+Chapter 3 is nearly done and Chapter 4 is in progress; it is not done yet
+because I keep trying to write around forward references.  Similar to
+the way I noticed and ceased counter-productive behaviour before, I
+stopped trying to avoid forward references that might telegraph results
+or conclusions in the methodology and data chapters; I will go back and
+fix them later if I have time.  The examiners can point that out as a flaw
+in the exposition.  I cut off the literature survey after the immediately
+relevant development of certification and accreditation standards, current
+standards, and grounded theory methods; the forward references became
+a problem when it was necessary to explain why I was digressing into
+engineering failure, safety critical & space systems, financial systems,
+economics, sociology, and chemical engineering.  If I have time that
+material can go back in.  The methodology should be short and simple but
+the whole way I looked at the data changed significantly after I began.
+Describing the methodology as if nothing in the approach ever changed
+is dishonest; instead I describe how the methodology changed several
+times in pursuit of the theory I finally discovered.  My thesis allows
+developers and programme offices to predict the behaviour of accreditors
+(and hence schedule) for the first time, and that is huge.  I am trying
+to explain why it is so important, at the same time as countering every
+possible objection and arguing that the theory does explain all the data.
+
+Prompted by an email from my college, I filled out and sent a GSO.3
+form for appointment of examiners to my supervisors today.  I realise
+I am behind schedule on my writing plan.  I am trying to get caught up.
+I still expect the next two chapters to go quickly and be finished soon.
+The complete theory diagram that I owe to Dr Fléchais is not done yet
+but I worked on it last night.  I will get that figure done as soon as
+possible and sent but I am trying to get back on schedule.
+
+Other tasks: I received a reminder that the CESAR conference needs the
+final copy of their paper in ten days.  I have to make travel arrangements
+for that trip soon.
+
+Milestone 1: Chapter 1 (Introduction) due 14th August [done]
+Milestone 2: Chapter 2 (Literature Review) due 19th August [late, done,
+	not turned in yet]
+Milestone 3: Chapter 3 (Methodology) due 23rd August [late, almost done]
+Milestone 4: Chapter 4 (Case Study of a Successful Certification) due
+	27th August [late, started]
+Milestone 5: Chapter 5 (An Unsuccessful Common Criteria Evaluation) [late,
+	started]
+Milestone 6: Chapter 6 (Interpretation of Results) due 4th September
+	[late, not started yet]
+Milestone 7: Chapter 7 (Summary and Conclusion) due 8th September
+Milestone 8: edit, rewrite, review by supervisors: last 2 weeks of
+	September [reduced from 3 weeks]
+Milestone 9: CESAR 2012 camera ready paper due 17th Sept.
+Milestone 10: submit dissertation Monday, 1st October.
+
+Status: finishing Chapter 3, working on 4 and 5.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

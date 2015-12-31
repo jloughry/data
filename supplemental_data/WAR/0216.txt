@@ -1,0 +1,54 @@
+weekly activity report 216 (loughry) 
+Joe Loughry 
+Sent: 24 November 2011 21:32 
+To: Joe Loughry 
+ 
+Weekly activity report no. 20111124.1358 (GMT-7) sequence no. 0216, week 7 MT
+
+GSS report has been submitted. The CS department 2011 Student Conference
+wrapped up successfully. I submitted the SF-298 form for publication of
+the abstract and final technical report for probabilistic redaction. Two
+current proposals want to use the technology in their systems; I have
+been assisting the proposal teams to the smallest extent possible.
+
+Security Reading Group met to discuss the article `Cyber War Will Not
+Take Place' by Thomas Rid (J. Strat. Studies 2011, pp. 1--28). The author
+argues that cyber attacks are not warfare, instead falling into one of the
+categories sabotage, espionage, or subversion. He cites von Clausewitz
+repeatedly but ignores jus ad bellum and jus in bello, possibly because
+they weaken his argument. Leaving aside the question of whether the
+instrumentality of force in the furtherance of political ends must of
+necessity be destructive, an assertion I can't verify without going back
+to the original German, I argued that cyber attacks are akin to cold war:
+an endless progression of harrying, unattributable annoyances carried out
+by proxies; the differences are that this new Cold War is multilateral,
+and the proxy combatants are criminal rather than political in nature
+for reasons having solely to do with ready availability. I am not sure I
+convinced more than half the group of my alternative interpretation. I
+speculated that the article was Chapter 1 of a book we have not yet
+seen. Dr Fléchais and I disputed over whether the Enigma cracking of
+WWII was more subversion or espionage. I argued for subversion, as the
+instrumentality of the use of information gained thereby was not to
+direct attacks, but to move convoys away from the wolf packs and get
+inside the Axis military command and control. I disagree that subversion
+is necessarily less technical than sabotage. I said I thought this would
+be a forgotten paper some day, but others predicted it will be heavily
+cited---as having been wrong.
+
+I met with Dr Martin briefly after reading group. I reported little
+progress due to assisting two proposal efforts that both want to use the
+probabilistic redaction algorithm. Proposals are due to the government
+no later than 1st December, after which Lockheed will have a claim on
+less of my time. Dr Martin asked if I had talked with Dr Fléchais yet;
+I said no, but have since contacted Dr Fléchais to request a formal
+meeting to discuss how I can make better use of the ATLAS.ti software.
+
+I volunteered for next week to bring the Siri protocol analysis report of
+Applidium to Reading Group; it has some interesting privacy implications
+in addition to the technical details of the successful break of the
+protocol. The original report has since disappeared from sight.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

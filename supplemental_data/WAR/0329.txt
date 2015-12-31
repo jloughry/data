@@ -1,0 +1,25 @@
+weekly activity report 329 (loughry)
+Joe Loughry
+Sent: 24 January 2014 05:15
+To: Joe Loughry
+
+Weekly activity report no. 20140123.1708 (GMT-7) sequence no. 0329, week 1 HT
+
+My CM server failed and silently corrupted files in my thesis and
+laboratory notebook; I discovered the problem Saturday night. By midday
+Sunday I had recovered all lost data but it took until midday Tuesday to
+fully repair all repositories and restore from tape. I have instituted
+new procedures and controls to ensure it will not occur again.
+
+I sent a completed ISO JTC/1 WG 2 'Proposal Summary Form to Accompany
+Submissions' to the committee chairman for the February TC meeting agenda.
+
+I am not finished with Chapter 5 due to time consumed by data recovery. I
+did make some progress this week on partitioning network diagram
+regions into CT&E, ST&E, IV&V, developer-internal, and certification
+authority-internal groups including pen testers, CAA, and evaluators.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

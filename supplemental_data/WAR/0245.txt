@@ -1,0 +1,75 @@
+weekly activity report 245 (loughry)
+Joe Loughry
+Sent: 15 June 2012 03:48
+To: Joe Loughry
+
+Weekly activity report no. 20120614.1846 (GMT-7) sequence no. 0245, week 8 TT
+
+Looking for a formal definition of residual risk, I was forced to
+return to Vaughan's (1996) conception of 'normalisation of deviance'.
+That process, described as beginning construction of risk, followed by
+'realisation of signals of potential danger', followed by an official act
+acknowledging the elevated level of risk, a review of the evidence, and
+another official act indicating formally the normalisation of deviance,
+is mirrored in the data here by the series of project managers accepting
+slippage of deadlines in the first CT&E evidence preparation activity;
+so many software projects are delivered late that it seems nearly project
+managers and programme managers too appeared to have been at least tempted
+to conclude that it is simply characteristic of all software projects,
+therefore not a variance.  After that determination happens, further
+signals are learnt to be routine because they lie 'within the experience
+base', and management shifts over time to accepting as normal a situation
+that remains at variance with the specification.  Despite the catastrophe
+in 1986 and the subsequent awareness that years of warning signs had
+pointed to it, a similar thing occurred at NASA in 2003 resulting in
+the loss of a second vehicle and crew from a different problem but the
+same underlying mechanism.  It is apparent that residual risk must be
+calculated from the familiar aggregate risk after all feasible corrective
+actions have been taken, but not underestimating shifts in the baseline
+of the inherent risk because of living with a chronic problem for years,
+nor overestimating the effectiveness of deployed corrective actions that
+might mask inherent risk with the promise of an unvalidated solution.
+It is interesting that post-retirement examination of Space Shuttle
+fuel flow liners---an inspection impossible to perform while the fleet
+was operational---will finally yield information about the true level
+of residual risk that was calculated but remained unverifiable for
+decades (Freiherr, 2012).  It is also interesting to observe that the
+aforementioned shortcomings of project management were observed not
+to happen in the successful R-double-prime security evaluation a few
+years later.
+
+The series of project managers incumbent on the first R-prime
+certification activity were hindered in their ability to measure
+progress by a combination of poor intra-project status communication,
+constrained inter-PM status communication (limited to historical reports
+and old emails because of the lack of opportunity for the predecessor
+to brief the new one), the large communication granularity of very
+small software teams, and the previously identified mismatch between
+instructions and training.  Right now I am looking at a series of org
+chart updates from the period trying to confirm this with some kind
+of evidence.  It is clear that the routine compartmentation of projects
+in the R programme, duplicated over and over again at successive levels
+in the organisation even outside the government classified programme
+areas---probably because of the way the firm was assembled by merger
+and acquisition of subsidiaries with existing projects and multi-year
+contractual obligations---combined with inadequate project manager and
+engineer training to all contribute to the breakdown in communications
+of status information from Levels 3 to 5.  I have counterexamples from
+the literature (Clark, 1972; Dequasie, 1991) showing that government
+classification does not necessarily preclude intra- and inter-project
+communication, but it is apparent that this freedom of association seems
+to be all on the government side; this points to an improvement that could
+be implemented, but only at the classified programme offices.  The model
+now has to include the observed compartmentation and the work practices
+necessarily forced by it, in addition to the previously identified
+differences in adaptability of mature and immature organisations
+to imposed processes, and the structural complexity of cross domain
+security certification and accreditation in the presence of different
+security clearances and classifications.  I am still working on open
+coding of evidence.  Next meeting with Dr Fléchais is 20th June 2012
+at 1300 Oxford time.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

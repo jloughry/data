@@ -1,0 +1,32 @@
+weekly activity report 294 (loughry)
+Joe Loughry
+Sent: 23 May 2013 22:04
+To: Joe Loughry
+
+Weekly activity report no. 20130523.2121 (GMT) sequence no. 0294 week 5 TT
+
+Working in Oxford on network relation diagrams in ATLAS.ti for R' and
+R'' case studies with Dr Fléchais.  We found some interesting things,
+in particular successfully finding a way around a stubborn problem that
+was obscuring a complete understanding of communication patterns in
+both case studies; it turns out that by separating org chart roles from
+decisions, and unofficial communication pathways from reports, a few clear
+differences between the successful and unsuccessful case studies become
+apparent.  I am exploring that idea with the network relation tool and
+trying to uncover more evidence grounded in the data.  Another meeting
+is scheduled with Dr Fléchais in the morning.  Reading Group met this
+week to discuss experimental research methodology in cyber security and
+software engineering.  Dr Eric Werner spoke to the OUSS gathering last
+night on 'Cancer Networks', a new mathematical model for tumour growth.
+Monday evening, I attended Professor Lee Smolin's lecture on a new theory
+of time.  Tomorrow evening I will be at the Cyber Security seminar at
+the business school.  I have to leave early Saturday for travel back
+to the US; there I can finish arranging these network diagrams to fit
+clearly on pages and write them up.  I was notified yesterday that my
+proposal for a paper for the IEEE HST'13 conference (Boston, November)
+was accepted; full paper submissions are due 19th June.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

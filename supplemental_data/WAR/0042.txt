@@ -1,0 +1,26 @@
+Weekly activity report no. 20080724.2110 sequence no. 0042 week 8+6 TT
+
+I am working on the first draft of the transfer report, promised to Dr Martin
+during the first week of August.
+
+Other activity: I have been working on a proposal at work, in response to an RFP
+from the U.S. Air Force.  (Dr Martin is aware of what it is.)  The proposal was
+submitted last night.  It is for a very academic sort of research project that I
+suggested.  If we win the competition, it'll result in some published papers.  I
+got some good experience in academic writing, doing the proposal.
+
+I attended a conference in Oxford last weekend: on Global Catastrophic Risks at
+the James Martin 21st Century institute.  I learned at least two useful things
+at this conference (besides asteroid impacts, supernova radiation, global
+warming, and influenza pandemics): how to calculate conditional probabilities,
+and how to do a good presentation.  I saw some very good presentations, and a
+few not-so-good ones.  I have some specific notes on what not to do.
+
+I am dialled into the Black Hat security briefing on Dan Kaminski's newly
+announced DNS vulnerability tonight, listening to it.  Network administrators
+are going to be doing a lot of patching tomorrow.
+
+-- 
+Joe Loughry
+DPhil PRS, Computing Laboratory
+St Cross College, Oxford

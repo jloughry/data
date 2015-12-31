@@ -1,0 +1,38 @@
+Weekly activity report no. 20080905.2020 sequence no. 0048 week 8+12 TT
+
+I was at the Third European Trusted Infrastructure Summer School (ETISS) all
+week.  It was excellent: I came in as a relatively know-nothing TPM beginner; by
+the end of the week I had hands-on experience with the hardware, knew the
+designers by sight, and had learned what they think are the hard problems.
+
+The laboratory exercises for students were the biggest surprise: they will be
+highly useful to me.  The demo of booting multiple virtual Linux OS instances
+measured by the TPM chip in hardware is something I can take home with me to
+Lockheed Martin.  They will be EXTREMELY interested.  Later that night I
+experimented with the lab CD-ROM on my laptops at home, and was able to use it
+to activate and take ownership of my own TPM chip, which was very cool.  John
+Lyle's disc worked even on my weird milspec Panasonic.
+
+Bob Thibadeau convinced me about encryption in disk drives.  I was sceptical
+before, but not any more.  Paul Congdon was excellent on networks; he really
+knows his subject.  David Grawrock, Boris Balacheff, and Ian Levy are just plain
+great speakers.  I sat next to Graeme Proudler most of the time, and learned a
+lot from him.  All of the speakers were excellent.  While it's not connected to
+my thesis topic directly, what I learned during the week is directly relevant to
+my day job, and I thank Dr Martin for allowing his students to all sit in on it.
+ It was an intense week, a tonne of information.  The pub quiz questions were
+diabolically difficult.
+
+In other news, I will start working on my transfer report again and have a first
+draft soon.  I got some good ideas during the week that I want to include.  I'm
+going to submit an abstract of part of my thesis topic to the Comlab Student
+Conference (abstract is due no later than Sunday).  I am also going to put
+myself on the schedule for Reading Group to give a presentation in front of the
+group.
+
+Estimated time to completion of transfer report first draft: 12th September.
+
+-- 
+Joe Loughry
+DPhil PRS, Computing Laboratory
+St Cross College, Oxford

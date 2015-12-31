@@ -1,0 +1,24 @@
+Weekly activity report no. 20090402.2201 (GMT+1) sequence no. 0078, week 8+3 HT
+
+I am reviewing Systems Engineering books in preparation for the ISSEP
+examination coming up in three weeks.  I heard a tip that Ross Anderson's book
+on Security Engineering is a source of questions, so I'm planning to read that
+from cover to cover next.  My student loan cheque finally came through, which
+reduces the worry about finances a little.
+
+I have a meeting with Dr Martin scheduled tomorrow morning at 10:00 a.m.
+
+Upcoming deadlines and events:
+
+6th--8th April: TRUST 2009 in Oxford, St Hugh's College
+12th April: Easter Sunday
+17th April: submission deadline for 2009 NSPW
+25th April: ISSEP exam in London
+26th April: Trinity term begins
+28--30 April: Radiant Mercury User's Group (RMUG) meeting
+30th April: Infosec show (all day) in London; I am helping out
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

@@ -1,0 +1,62 @@
+weekly activity report 209 (loughry) 
+Joe Loughry 
+Sent: 06 October 2011 21:52 
+To: Joe Loughry 
+
+Weekly activity report no. 20111006.1403 (GMT-7) sequence no. 0209, noughth week MT
+
+I met with Dr Martin this week.  I reported activity since our
+previous meeting and gave a proposed timetable for completing my work.
+DGS comments on GSS reports came out this week; DGS only noted on
+my report the need for extension terms as previously agreed with the
+assessors in the confirmation of status viva.  I am still waiting for
+the paperwork to make its way to the MPLS graduate division office;
+Lucy Ronaldson in that office has told me that my student registration
+will be fixed as soon as it arrives.
+
+The timetable I gave in this week's meeting is purposefully compressed
+to try to avoid back-loading of work this time.  All known obligations
+were specified (AF contract final report and software user's guide due
+30th October, IPRB meeting teleconference 10th November, IPRB review
+materials due 28th October, and an in-person review of progress with
+both of my supervisors in Oxford in late December or early January).
+The timetable schedules work on case studies CS1, CS2, and CS3 through
+the end of January.  Tasks and due dates are to be put into a table and
+percent completion for each reported with every status report.  Dr Martin
+is concerned about the amount of analysis in my head that has not been
+written down yet; we decided it would be good for me to supply a little
+written work with every status report just to keep the writing activity
+moving.  He wants me to get all my results on paper so it can be examined
+in the viva.  The present timetable wraps up around Valentine's Day;
+I shall try to stick to it and we'll see how dates needs to be adjusted
+later.  We set a definite next meeting after reading group next Tuesday.
+
+Reading Group this week discussed the paper `The Developmental
+Duality of Information Systems Security' by Richard Baskerville
+[J. Management Sys. 4(1), 1992]. suggested by Shamal.  I joined the
+welcoming get-together for new members of the department this afternoon
+via Skype; I am interested in Prof. Creese's experience at QinetiQ on
+trusted information sharing.  I saw her in the room but was unable to
+get to talk with her.
+
+No progress yet on finding new funding at Lockheed past 1st November.
+I talked with a couple of managers and have calls into several more.
+
+Table of progress report on analyses and interpretations:
+
+Chapters 1 and 2 need the specific work as described in viva.
+Chapter 3 on CS1 current status: 50% done (needs model linking coding
+	to grounded theory).  Estimated completion date: 31 October.
+Chapter 4 on CS2 current status: 5% done, waiting until CS1 is properly
+	completed.  Estimated time to complete: 2 months.
+Chapter 5 on CS3 current status: 0% done, waiting until CS2 is done.
+	Estimated time to complete: 1 month.
+Chapter 6 and 7: current status: 5% done, waiting until end of January
+	to work on.
+
+I will attach a few thousand words of new writing to next week's report.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford
+

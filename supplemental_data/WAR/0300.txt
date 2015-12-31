@@ -1,0 +1,23 @@
+weekly activity report 300 (loughry)
+Joe Loughry
+Sent: 05 July 2013 01:22
+To: Joe Loughry
+
+Weekly activity report no. 20130704.1806 (GMT-7) sequence no. 0300 week 8+3 TT
+
+Searching out more places in the data where certifiers can be observed
+to be teaching the developers on a point of practice (there are no
+corresponding information flows in the other direction), I found more
+examples of forerunner communications. I have been working on improving
+the anonymisation of personal names and sub-groups within the developer,
+certifiers, and contractors and to a much-needed alignment of names
+between CS-1 and -2 where they share participants. I need a few more days
+to work on this. Julie Sheppard replied to my query about the examiners'
+report to say it is being processed by MPLS division and should not be
+much longer. I have not sent the new chapters to my supervisors yet but
+will before the 10th.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

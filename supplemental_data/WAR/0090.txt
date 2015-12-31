@@ -1,0 +1,51 @@
+Weekly activity report no. 20090625.2238 (GMT+1) sequence no. 0090, week 8+1 TT
+
+I have been in the Requirements Engineering (REN) softeng module all week.  It
+is a good class and well worth my time.  I learnt some specific techniques that
+will be useful in my thesis research.  The lecturers have even spent extra time
+coaching me on some other techniques from their fields of speciality that I can
+use; e.g., Professor Luff told me to look at how historians analyse documents to
+figure out what was happening when those documents were written.  Together with
+the practice I've gotten this week on interviewing, getting access, and how to
+make effective questionnaires, the whole week has been valuable.
+
+I met with Dr Martin on Tuesday for our regular supervisor meeting.  We went
+over some reasons why the planned interview with Dr Levy was quashed by CESG,
+and how I might be able to recover from that.  We went over my plans for the
+summer and my list of tasks.  I reported that I feel I am making good progress,
+working hard, although mostly on small (but necessary) things last week so I
+don't have much in the way of visible results to show for it.  I feel I am
+making good progress toward my degree goal.
+
+Next meeting: Wednesday, 1st July 2009 after reading group.
+
+TO DO:
+
+1. Work on draft of first paper, edit it, and submit!
+2. Finish methodology chapter outline;
+3. Write mid-point progress report;
+4. Plan interviews, ethnomethodological techniques, questionnaire;
+5. Reading plan for going through my historical records;
+6. Fix broken makefiles.
+
+Books I want to finish reading soon: Bock (1999) on methodology;
+
+Upcoming deadlines and events:
+
+ - 8th July: field trip to Station X;
+
+ - 28th July: moving day;
+
+ - 1st September 2009: plan to have first chapter peer-reviewed;
+
+ - 1st January 2010: plan to have second chapter peer-reviewed;
+
+ - 1st April 2010: plan to have third paper peer-reviewed;
+
+ - 15th June 2010: plan to have fourth paper peer-reviewed; Confirmation of
+Status report due.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

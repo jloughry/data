@@ -1,0 +1,18 @@
+weekly activity report 276 (loughry)
+Joe Loughry
+Sent: 18 January 2013 05:34
+To: Joe Loughry
+
+Weekly activity report no. 20130117.2217 (GMT-7) sequence no. 0276 week 1 HT
+
+Necessary progress was made this week against the following targets:
+improved contents of Chapters 3, 4, 5, and Appendices A and B.  I got
+the indexing macro working, although I am waiting to finish inserting
+commands for the index until the last build.  I will have the three
+chapters mentioned above all finished by Sunday, and then followed by
+Chapters 6 and 7 to wrap up by the 22nd.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

@@ -1,0 +1,44 @@
+weekly activity report 251 (loughry)
+Joe Loughry
+Sent: 27 July 2012 00:54
+To: Joe Loughry
+ 
+Weekly activity report no. 20120726.1619 (GMT-7) sequence no. 0251, week 8+6 TT
+
+The article 'Information Asymmetry in Classified Cross Domain System
+Accreditations' was accepted by the Computer and Electronics Security
+Applications 2012 conference to be held in Rennes in November.  The
+conference is sponsored by the French DGA.  I am making changes to the
+submitted paper to address reviewers' criticisms and use the LNCS format.
+The camera-ready copy is due 17th Sept.  The content of this paper was
+security reviewed by USG prior to submission the first time.  The only
+substantial change I am making to it is to re-draw a figure to make it
+more clear how non-hierarchical security classifications can possibly
+be compared and to provide more details about level-of-risk comparison
+where the threat environment may be very different on opposite sides.
+The reviewers called out the description of mistrust between risk managers
+in different security domains and the application of economic theory to
+the problem as strong points.
+
+Aside from that, I have been working on generating network relation
+diagrams in graphviz from coded primary docs by source number, figuring
+out how to handle anonymisation straightforwardly, some writing, and
+trying to prove the proposition that it is either the developer or the
+DAA, indirectly, who determine the residual findings that remain in the
+final certification report, and not the professional security testers.
+I am concerned about two things: falsifiability of that hypothesis,
+and level of assurance that the observed correlation is not simply due
+to chance.  The limited number of report/response cycles in the CS-1 and
+CS-2 data fixes an upper bound on the possible significance.  I have an
+idea for a time-line way of showing graphically the purported cause and
+effect relationship including how the pen testers do not control it.  I am
+working on that in parallel with finalising the primary data analysis.
+
+I still owe a one-page illustration of all the themes in the grounded
+theory and justification that the theory explains all available data to
+my supervisors.  I'll report success when I have it working in Dot.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

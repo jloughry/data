@@ -1,0 +1,28 @@
+weekly activity report 240 (loughry)
+Joe Loughry
+Sent: 11 May 2012 01:35
+To: Joe Loughry
+Weekly activity report no. 20120510.1753 (GMT-7) sequence no. 0240, week 3 TT
+
+Getting close to entering the last of the CS-1 data in ATLAS this week.
+I am presently going through meeting minutes of certifier, IV&V, and CT&E
+telecons in the R'' evidence.  Out of necessity I have begun using more
+dedicated codes for meeting dates and for proper names to enable sorting
+of expressed opinions, actions, and consequences.  Linking of dates to
+codes in a calendar is helping to keep cause and effect straight.  I have
+1532 files left to examine on CS-1; after filtering out duplicates,
+28 percent of all files processed are relevant which is 16 percent
+of the collection.  At about sixty percent of the way through the C&A
+record currently, with unclassified administrative work out of the way
+and classified findings beginning to appear in the sequence of events, I
+expect the rate of arrival of relevant items to increase for another two
+days, then stop.  Coding activity is proceeding, with spiralling being
+done to split or expand previous codes every time an improved approach
+appears.  Status: working on CS-1 and CS-2 data analyses full time.
+Estimated completion date of data analysis remains the fourth or fifth
+week of May.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

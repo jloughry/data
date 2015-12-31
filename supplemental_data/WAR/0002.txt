@@ -1,0 +1,31 @@
+Weekly activity report no. 20071004.01 sequence no. 0002 week 0
+
+These reports will be archived and available on the website, which is
+not set up yet.
+
+Orientation: I have been attending various St. Cross College, Oxford
+University, and Comlab orientations and mandatory meetings all week. 
+There will be more of the same next week.  Hours on task this past
+week: about 35.
+
+Scaffolding: I have not got much work done on computing environment or
+tools this week, but I will have that set up soon.  Hours spent on
+task: 0.
+
+Registration: I need to meet with you early next week (week 1) to
+finalize course schedule.  I want to take Functional Programming from
+Prof. Bird and the Software Engineering-specific Intro-to-Specification
+course.  We also need to talk about last term's Z exam.
+
+Reading: Still reading Barnes's book on SPARK (2006).  Also reading
+Tufte ("The Visual Display of Quantitative Information") which I found
+at St. Cross library.
+
+St. Cross College: talking with the Archivist about a possible paper
+topic.  It actually does have a formal specification aspect to it. 
+Hours spent on task: 2.5
+
+Outside work: Lockheed Martin hours billed this week: 12.5 hrs.
+
+Joe Loughry
+D.Phil PRS, dept. of Computer Science

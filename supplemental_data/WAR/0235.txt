@@ -1,0 +1,46 @@
+weekly activity report 235 (loughry) 
+Joe Loughry 
+Sent: 06 April 2012 03:45 
+To: Joe Loughry 
+
+Weekly activity report no. 20120405.1944 (GMT-7) sequence no. 0235, week -2 TT
+
+Progress on CS-1 and -2 data analysis: I am working toward getting all
+codes assigned to CS-1 (and common) data by the agreed estimate date.
+The PDF file I sent to Dr Fléchais last week was not organised;
+it contains different parts of the argument all mixed up.  I know
+I need to send my supervisors a properly arranged re-drafting next
+week; they asked for the file in progress, so I gave them that, but I
+really need to go over the whole thing and give them a clean version
+of the argument.  The structure of the dissertation is presently as
+follows: after an introduction to cross domain systems and some history,
+the data of case study 1 (how and why the DIACAP certification of R''
+succeeded) using grounded theory analysis and case study 2 (how and why
+the Common Criteria evaluation of R' failed) using the same analysis
+method, relating observed events in both projects to some applicable
+recommendations found in the literature of software engineering (software
+development, high assurance [space systems and information security],
+and safety critical systems), chemical engineering (for risk assessment
+and process plant design and operation), and organisational behaviour.
+The grounded theory is followed by a brief theoretical section showing
+how accreditor behaviour is predicted by a model.  Finally, a proposed
+solution to specific slowdowns observed in the first case study (not
+really applicable to the second case study because the R' evaluation
+did not proceed far enough) is described, using features available at
+mandated support levels of the Security Content Automation Protocol
+(SCAP) regulations for cross domain systems to be certified under DIACAP
+after R''.  The continuous thread running through the argument is that
+certain activities must happen and run to completion if this type of
+project is to succeed, whereas certain other events, if not prevented
+or stopped quickly after they begin, preclude successful completion;
+in summary, experience from other fields can be applied to this one with
+improved results.
+
+Status: coding in ATLAS.ti and writing the argument described above.
+I'll send a complete draft dissertation to Dr Fléchais and Dr Martin
+for 15th April.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

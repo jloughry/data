@@ -1,0 +1,28 @@
+weekly activity report 368 (loughry)
+Joe Loughry
+Sent: 24 October 2014 06:29
+To: Joe Loughry
+
+Weekly activity report no. 20141023.2006 (GMT-7) sequence no. 0368, week 2 MT
+
+I attended training on the latest assessment & authorisation process
+update and the Unified Cross Domain Solutions Management Office (UCDSMO)
+transition, including (finally!) commonality across FISMA, DoD, and IC
+processes using 800-53 security controls. The reason for the difference
+between SABI and TSABI requirements was explained; that alone made the
+seminar worthwhile, and cleared up a puzzling inconsistency in Chapter
+4. Working at the public library continues to be useful and I have made
+much more progress on Chapter 5. I can be reached by email outside library
+hours, but not during.
+
+The Oxford Security Reading Group started for the term. This past week we
+discussed the paper 'Deniable Liaisons' by Narain, et al. (ACM CCS'14,
+to appear); tomorrow, 'Rosemary: A Robust, Secure, and High-Performance
+Network Operating System' by Shin, et al., from the same conference, is on
+the schedule. After reading group I shall be back in the library.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+
+

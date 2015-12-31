@@ -1,0 +1,24 @@
+weekly activity report 266 (loughry)
+Joe Loughry
+Sent: 08 November 2012 22:49
+To: Joe Loughry
+
+Weekly activity report no. 20121108.1457 (GMT-7) sequence no. 0266 week 5 MT
+
+I am sick again with something else but working through it.  What I have
+been doing since meeting with Dr Fléchais last week is writing functions
+that find phrases in my data and show the connections between phrases,
+when and where they occurred in data files, who said or did it and when,
+and how that information flowed into each part of the grounded theory.
+I am using the dot language (Koutsofios, 1991) for layout and pinning
+nodes to preserve order of events.  I have a deadline this week for the
+conference presentation that I have to do in France on 20th November.
+I am on travel for the middle of next week and the following week but
+should be able to get some work done during that time.  After this
+conference presentation is turned over to C&ESAR 2012 in a couple more
+days, I will focus on writing Ch3, 4, and 5.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

@@ -1,0 +1,45 @@
+Weekly activity report no. 20091119.2143 (GMT-7) sequence no. 0111, week 6 MT
+
+I have been writing a report on the Alpha testing experience of Radiant
+Mercury (RM) 5.0 that I observed at Lockheed's facility.  It has been
+going slowly because of continually stopping to look for references
+as to when particular policy documents were signed, the relationships
+of which document authorises which, and finding out where particular
+terminology came from.  I promised this report to Dr Martin three days
+ago but I am still working on it.  Our regular weekly meeting is being
+delayed whilst I finish the report.  There is a lot of material and
+after further consideration I think it may go into my dissertation later,
+so I am going through it carefully.
+
+Lockheed have been pressuring me for more design input on the other
+project that I work on for them.  I think I can balance their needs
+with getting this report finished in the next 4 days.  I will contact
+Dr Martin by Tuesday 24th to schedule our next meeting.
+
+Graduate student term reports are due next week.
+
+Tasks (most urgent listed first):
+
+1. RM 5.0 Alpha Testing report [urgent; tomorrow if possible, otherwise
+	22nd Nov];
+
+2. Lockheed design review on Probabilistic Redaction [due 24th Nov];
+
+3. Crosstalk article [target date 30th Nov, taking into account family
+	responsibilities around Thanksgiving holiday in the US];
+
+4. Methodology chapter [needs replanning; goal is to have this written
+	and finalised before 31st Dec];
+
+5. Commence interviews on first case study [target: January; after
+	Christmas when people are available again];
+
+6. Prototype tool software development [target: beginning February after
+	interviewing people; immediate task: write requirements doc and system
+	spec first].
+
+Next meeting not scheduled yet.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

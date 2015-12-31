@@ -1,0 +1,34 @@
+Weekly activity report no. 20090416.2159 (GMT+1) sequence no. 0080, week -1 TT
+
+I traded several long emails with David Kleidermacher of Green Hills Software.
+We discussed research access, non-disclosure agreements, my thesis, and people I
+should get in touch with at Rockwell Collins, NSA, SAIC, Green Hills Software in
+Santa Barbara, California and Palm Harbor, Florida, AFRL, and the F-35 fighter
+programme office and the factory in Ft Worth, Texas.  The CEO of Green Hills, Mr
+Dan O'Dowd, is okay with me doing this research.  Later on, after I finish with
+my DPhil, I might collaborate on a book with Mr O'Dowd.  For now, I have
+research access (pending the signing of an NDA), which is what I wanted.  Still
+trying to get my arms wrapped around the size of this topic.
+
+No meeting with Dr Martin this week in honour of Easter.  I will schedule one
+for late next week.
+
+Primarily I am concentrating on studying for the ISSEP exam.  Topics are
+information system security engineering (ISSE), systems engineering, and US
+government standards for both.  It is work-related, but highly relevant to my
+research.
+
+Upcoming deadlines and events:
+
+17th April: submission deadline for 2009 NSPW
+24th April: St Cross College tour of Stonehenge
+25th April: ISSEP exam, London
+26th April: Trinity term begins
+28--30 April: Radiant Mercury User's Group (RMUG) meeting
+30th April: Infosec show (all day) in London; I am helping out.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford
+

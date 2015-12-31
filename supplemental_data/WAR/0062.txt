@@ -1,0 +1,12 @@
+Weekly activity report no. 20081211.2020 (GMT) sequence no. 0062, week 8+1 MT
+
+Back to reading this week.  Last week's software engineering Friday seminar went
+reasonably well.  I have submitted the graduate student supervision term report.
+
+Next planned activity is to continue experimenting with encoding DCID 6/3 and CC
+formatted text in s-exprs and manipulating them in that form.
+
+-- 
+Joe Loughry
+DPhil PRS, Computing Laboratory
+St Cross College, Oxford

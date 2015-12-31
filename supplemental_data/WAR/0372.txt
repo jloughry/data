@@ -1,0 +1,24 @@
+weekly activity report 372 (loughry)
+Joe Loughry
+Sent: 21 November 2014 04:00
+To: Joe Loughry
+
+Weekly activity report no. 20141120.2001 (GMT-7) sequence no. 0372, week 6 MT
+
+I did not finish writing yesterday because I was helping a family member. I
+will finish the chapter this weekend so that I can say in the next GSS
+report that it is out of the way. The GSS report is due next week. Reading
+Group met last Friday to discuss 'Interoperable Remote Attestation for
+VPN Environments' (INTRUST 2010: Bente, et al.). The system they described
+feels like it was built by a sysadmin. There was not enough detail for a
+meaningful security analysis, but the paper has merit for 'we did this and
+it worked'. At the end of the group meeting we decided it would be valuable
+to save these discussions, and I mentioned that I have extensive notes from
+approximately 43 reading group meetings going back to when I arrived. I
+agreed to give all those notes to the group, but not until later when I
+have time.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

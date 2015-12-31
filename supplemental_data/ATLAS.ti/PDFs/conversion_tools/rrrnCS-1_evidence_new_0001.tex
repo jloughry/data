@@ -1,0 +1,84 @@
+\documentclass[a4paper]{article}
+\usepackage{microtype}
+\usepackage{../../../../latex/loughry/loughry}
+\usepackage[greek,english,british]{babel}
+\usepackage{soul}
+\usepackage{xfrac}
+\usepackage{fullpage}
+\usepackage{mflogo}
+\usepackage[cyrpart]{cyrillic}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[version=3]{mhchem}
+\usepackage{cancel}
+\usepackage{chngpage}
+\usepackage{ifthen}
+\usepackage{lastpage}
+\usepackage{longtable}
+\usepackage{makeidx}
+\usepackage{nomencl}
+
+\usepackage{marvosym}
+
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{listings}
+
+\newfont{\realtiny}{cmss10 scaled 400}
+
+\usepackage{ulem}
+\normalem
+
+\usepackage[numbers,sort&compress]{natbib}
+\citeindextrue
+
+% booktabs is an improved table package.  See Fear2005 for documentation.
+\usepackage{booktabs}
+
+\usepackage[alsoload=binary,alsoload=astro]{siunitx}
+\newunit{\inch}{in{.}} % have to put full stop in braces inside \newunit
+\usepackage{textcomp}
+
+% added 20111204 for \thorn in thesis\_notes.tex:
+\usepackage{phonetic}
+
+% added 20120222.1524 for the 'comment' environment:
+\usepackage{verbatim}
+
+% added 20120519.1500 to get \varheart (a filled heart symbol) from the arev
+% font package without changing the whole math font:
+
+\DeclareSymbolFont{extraup}{U}{zavm}{m}{n}
+\DeclareMathSymbol{\varheart}{\mathalpha}{extraup}{86}
+\DeclareMathSymbol{\vardiamond}{\mathalpha}{extraup}{87}
+
+% source of the above hack:
+% \url{http://tex.stackexchange.com/questions/9641/filled-diamondsuit-and-heartsuit}
+
+\begin{document}
+
+\bibliographystyle{plainnat}
+
+
+File 20120529.1900: Notes for meeting with Dr Fl\'echais tomorrow:
+\begin{itemize}
+	\item CS-2: The $R'$ developer had no process or procedures (policies and procedures, P\&P) for
+		preparing a Common Criteria evaluation package.  This developer is normally entirely P\&P
+		driven, in accordance with ISO 9000 and SEI CMM Level 3--5 audits.  The CCTL also did not
+		impose a process or procedure beyond the formul\ae\ in CCv2.3\footnote{CCv2.1?} and that it
+		was hampered by the lack of a Protection Profile (PP).  The only guidance was the CEM and
+		the EAL.
+	\item CS-1: In contrast, the certification of $R''$ also lacked a clearly defined process and
+		procedures, in this case it was because it had not been done before, but the certifier and
+		developer were both aware of this fact and worked together to a greater extent to ensure
+		the success of the inaugural certification effort under the new criteria.  In fact, it
+		worked so well that we recommend future certifications use the same process and develop
+		policies and procedures from the observed sequence of events.
+\end{itemize}
+
+\bibliography{consolidated_bibtex_file}
+
+\end{document}
+

@@ -1,0 +1,50 @@
+weekly activity report 268 (loughry)
+Joe Loughry
+Sent: 22 November 2012 21:13
+To: Joe Loughry
+
+Weekly activity report no. 20121123.1327 (GMT+1) sequence no. 0268 week 7 MT
+
+My presentation at the 19th C&ESAR conference in Rennes, France went well.
+I gave a talk on 'Information Asymmetry in Classified Cross Domain
+System Accreditation' via simultaneous translation to an audience of
+mostly French speakers.  Half the people here seem to be from DGA-MI.
+
+I am not the only one thinking in terms of a market for risk; at least two
+different speakers from HP Labs mentioned signalling and market failure
+in the context of using TPM for cloud security.  Dr Simon Shiu from HP
+Labs in Bristol came up to me afterwards and said he liked my talk.
+He works with economists at HP and Newcastle University and got very
+excited when I mentioned information asymmetry, risk arbitrage, and
+a market for risk.  Their approach is to hedge information security
+risk by means of insurance, the problem becoming how to value risk and
+threat mitigations to correspond with amounts of insurance coverage.
+He is concerned about market failure when insurance providers refuse
+to sell insurance or cloud providers refuse to buy it because they see
+no benefit or believe they are somehow shielded.  I told him I had been
+thinking about a different problem with risk markets; that of arbitrageurs
+with options on asymmetric information who might accidentally exacerbate
+the risk environment of a cross domain system, making it worse.  It could
+happen if incentives are non-linear at extremes of scale, either in time
+or magnitude.  I got Dr Shiu's card and promised to keep in contact.
+Prof. Mark Ryan from Birmingham came over to ask me what I planned
+to do after I finish my PhD.  He told me about a startup they founded
+about a year ago, and we had an interesting discussion about patents
+and business methods.
+
+Presenters here are aware of the existence of homomorphic encryption,
+but generally dismissive of it for solving cloud security problems.
+Prof. Ryan pointed out the real problem with Gentry's FHE---which is
+not performance---rather, it hides a little too much information from
+the cloud provider, making certain types of database queries cumbersome.
+
+I got validation of the key ideas in my grounded theory.  I still owe that
+set of figures to Dr Fléchais showing how all the parts of my theory are
+grounded in the data, and a meeting as soon as I get back from travel.
+I am working on it tonight and tomorrow before I have to catch a train
+to Paris early.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

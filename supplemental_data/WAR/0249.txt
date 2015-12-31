@@ -1,0 +1,56 @@
+weekly activity report 249 (loughry)
+Joe Loughry
+Sent: 13 July 2012 02:56
+To: Joe Loughry
+
+Weekly activity report no. 20120712.1508 (GMT-7) sequence no. 0249, week 8+4 TT
+
+I met with Dr Fléchais for a couple of hours Wednesday via Google+
+hangout on video.  We went over my complete list of categories I have
+found in the codes applied to CS-1 and CS-2 from analysis of all the data
+I have.  I began by reporting results of using ATLAS.ti as a store for
+the codes associated with primary documents, but expressed frustration
+over use of the network relation editor module, which continually
+loses linkages and doesn't let me associate codes with interlocking
+themes the way I want to.  I resorted to writing descriptions in the
+DOT language because of the way I can take an existing file of text,
+filter it minimally through sed, and immediately get a visualisation of
+the network.  I described the patterns I've found as 'themes' rather
+than the usual terminology of grounded theory methodology, but this
+more accurately describes what I found in the data.  Inexperience of
+certifiers, accreditors, testers, developer, government programme office,
+and sites awaiting installation with the draft SP 800-53 security controls
+and DIACAP process as it applied to cross domain solutions is the first
+theme.  That one I knew about, but what is new is that relates to the
+policy, process & procedures maturity measure I described here earlier.
+Underfunding of the developer, and what results from it, is the second
+theme; this is newly related to scheduling of installations, enhancements,
+and certification in kind of a subtle way because it shapes some widely
+held beliefs that the developer has about the programme office, further
+suggesting a way to begin to explain a whole set of expressed beliefs in
+the data that developers have about accreditors, the programme office has
+about developers, professional security testers have about developers,
+and certifiers and accreditors have about the programme office.  The last
+theme is called 'culture of security', and the information transfer
+that occurs from professional security testers to developers, through
+leakage of the former group's store of specialised techniques through
+the channel of findings, how the store is replenished, the nature of
+the one-way information flow with an analogy to it being another cross
+domain system, and suggestions for improvement.
+
+What I have to do next is to to draw a diagram of how the themes interact
+and to look for gaps in the theory, which emerges from the data but also
+must explain ALL the data.  Dr Fléchais told me he is pleased with my
+analysis and wants to see that diagram drawn and checked for coverage
+of all the data right away.  I am working on it.  I asked for advice
+on how to handle a particular piece of data and analysis that I need to
+include but has origin, privacy, and confidentiality issues; I was given
+a good way to handle it.  My current task is drawing up the one-page
+overview and then checking that carefully for completeness and coverage.
+Once I am convinced it has no gaps pointing to holes in the theory,
+I will present it to my supervisors and I can finish it.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

@@ -1,0 +1,63 @@
+\documentclass[a4paper]{article}
+\usepackage{microtype}
+\usepackage{../../../../latex/loughry/loughry}
+\usepackage[greek,english,british]{babel}
+\usepackage{soul}
+\usepackage{xfrac}
+\usepackage{fullpage}
+\usepackage{mflogo}
+\usepackage[cyrpart]{cyrillic}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[version=3]{mhchem}
+\usepackage{cancel}
+\usepackage{chngpage}
+\usepackage{ifthen}
+\usepackage{lastpage}
+\usepackage{longtable}
+\usepackage{makeidx}
+\usepackage{nomencl}
+
+\usepackage{marvosym}
+
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{listings}
+
+\newfont{\realtiny}{cmss10 scaled 400}
+
+\usepackage{ulem}
+\normalem
+
+\usepackage[numbers,sort&compress]{natbib}
+\citeindextrue
+
+% booktabs is an improved table package.  See Fear2005 for documentation.
+\usepackage{booktabs}
+
+\usepackage[alsoload=binary,alsoload=astro]{siunitx}
+\newunit{\inch}{in{.}} % have to put full stop in braces inside \newunit
+\usepackage{textcomp}
+
+% added 20111204 for \thorn in thesis\_notes.tex:
+\usepackage{phonetic}
+
+% added 20120222.1524 for the 'comment' environment:
+\usepackage{verbatim}
+
+% added 20120519.1500 to get \varheart (a filled heart symbol) from the arev
+% font package without changing the whole math font:
+
+\DeclareSymbolFont{extraup}{U}{zavm}{m}{n}
+\DeclareMathSymbol{\varheart}{\mathalpha}{extraup}{86}
+\DeclareMathSymbol{\vardiamond}{\mathalpha}{extraup}{87}
+
+% source of the above hack:
+% \url{http://tex.stackexchange.com/questions/9641/filled-diamondsuit-and-heartsuit}
+
+\begin{document}
+
+\bibliographystyle{plainnat}
+

@@ -1,0 +1,38 @@
+weekly activity report 203 (loughry) 
+Joe Loughry 
+Sent: 25 August 2011 23:57 
+To: Niki.Trigoni@comlab.ox.ac.uk; Andrew Martin; Joanna Ashbourn 
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; hmbjuggler@yahoo.com;
+	tom.a.marso@lmco.com 
+
+Weekly activity report no. 20110825.1623 (GMT-7) sequence no. 0203, week 8+9 TT
+
+I put all the evidence I have together into a draft of Chapter 3 a few
+days ahead of when it needs to be turned in (29th Aug).  Now I am trying
+to smooth some of the rough edges.  Travel arrangements to Oxford have
+been made; I will be there 6th to 9th September for confirmation of
+status viva.  All of the necessary paperwork has been filed with the
+government security office for international travel.  I am to Fedex the
+written work ahead of time giving the assessors a week to look at it.
+
+Miscellaneous: the funding sponsor wants a poster by 6th September of
+the probabilistic redaction project; I owe the project manager a user
+guide for the software before it goes into acceptance testing next week.
+The legal department requested more details about a patent disclosure
+I filed and how it differs from an Adobe technology introduced in 2005;
+I have priority from 1999 but only if we write up a description of all
+prior art.  The 2011 student conference web site and submission system
+are now up and running; I am supposed to modify the LaTeX template and
+write submission guidelines for the programme committee.  I also updated
+the Oxford University Scientific Society web site for Michaelmas term.
+
+Meeting with Dr Martin tomorrow.  There are 20 weeks to submission.
+Upcoming travel: Oxford, 4th September; Rome, New York around 25th
+September.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford
+

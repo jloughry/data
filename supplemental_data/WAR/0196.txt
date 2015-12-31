@@ -1,0 +1,56 @@
+weekly activity report 196 (loughry) 
+Joe Loughry 
+Sent: 08 July 2011 03:15  
+To: Niki.Trigoni@comlab.ox.ac.uk; Andrew Martin; Joanna Ashbourn  
+Cc: otaschner@aol.com; anniecruz13@gmail.com; andrea@hpwtdogmom.org;
+	chip.auten@comcast.net; edloughry@aol.com; diane@dldrncs.com;
+	Joe Loughry; mmcauliffesl@comcast.net; hmbjuggler@yahoo.com;
+	tom.a.marso@lmco.com  
+
+Weekly activity report no. 20110707.1930 (GMT-7) sequence no. 0196, week 8+2 TT
+
+I met with Dr Martin today.  We hashed the three sub-parts of my thesis
+statement back and forth a few times, and talked about framing academic
+arguments.  I reported that the tenure of project managers in combined
+software development and certification & accreditation projects seems
+to be more important than first thought.  Corroborating my own evidence
+from the second and third case studies, a National Audit Office report
+published in the UK this week identified project manager turnover as an
+important contributing factor in the failure of the FiReControl project.
+This is supported by a recent IEEE paper by Weissman and Levin (2011)
+and a 2010 memorandum written by Maj. Gen. Flynn (USA) regarding DCGS-A.
+The aforementioned conclusion is an observational finding; the second
+part of the thesis is interpretive (claim: that the problem is inherent to
+cross domain system accreditation and manifests in repetitive re-testing)
+and finally the third part is prescriptive or exploratory (claim: it can
+be solved by means of controlled channels without violating the global
+security policy).  It is a well-balanced thesis.
+
+I have twenty-seven weeks left before the submission deadline.  That is
+enough time, but the immediate hurdle is confirmation of status.
+I received an email from the MPLS graduate office this week saying that
+they have processed my application and I can submit written work for
+the assessors any time.  Dr Martin and I agreed today that I will send
+the written work at the end of July.  To get there, the first thing to
+do is to give him the complete Chapter 2 by midnight Wednesday evening,
+followed by Chapter 3.  Next meeting set for 1500 BST (0800 MDT) Friday,
+15th July.
+
+The R'' developer's systems engineering manager reported this week that
+CDTAB findings on version 5.0.1 will be provided to the DSAWG next
+week for what is expected to be routine SABI approval.  This may be
+followed by some minor paperwork at the UCDMO, but it is expected that an
+updated baseline will be announced at the UCDMO conference next month.
+Interestingly, switch-out of the COTS LDAP server in favour of open
+source software is expected to greatly reduce the memory footprint in
+addition to being a significant cost savings per installation site.
+
+I owe the Air Force a quarterly progress report, which I will write
+tomorrow.  We are finishing the alternative network representation
+for demonstration of the redaction system at the UCDMO conference in a
+few weeks.
+
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford
+

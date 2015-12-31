@@ -1,0 +1,38 @@
+weekly activity report 312 (loughry)
+Joe Loughry
+Sent: 27 September 2013 01:58
+To: Joe Loughry
+
+Weekly activity report no. 20130926.1738 (GMT-7) sequence no. 0312 week -2 MT
+
+This week I have been improving the introduction and motivation
+in Chapter 1, fixing the macros that insert index entries throughout,
+pruning uncoded PDF files (something I forgot to do) from the evidence
+directory in preparation for including it, and thinking about the argument
+in Chapter 6; specifically, if certain stipulations---such as the minimum
+number of accreditors, or security clearance/classification dominance
+in the accreditor model, or the delay between testing and reporting and
+developers' responses in the certifier model, or the presence/lack of
+precursor communication during CT&E---are negated or changed, does the
+argument still hold? Only some of these tests are checkable by reference
+to the data, but I have to pre-emptively counter all of the objections
+before any reader is able to raise them. I have notes for improving
+the description of the methodology in Chapter 3, something the Examiners
+specifically called out, but have not entered those notes yet. I am trying
+to ensure throughout early chapters that the thesis is introduced right
+up front and successively reinforced by wave after wave of detail, i.e.,
+that I have established that a problem exists, that data are sufficient
+to solve it, that the particular methodology is necessary to handle
+the data, that the analysis was deep enough, that the interpretation is
+complete and sound, and that results are useful in the real world. I feel,
+however, that I am not making progress fast enough. No word from Tresys
+Technology in regard to my interview last week; I followed up with the
+company afterwards to indicate interest, but I expect them not to decide
+anything until Congress acts on the government's budget next week.
+
+Michaelmas term begins in two weeks.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

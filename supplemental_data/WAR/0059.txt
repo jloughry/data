@@ -1,0 +1,23 @@
+Weekly activity report no. 20081120.2028 (GMT) sequence no. 0059, week 6 MT
+
+I spent this week reading and catching up.  Security reading group this week met
+to hear a talk on timing attacks against web applications.  The speaker
+demonstrated exfiltration of data from behind a fairly strict firewall by three
+means: (1) observing the response time of repeated SQL injections; (2) tricking
+the target server into asking for recursive DNS lookups of nonsense host names
+that contained embedded hex strings; and (3) tunnelling SSH through
+reasonable-looking HTTP packets.  Nothing new in other words but it was
+interesting to see the attacks demonstrated live during the talk.  This was
+state of the art technique in 2001, but even today I bet most of them would
+still be effective.  No solutions were presented, other than (1) sanitise inputs
+and don't trust user-controllable data (obvious); and (2) keep up with the
+latest and employ your own clever attackers first.  It was a fairly
+disheartening demonstration of how far we still have to go.  He went right past
+a hardware token, e.g., SecurID, for example.  A good intrusion detection system
+would have triggered on the high level of anomalous activity required by his
+exfiltration channel.  Of course, that can be avoided if the attacker is patient.
+
+-- 
+Joe Loughry
+DPhil PRS, Computing Laboratory
+St Cross College, Oxford

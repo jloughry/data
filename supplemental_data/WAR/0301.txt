@@ -1,0 +1,36 @@
+weekly activity report 301 (loughry)
+Joe Loughry
+Sent: 12 July 2013 04:03
+To: Joe Loughry
+
+Weekly activity report no. 20130711.1954 (GMT-7) sequence no. 0301 week 8+4 TT
+
+I read some book chapters on reproducibility of results and data
+(vanDick2010, Perrow1995, Staw1995, Daft1995) that, combined with what
+was written in the examiners' draft report prompted some work on the
+methodology to fully describe the data access arrangement in place and
+agreements with Lockheed permitting use of the CS-1 data and export
+controls on carrying it and the CS-2 data internationally. I am still
+working on the improved network relation diagrams in ATLAS. Still no word
+on the final examiners' report from MPLS division, but Julie Sheppard
+has been keeping me informed. I am working on several chapters at the
+same time and I will send them to my supervisors as soon as possible.
+
+Reading group met this week to discuss 'A capability-based security
+approach to manage access control in the Internet of Things' by Gusmeroli,
+et al. (Math. & Comp. Modelling, 2013). Some interesting things we
+talked about on Skype included the whole idea of event-based expiration
+of authorisation tokens; and decoupling authority from reference, as in
+the old spy story trope of having the key to a safe deposit box in some
+city but not knowing where that box is. Anonymous capabilities can be
+used to implement pseudonymity---you can have a collection of anonymous
+CAPs to use as online identities, but there is a privacy problem if this
+scheme is anchored in a TPM.
+
+The IEEE conference paper I submitted in March has survived another
+round of peer review and is now in the final round.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

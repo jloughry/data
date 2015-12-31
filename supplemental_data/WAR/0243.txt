@@ -1,0 +1,51 @@
+weekly activity report 243 (loughry)
+Joe Loughry
+Sent: 01 June 2012 01:11
+To: Joe Loughry
+
+Weekly activity report no. 20120531.1428 (GMT-7) sequence no. 0243, week 6 TT
+
+I met with Dr Fléchais via Skype video to report progress on the
+data analysis and interpretation leading to a satisfactory model.
+I described the present hybrid method of working from paper to text
+file to qualitative analysis tool.  We discussed the breadth and depth
+of analysis necessary to satisfy internal and external examiners, and
+the size of my data set.  Dr Fléchais gave me advice on sizing and
+justifying my theory.  Notes on the development and convergence of my
+theory are useful and should be preserved in the methodological section
+of the dissertation.  I need to work on axial coding next; there are
+more items in my data set that support the discovered relation between
+processes & procedures and repeatable performance.
+
+The R-prime developer, at initiation of the validation project, had
+no process or procedures for preparing Common Criteria evaluation
+documentation.  Normally this developer is entirely policy, process,
+and procedure driven, in accordance with regular ISO and SEI audits.
+The commercial testing laboratory neither imposed nor provided a process
+or procedures beyond the formulae in CC Part 2 for enumerating security
+assurance requirements for a particular evaluation assurance level.
+The R' developer unsuccessfully attempted to resort to the common
+evaluation methodology.  The lack of a protection profile has emerged
+as a contributing factor, as was speculated very early on, but finally
+we have evidence of it and a plausible mechanism.  Security functional
+requirements, enclosed as they were by the evaluation boundary and
+minimised by (1) inference from published certification reports and
+security targets, (2) informed advice, and (3) common sense, were
+well bounded.  In contrast to the prior result, while the NIST SP
+800-37 certification of R-double-prime similarly lacked a defined and
+proven process and procedures and could have suffered accordingly, the
+certifier and developer were both aware of the fact that a post-DCID 6/3
+cross domain certification had never been done before and consequently
+worked together to a greater than normal extent to ensure the success
+of the inaugural certification effort under the new criteria.  In fact,
+it worked so well that we recommend future certifications use the same
+process and develop policies and procedures from the observed sequence
+of events.
+
+GSS report will be submitted today.  I have a meeting booked in a week
+with both supervisors to report finishing coding, I hope.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

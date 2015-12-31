@@ -1,0 +1,42 @@
+weekly activity report 222 (loughry) 
+Joe Loughry 
+Sent: 06 January 2012 01:47 
+To: Joe Loughry 
+
+Weekly activity report no. 20120105.1810 (GMT-7) sequence no. 0222, week -1 HT
+
+Presently working on Chapter 6, validation of SCAP compliance for cross
+domain systems.  It is expected to be done by 11th January.  I met with
+Dr Martin about the effort on Wednesday.  In writing it, I discovered a
+new recommendation that solves one of the existing problems with the way
+ST&E accreditation is continuously monitored after Beta 2.  I need to
+update my thesis outline in light of the revised schedule, but haven't
+had time.  We discussed using Google+ for multi-way video conferencing,
+and I said I would get a suggestion out tomorrow to the Reading Group
+mailing list for a paper for next week.  I need to meet with Dr Martin
+briefly again next week, and thereafter with Dr Fléchais for a few
+weeks when working on the analysis of CS-1.
+
+I contacted the person in charge of accredited laboratory validation
+of SCAP compliance testing at DIA. I am waiting for answers to some
+questions I wrote to them regarding deadlines.  I spoke with the R''
+developer's systems engineering manager one more time about the upcoming
+re-certification event, which is forced by the sunset listing on the UCDMO
+baseline in 2015.  The developer's main concern at this point is having
+a certifiable security policy for the new OS, and the potential conflict
+of interest between NSA's evaluation process and a subcontractor who
+specialises in writing security policies for developers.  The government
+programme office remains critically short of funding; the developer's
+staffing level has been cut, and other departments in the facility are
+similarly or worse affected.
+
+DGS should be signing my University card renewal any day; my current
+accesses expire at the end of next week.  I fixed some web site problems
+for the Oxford University Scientific Society caused by the new year
+rollover; today I met with Human Resources and the Engineering manager
+at Lockheed and formally received notice.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

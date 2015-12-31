@@ -1,0 +1,21 @@
+Weekly activity report no. 20080306.1851 sequence no. 0023 week 8 HT
+
+I am working on my transfer report, which I intend to have ready by this summer.
+  I have decided that my thesis is going to be about IT certification and
+accreditation (C&A) schemes including the Common Criteria: why it's so hard, and
+how it can be done better.  I have a case study, a recent evaluation effort that
+went disastrously wrong.  This week I got permission from my employer to use
+that data.
+
+I met with Dr Martin last week and we discussed how to look for a good thesis
+problem in it.  It has to be something achievable, and there has to be a likely
+method of attack.  I think I'm on something good, but the problem and attack
+need to be developed more.  Just getting access to the data was a significant
+worry, because failures tend to want to be buried.  But engineering learns from
+failures, and I finally convinced the owners of the data that publication would
+work to their advantage.
+
+-- 
+Joe Loughry
+DPhil PRS, Computing Laboratory
+St Cross College, Oxford

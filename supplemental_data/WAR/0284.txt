@@ -1,0 +1,31 @@
+weekly activity report 284 (loughry)
+Joe Loughry
+Sent: 15 March 2013 03:50
+To: Joe Loughry
+
+Weekly activity report no. 20130314.2120 (GMT-6) sequence no. 0284 week 8+1 HT
+
+I submitted an abstract to IEEE HST'13 (Boston, 12--14 November 2013)
+in the cyber security track.  My UK visa was approved and passport
+returned with a new stamp.  This week I received a letter notifying me
+that my thesis has been forwarded to the examiners.  A small item I wrote
+about daylight saving time errors in radio controlled clocks appeared in
+RISKS 27.19.  I am working on the new paper and associated figures, which
+describe the accreditor model in a different way now as establishing the
+visibility of threats, vulnerabilities, and mitigations from each data
+owner's perspective according to the associated accreditor's clearance
+over the space of all possible multi-level configurations, after which
+we find the smallest set of covert-channel--like information flows
+necessary to reach a concord about residual risk without violating
+the global security policy.  I made a new contact at Quest Software,
+in Seattle, who wanted to talk to me about a possible application to the
+problem of compliance monitoring.  I talked with Jun this week about some
+smart grid, SCADA, and cloud security needs that I know of at Lockheed.
+I have been making a list of specific topics I could teach in case that
+question should arise.  I volunteered a paper on Common Criteria mutual
+recognition problems for the next reading group.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

@@ -1,0 +1,38 @@
+weekly activity report 307 (loughry)
+Joe Loughry
+Sent: 23 August 2013 03:36
+To: Joe Loughry
+
+Weekly activity report no. 20130822.1932 (GMT-7) sequence no. 0307 week 8+10 TT
+
+I am back to writing after having got distracted by library research away
+from it for a time. Thanks to prodding from my supervisors, early this
+week I went through Chapter 1 and most of Chapter 3 with a highlighter
+and marked every place that needs to change as a result of (1) examiner
+comments in the report, (2) marginal notes in the examiner copy, or (3)
+revisions I already agreed to make after the viva. I am now revising and
+will send updated PDF files to Dr Martin and Dr Fléchais as soon as they
+are done. I intend to re-submit the thesis no later than the earliest
+date permitted, the beginning of Michaelmas term. The mystery of the
+missing results letter was cleared up this week when it showed up again
+at the Exam Schools, returned for 'insufficient address information'. I
+verified my postal address in the University's system, and it is correct;
+it must have been a mistake by the US Post Office. I spoke with the Exam
+Schools about it and I have a scanned copy of the entire letter.
+
+Reading group looked at the poster paper by Jedrzejczyk, et al. on
+accelerometer usability from MobileHCI '10. I had a follow-on discussion
+with Andrew Paverd about it regarding privacy effects of other sensors
+(electrochemical, radar, spectroscopic) projected to become common in
+mobile devices in a few years, judging from component manufacturers'
+catalogues.
+
+Aside from thesis writing, which I am back to doing, I have one outside
+deadline, about two weeks from now, to submit final copy to the IEEE
+HST'13 conference (and to shorten it by a page). Not working on that
+right now.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

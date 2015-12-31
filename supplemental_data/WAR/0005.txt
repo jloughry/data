@@ -1,0 +1,81 @@
+Weekly activity report no. 20071025.01 sequence no. 0005 week 3 MT
+
+I promised before to keep you informed early if I were to start missing
+deadlines or falling behind (that is the purpose of the status reporting
+webpage, still not set up, but I will get it done as soon as I get
+caught up), so I am trying to hold to that promise.
+
+Status for this week: struggling to catch up after missing a couple of
+lectures in Functional Programming and Computer-Aided Formal
+Verification (due to previously described hospital visit and follow-up
+appointments).  Miranda, at least, is doing fine now---she's back to
+climbing on the furniture---but I have some catching-up to do.
+
+Here are my current priorities:
+
+Priority 1: Computer-Aided Formal Verification (CAFV): I missed the
+first class assignment (Dr. Ashbourn, you will undoubtedly see the
+report of that when it comes to the college).  I have spoken with the
+lecturer, Prof. Melham, about it, and my plan is to complete the
+assignment anyway.  It's not a matter of grades, but rather I need to
+learn this material (tightly related to model checking, which is a very
+important thing I need to learn now).  Upshot: I should be able to get
+completely caught up before Monday.
+
+Priority 2: Functional Programming (FP): Due to a time conflict, I can't
+attend the scheduled class, although I have not missed any lectures or
+practicals.  I am a little behind in the practicals and reading, but I
+will have that caught up by tomorrow.  Upshot: I am nearly caught up
+with this one.
+
+Priority 3: Software Engineering Maths: I am way behind on my reading.
+I must get caught up on this as soon as possible, because I have only
+two or three weeks before the SDE module (intensive one-week course that
+depends on Software Engineering Maths) starts.  Upshot: Starting Monday
+(after I have caught up with FP and CAFV), I will get cracking on
+Software Engineering Maths.
+
+Priority 4: I
+
+Other activities that happened this past week:
+
+Besides regular courses, I attended several special lectures at the
+Comlab, including Donald Knuth (very exciting to meet the author of TeX
+ask him a question about Volume 4), Rod Chapman from Praxis
+(inspiring!), a couple of presentations by other DPhil students, and the
+Security Engineering Reading Group organized by Dr. Martin in his office.
+
+Afterward, I talked with Dr. Martin for a little while about plans and
+directions.  I think I very much want to use SPARK Ada for my thesis,
+but I don't know anymore what my thesis should be about.  (I used to
+know, but since then I've learned some, and now I don't know as much as
+I used to.)  Dr. Martin gave me a new book to read (David Grawrock, the
+Intel Safer Computing Initiative) which looks extremely interesting and
+I am going to finish it just as soon as I get caught up with lectures
+and with Software Engineering Maths first.
+
+Summary: I am behind where I want to be, running hard to catch up, and
+feeling like I ought to know what my thesis topic is already, but I don't.
+
+P.S.  Ideas for the future: here is a conference that I'd like to go to,
+but definitely do not have time for:
+
+**********Conferences and Events**********
+
+SIGADA Conference on the Ada Programming Language
+
+ACM SIGAda 2007
+
+high-integrity, secure and safe systems software.
+
+Tutorials will cover Ada Web Services, Security by
+Construction, and Languages for Safety-Critical Software. Scheduled
+keynote speakers are Joe Jarzombek, Department of Homeland Security;
+Jeff O'Leary, Federal Aviation Administration; and Rod Chapman, Praxis
+High Integrity.
+
+SIGAda 2007 takes place November 4 to 9 in Fairfax, Virginia, and is
+sponsored by ACM's Special Interest Group on Ada.
+(http://www.sigada.org/conf/sigada2007/)
+
+-Joe Loughry

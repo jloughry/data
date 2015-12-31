@@ -1,0 +1,37 @@
+weekly activity report 357 (loughry)
+Joe Loughry
+Sent: 08 August 2014 06:54
+To: Ivan Flechais; Niki Trigoni; Andrew Martin; Joanna Ashbourn
+
+Weekly activity report no. 20140807.2314 (GMT-7) sequence no. 0357, week 8+7 TT
+
+Several reasons for the emergence of implicit channels in the CT&E
+activity have become clear. They are the inefficiency of the required
+formal channels, the relative insufficiency of their capacity given
+typical schedules (which pressure directly leads to the emergence of
+implicit channels carrying forerunner communication in order to meet
+the schedule), and the emergence of channel coding for security of the
+sender of forerunner communication, the key for which is supplied by
+the difference between 'product' and 'process' knowledge. The fragility
+of implicit channels serves no positive purpose, but the fact of their
+existence in spite of the drawbacks argues for their necessity.
+
+Speaking of the difference between product and process knowledge (although
+from the other direction), as a footnote, it seems necessary to reassess,
+in light of the catalogue of NSA's TAO capabilities that was published
+recently, the developer's perception of the government security testers'
+attitude of arrogance toward non-government insiders. It provides a
+second example, and a verifiable one, of the developer's limited view
+and of the asymmetry of knowledge inherent in CT&E.
+
+I was granted a new patent this week, for 'Nested Digital Signatures
+with Constant File Size', US 8,793,499 B2 (assigned to the Lockheed
+Martin Corporation). It has applications to reliable human review of
+satellite imagery.
+
+Status: working on Chapter 5, and some on Chapters 6 and 7.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

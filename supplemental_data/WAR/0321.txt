@@ -1,0 +1,31 @@
+weekly activity report 321 (loughry)
+Joe Loughry
+Sent: 29 November 2013 01:49
+To: Joe Loughry
+
+Weekly activity report no. 20131128.1828 (GMT-7) sequence no. 0321, week 7 MT
+
+I sent the first two chapters of my thesis to my supervisors
+this week. The next chapter (on methodology) will be sent probably
+tomorrow. GSS report has been submitted. I need to renew my student visa
+with the student immigration office.
+
+Reading group this week covered Deena Alghamdi's transfer report
+on familial security in the Saudi and UK banking systems. There is
+insufficient information to compute the statistical significance of
+the reported five incidents per month in one bank branch (which looks
+like 0.25 percent to 0.3 percent of customers in the branch, or sixty
+incidents per year) but if 1000 customers is the typical size of a branch,
+then interviews with at most 400 branch managers should be sufficient to
+establish a .95 confidence level for an effect of such a small size. It
+would be interesting to know if the branch manager whom Deena spoke with
+can see all of the incidents in that branch, and to know the fraction of
+customers visiting that branch per month, the total number of customers
+handled by the branch, and the number of branches in the country. I would
+also like to know the relative incidence in the UK and KSA compared with
+those of eastern Europe, Asia, and South American regions.
+
+Joe Loughry
+Doctoral Student in the Department of Computer Science
+St Cross College, Oxford
+

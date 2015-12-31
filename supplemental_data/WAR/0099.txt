@@ -1,0 +1,35 @@
+Weekly activity report no. 20090828.0049 (GMT-7) sequence no. 0099, week 8+10 TT
+
+I want to attend the 25th ACSAC (Annual Computer Security Applications
+Conference) in December in Hawaii.  I just found out that David Kleidermacher of
+Green Hills Software is giving a paper at the conference on lessons learnt from
+their EAL 6+ evaluation.  I talked with Mr Kleidermacher quite a lot at the
+Trust 2009 conference a few months ago; he finally wrote the paper.
+
+The deadline for paper submissions is past, but the deadline for posters is 18th
+September.  I have never done a poster presentation, but I am reading about how
+to do them and I think I can make the deadline.  I can pay my own way to the
+conference but I will see if I can get my employer, my college, or the
+department to help with the cost.  The timing is extremely tight if I want to
+get my submission reviewed by government security, but I want to try.  I will
+discuss this with Dr Martin in our regular weekly meeting tomorrow.
+
+I have spent far too much time on Lockheed work in the past 10 days; I must get
+back on schedule ASAP.
+
+To-Do List (abbreviated):
+
+1. Poster submission
+
+2. Pre-pub review
+
+3. Crosstalk article draft, review, and submission
+
+4. Methodology chapter
+
+5. Reading, write survey questions, conduct interviews, prototyping.
+
+-- 
+Joe Loughry
+Doctoral student in the Computing Laboratory
+St Cross College, Oxford

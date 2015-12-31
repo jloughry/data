@@ -1,0 +1,17 @@
+Weekly activity report no. 20071206.1642 sequence no. 0011 week 9 MT
+
+Currently working on assignments for the Safety Critical Systems (SCS), and
+Specification and Design (SDE) courses.  To these ends I am working with three Z
+tools (alloy, fuzz, and jape), playing with some ideas for Z description of UNIX
+makefiles, and reading the Perrow book.
+
+Next week: Design for Security (DES) course all week.
+
+Books I am reading this week: _Normal Accidents: Living with High-Risk
+Technologies_ by Charles Perrow; and _Ignition!: An Informal History of Liquid
+Rocket Propellants_ by John D. Clark.
+
+-- 
+Joe Loughry
+DPhil PRS, Computer Science
+St Cross College
